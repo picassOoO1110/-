@@ -1,0 +1,690 @@
+index,predicted,true_label
+0,lead,senior
+1,experienced,experienced
+2,entry level,entry level
+3,senior,senior
+4,entry level,intermediate
+5,30-30-THB-HOURLY,experienced
+6,experienced,experienced
+7,entry-level,entry level
+8,entry level,entry level
+9,experienced,experienced
+10,senior,senior
+11,intermediate,experienced
+12,experienced,experienced
+13,lead,senior
+14,entry level,trainee
+15,lead,experienced
+16,intermediate,experienced
+17,intermediate,intermediate
+18,entry level,apprentice
+19,entry level,entry level
+20,entry level,entry level
+21,entry level,entry level
+22,experienced,experienced
+23,experienced,experienced
+24,entry level,experienced
+25,experienced,experienced
+26,entry level,graduate
+27,senior,senior
+28,senior,senior
+29,intermediate,intermediate
+30,senior,head
+31,experienced,senior
+32,intermediate,supervisor
+33,lead,lead
+34,experienced,experienced
+35,entry level,entry level
+36,intermediate,experienced
+37,entry level,trainee
+38,0-0-None-None,entry level
+39,0-0-None-None,intermediate
+40,entry level,experienced
+41,entry level,entry level
+42,entry level,experienced
+43,experienced,lead
+44,senior,senior
+45,entry level,entry level
+46,experienced,experienced
+47,entry level,assistant
+48,experienced,intermediate
+49,100768-109781-AUD-ANNUAL,intermediate
+50,experienced,experienced assistant
+51,entry-level,assistant
+52,entry level,intermediate
+53,entry level,lead
+54,experienced,entry level
+55,entry level,experienced
+56,lead,senior
+57,experienced,experienced
+58,experienced,experienced
+59,intermediate,assistant
+60,experienced,intermediate
+61,entry level,entry level
+62,lead,senior
+63,entry level,intermediate
+64,intermediate,experienced
+65,intermediate,experienced
+66,lead,experienced
+67,intermediate,junior
+68,senior,senior
+69,intermediate,intermediate
+70,experienced,senior
+71,intermediate,experienced
+72,intermediate,lead
+73,senior,senior
+74,intermediate,intermediate
+75,intermediate,experienced
+76,entry level,associate
+77,entry level,junior
+78,intermediate,experienced
+79,experienced,senior
+80,experienced,intermediate
+81,intermediate,junior
+82,entry level,trainee
+83,head,director
+84,intermediate,experienced
+85,entry level,graduate/junior
+86,intermediate,intermediate
+87,entry level,intermediate
+88,experienced,senior
+89,entry level,experienced
+90,intermediate,experienced
+91,entry level,entry level
+92,entry level,entry level
+93,lead,lead
+94,entry level,entry-level
+95,experienced,experienced
+96,lead,senior
+97,experienced,senior
+98,junior,assistant
+99,entry level,experienced
+100,intermediate,experienced
+101,entry level,entry level
+102,senior,senior
+103,senior,senior
+104,senior,head
+105,experienced,experienced
+106,experienced,experienced
+107,entry level,assistant
+108,entry level,junior
+109,entry level,entry level
+110,intermediate,intermediate
+111,experienced,lead
+112,intermediate,experienced
+113,experienced,senior
+114,experienced,experienced
+115,senior,senior
+116,entry level,entry level
+117,intermediate,intermediate
+118,senior,senior
+119,0-0-None-None,experienced
+120,experienced,experienced
+121,entry level,entry level
+122,entry level,entry level
+123,entry level,entry level
+124,entry-level,entry level
+125,experienced,experienced
+126,experienced,lead
+127,entry level,assistant
+128,intermediate,experienced
+129,intermediate,intermediate
+130,experienced,intermediate
+131,entry level,graduate/junior
+132,experienced,experienced
+133,intermediate,intermediate
+134,entry-level,intermediate
+135,lead,manager
+136,intermediate,intermediate
+137,intermediate,intermediate
+138,intermediate,experienced
+139,experienced,experienced
+140,senior,senior
+141,experienced,experienced
+142,lead,assistant
+143,intermediate,entry-level to intermediate
+144,intermediate,experienced
+145,experienced,junior
+146,lead,head
+147,intermediate,assistant
+148,intermediate,experienced
+149,lead,senior
+150,entry level,assistant
+151,entry level,assistant
+152,entry level,entry level
+153,entry level,apprentice
+154,intermediate,intermediate
+155,45000-45000-AUD-ANNUAL,assistant
+156,entry level,experienced
+157,senior,senior
+158,experienced,experienced
+159,senior,senior
+160,intermediate,intermediate
+161,lead,senior
+162,entry level,entry level
+163,experienced,experienced
+164,intermediate,intermediate
+165,experienced,intermediate
+166,entry level,junior
+167,entry level,entry level
+168,senior,experienced
+169,experienced,intermediate
+170,intermediate,intermediate
+171,entry level,entry level
+172,senior,lead
+173,intermediate,experienced
+174,entry level,entry level
+175,intermediate,experienced
+176,lead,lead
+177,24-24-AUD-HOURLY,intermediate
+178,entry level,trainee
+179,experienced,experienced
+180,experienced,experienced
+181,senior,senior
+182,entry level,assistant
+183,experienced,intermediate
+184,entry-level,entry level
+185,experienced,experienced
+186,60-65-THOUSAND-ANNUAL,senior
+187,100000-100000-AUD-ANNUAL,head
+188,experienced,experienced
+189,experienced,senior
+190,experienced,intermediate
+191,entry level,graduate
+192,entry level,student
+193,intermediate,intermediate
+194,intermediate,intermediate
+195,intermediate,experienced
+196,experienced,senior
+197,30-35-AUD-HOURLY,intermediate
+198,experienced,senior
+199,entry level,experienced
+200,experienced,specialist
+201,50-50-None-None,intermediate
+202,lead,head
+203,intermediate,intermediate
+204,experienced,experienced
+205,entry level,experienced
+206,lead,senior lead
+207,junior,junior
+208,experienced,experienced
+209,intermediate,lead
+210,junior,junior-intermediate
+211,senior,senior
+212,experienced,experienced
+213,entry level,graduate
+214,experienced,experienced
+215,entry level,intermediate
+216,entry level,experienced
+217,intermediate,intermediate
+218,experienced,senior
+219,intermediate,intermediate
+220,intermediate,assistant
+221,lead,head
+222,0-0-None-None,experienced
+223,entry level,junior
+224,senior,senior
+225,entry level,entry level
+226,senior,senior
+227,intermediate,intermediate
+228,intermediate,experienced
+229,entry level,experienced
+230,entry level,entry level
+231,senior,senior
+232,intermediate,entry level
+233,senior,senior
+234,entry level,entry level
+235,25-43-THB-HOURLY,experienced
+236,senior,senior
+237,entry level,experienced
+238,entry level,experienced
+239,lead,lead
+240,lead,experienced
+241,lead,associate director
+242,senior,intermediate
+243,intermediate,intermediate
+244,senior,intermediate
+245,entry level,intermediate
+246,intermediate,experienced
+247,entry level,intermediate
+248,entry level,intermediate
+249,lead,executive
+250,head,head
+251,entry level,intermediate
+252,experienced,senior
+253,experienced,experienced
+254,entry level,senior
+255,experienced,intermediate
+256,entry level,apprentice
+257,85-106-THOUSAND-ANNUAL,intermediate
+258,senior,senior
+259,30-30-AUD-HOURLY,experienced
+260,experienced,experienced
+261,20-25-AUD-HOURLY,experienced
+262,senior,senior
+263,experienced,senior
+264,entry level,intermediate
+265,experienced,experienced
+266,experienced,intermediate
+267,entry level,intermediate
+268,100000-120000-AUD-ANNUAL,senior
+269,lead,principal
+270,entry level,intermediate
+271,experienced,intermediate
+272,intermediate,intermediate
+273,intermediate,intermediate
+274,experienced,experienced
+275,experienced,intermediate
+276,intermediate,experienced
+277,senior,senior
+278,80-90-THB-ANNUAL,junior
+279,experienced,intermediate
+280,entry level,experienced
+281,entry level,intermediate
+282,entry level,intermediate
+283,entry level,intermediate
+284,entry level,intermediate
+285,intermediate,intermediate
+286,lead,lead
+287,entry level,entry level
+288,intermediate,experienced
+289,entry level,entry-level
+290,senior,senior
+291,entry level,entry level
+292,entry level,entry level
+293,senior,senior
+294,senior,senior
+295,senior,principal
+296,entry level,entry level
+297,intermediate,intermediate
+298,intermediate,intermediate
+299,experienced,experienced
+300,experienced,experienced
+301,intermediate,experienced
+302,lead,senior
+303,intermediate,experienced
+304,senior,lead
+305,entry level,intermediate
+306,intermediate,junior
+307,lead,experienced
+308,experienced,experienced
+309,intermediate,experienced
+310,intermediate,intermediate
+311,intermediate,intermediate
+312,experienced,intermediate
+313,intermediate,intermediate
+314,experienced,experienced
+315,30-30-AUD-HOURLY,intermediate
+316,experienced,lead
+317,experienced,experienced
+318,experienced,senior
+319,entry level,experienced
+320,entry level,entry level
+321,experienced,intermediate
+322,junior,junior
+323,intermediate,experienced
+324,experienced,experienced
+325,entry level,assistant
+326,intermediate,experienced
+327,lead,chief
+328,entry level,assistant
+329,intermediate,experienced
+330,senior,senior
+331,senior,senior
+332,entry level,graduate
+333,25-30-THB-HOURLY,senior
+334,experienced,experienced
+335,lead,lead
+336,experienced,experienced
+337,entry level,intermediate
+338,entry level,entry level
+339,entry-level,assistant
+340,entry level,intermediate
+341,entry level,entry level
+342,entry level,junior
+343,lead,director
+344,lead,head
+345,entry level,entry level
+346,experienced,lead
+347,senior,lead
+348,entry level,entry level
+349,head,head
+350,intermediate,experienced
+351,experienced,experienced
+352,lead,assistant
+353,intermediate,junior
+354,entry level,intermediate
+355,intermediate,associate
+356,experienced,experienced
+357,senior,senior
+358,entry level,junior
+359,senior,principal
+360,experienced,senior
+361,experienced,junior-to-intermediate
+362,intermediate,intermediate
+363,"64,590-84,390-AUD-ANNUAL",entry level
+364,intermediate,junior
+365,experienced,head
+366,intermediate,assistant
+367,experienced,experienced
+368,55-60-THB-ANNUAL,experienced
+369,intermediate,experienced
+370,intermediate,experienced
+371,lead,independent
+372,experienced,experienced
+373,entry level,entry level
+374,intermediate,experienced
+375,experienced,experienced
+376,experienced,experienced
+377,entry level,entry level
+378,entry level,entry level
+379,entry level,experienced
+380,experienced,intermediate
+381,experienced,experienced
+382,intermediate,experienced
+383,lead,experienced
+384,experienced,experienced
+385,experienced,intermediate
+386,entry level,entry level
+387,entry level,assistant
+388,intermediate,intermediate
+389,entry level,entry level
+390,experienced,senior
+391,entry level,intermediate
+392,experienced,senior
+393,senior,lead
+394,entry level,experienced
+395,lead,lead
+396,30-35-NZD-HOURLY,intermediate
+397,intermediate,senior
+398,entry level,intermediate
+399,lead,associate-director
+400,experienced,experienced
+401,lead,senior
+402,senior,senior
+403,entry level,third-year apprentice
+404,experienced,intermediate
+405,experienced,intermediate
+406,senior,associate
+407,50-55-THOUSAND-ANNUAL,experienced assistant
+408,experienced,senior
+409,entry level,entry level
+410,lead,senior
+411,experienced,senior
+412,entry level,entry level
+413,experienced,experienced
+414,senior,senior
+415,experienced,head
+416,entry level,early-career
+417,experienced,experienced
+418,experienced,experienced
+419,experienced,intermediate
+420,entry level,experienced
+421,intermediate,cadet
+422,senior,senior
+423,experienced,senior
+424,entry level,entry level
+425,entry level,entry level
+426,experienced,experienced
+427,entry level,assistant
+428,experienced,experienced
+429,entry level,senior
+430,experienced,deputy
+431,senior,principal
+432,experienced,intermediate
+433,experienced,intermediate
+434,experienced,experienced
+435,intermediate,assistant
+436,senior,experienced
+437,lead,assistant
+438,intermediate,intermediate
+439,entry level,assistant
+440,intermediate,lead
+441,intermediate,experienced
+442,intermediate,intermediate
+443,entry level,experienced
+444,entry level,experienced
+445,senior,senior
+446,entry level,experienced
+447,experienced,experienced
+448,experienced,experienced
+449,intermediate,entry level
+450,experienced,experienced
+451,experienced,experienced
+452,experienced,experienced
+453,entry level,trainee
+454,entry level,entry level
+455,entry level,assistant
+456,experienced,experienced
+457,entry-level,assistant
+458,lead,executive
+459,25-30-None-None,senior
+460,intermediate,intermediate
+461,entry level,entry level
+462,75-85-THB-THB-MONTHLY,intermediate
+463,experienced,intermediate
+464,entry level,entry level
+465,senior,experienced
+466,intermediate,intermediate
+467,intermediate,experienced
+468,entry level,assistant
+469,experienced,intermediate
+470,entry level,entry level
+471,experienced,experienced
+472,entry level,experienced
+473,entry level,intermediate
+474,intermediate,intermediate
+475,senior,senior
+476,lead,associate director
+477,experienced,intermediate
+478,senior,senior
+479,entry level,trainee
+480,lead,intermediate
+481,entry level,supervisor
+482,entry level,intermediate
+483,head,head
+484,intermediate,intermediate
+485,entry level,entry level
+486,entry level,trainee
+487,intermediate,experienced
+488,entry level,intermediate
+489,entry level,entry level
+490,entry level,intermediate
+491,experienced,experienced
+492,experienced,experienced
+493,experienced,associate
+494,senior,intermediate
+495,intermediate,lead
+496,22-24-NZD-HOURLY,intermediate
+497,lead,lead
+498,lead,lead
+499,30-33-THB-HOURLY,intermediate
+500,intermediate,intermediate
+501,entry level,junior
+502,intermediate,intermediate
+503,intermediate,experienced
+504,lead,head
+505,intermediate,intermediate
+506,experienced,experienced
+507,0-0-None-None,intermediate
+508,senior,intermediate
+509,lead,senior
+510,75-85-NZD-ANNUAL,intermediate
+511,experienced,intermediate
+512,entry level,intermediate
+513,entry level,cadet
+514,intermediate,intermediate
+515,senior,experienced
+516,experienced,experienced
+517,senior,senior
+518,senior,senior/principal
+519,senior,senior
+520,0-0-None-None,senior
+521,experienced,intermediate
+522,experienced,experienced
+523,entry level,entry level
+524,entry level,experienced
+525,intermediate,experienced
+526,lead,principal
+527,senior,head
+528,lead,executive
+529,intermediate,intermediate
+530,senior,senior
+531,senior,intermediate
+532,intermediate,experienced
+533,intermediate,intermediate
+534,intermediate,experienced
+535,lead,intermediate management
+536,entry level,junior
+537,25-25-AUD-HOURLY,experienced
+538,intermediate,experienced
+539,experienced,intermediate
+540,experienced,senior
+541,intermediate,intermediate
+542,experienced,experienced
+543,entry level,entry level
+544,head,director
+545,experienced,experienced
+546,entry level,entry level
+547,experienced,senior
+548,experienced,experienced
+549,entry level,experienced
+550,entry level,graduate
+551,lead,senior lead
+552,entry level,intermediate
+553,experienced,intermediate
+554,entry level,entry level
+555,experienced,senior
+556,lead,head
+557,25-25-AUD-HOURLY,experienced
+558,0-0-None-None,intermediate
+559,lead,senior
+560,experienced,experienced
+561,68-75-THOUSAND-ANNUAL,experienced
+562,experienced,intermediate
+563,entry level,entry level
+564,experienced,experienced
+565,experienced,experienced
+566,entry level,trainee
+567,entry level,experienced
+568,intermediate,lead
+569,30-50-AUD-HOURLY,experienced
+570,intermediate,experienced
+571,experienced,experienced
+572,40-49-THOUSAND-ANNUAL,entry level
+573,assistant,experienced
+574,entry level,experienced
+575,intermediate,intermediate
+576,lead,lead
+577,experienced,intermediate
+578,experienced,intermediate
+579,entry level,intermediate
+580,senior,experienced
+581,intermediate,experienced
+582,senior,senior
+583,lead,head
+584,experienced,experienced
+585,senior,lead
+586,entry level,entry level
+587,entry level,intermediate
+588,entry level,entry level
+589,senior,senior
+590,senior,senior
+591,experienced,senior
+592,experienced,experienced
+593,experienced,senior
+594,intermediate,senior
+595,entry level,intermediate
+596,lead,director
+597,experienced,experienced
+598,senior,senior
+599,intermediate,senior
+600,lead,senior
+601,intermediate,specialist
+602,experienced,experienced
+603,experienced,experienced
+604,intermediate,experienced
+605,lead,senior
+606,head,chief
+607,experienced,experienced
+608,lead,intermediate
+609,intermediate,experienced
+610,junior,experienced
+611,experienced,experienced
+612,lead,senior
+613,intermediate,intermediate
+614,senior,senior
+615,lead,lead
+616,experienced,experienced
+617,entry level,trainee
+618,entry level,experienced
+619,intermediate,entry level
+620,experienced,experienced
+621,intermediate,intermediate
+622,experienced,experienced
+623,intermediate,advanced
+624,lead,executive
+625,experienced,experienced
+626,intermediate,senior
+627,entry level,intermediate
+628,entry level,intermediate
+629,senior,senior
+630,entry level,intermediate
+631,experienced,experienced
+632,intermediate,entry level
+633,lead,senior
+634,experienced,intermediate
+635,lead,lead
+636,experienced,experienced
+637,entry level,supervisor
+638,entry level,entry level
+639,entry level,assistant
+640,intermediate,experienced
+641,experienced,experienced
+642,entry level,retired
+643,entry level,entry level
+644,experienced,experienced
+645,entry level,intermediate
+646,entry level,intermediate
+647,head,senior
+648,experienced,intermediate
+649,entry level,associate
+650,experienced,intermediate
+651,intermediate,experienced
+652,entry level,1st year apprentice
+653,experienced,experienced
+654,lead,head
+655,intermediate,intermediate
+656,lead,senior
+657,entry level,trainee
+658,head,chief
+659,experienced,experienced
+660,experienced,experienced
+661,experienced,experienced
+662,lead,head
+663,experienced,experienced
+664,entry level,experienced
+665,senior,senior
+666,entry level,entry level
+667,entry level,intermediate
+668,experienced,experienced
+669,entry level,intermediate
+670,entry level,experienced
+671,lead,head
+672,senior,senior
+673,30-32-AUD-HOURLY,intermediate
+674,50-50-None-None,experienced
+675,head,head
+676,senior,senior
+677,40-45-AUD-HOURLY,experienced
+678,intermediate,lead
+679,intermediate,experienced
+680,intermediate,assistant
+681,experienced,experienced
+682,30-40-AUD-HOURLY,experienced
+683,experienced,experienced
+684,experienced,experienced
+685,entry level,entry level
+686,0-0-None-None,senior
+687,entry level,associate
+688,entry level,graduate
