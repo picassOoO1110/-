@@ -1,0 +1,690 @@
+index,predicted,true_label
+0,senior senior senior senior senior senior senior senior senior senior,senior
+1,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+2,entry level your_predict = entry level your_predict = entry level your_predict = entry level your_,entry level
+3,senior senior senior senior senior senior senior senior senior senior,senior
+4,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+5,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+6,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+7,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+8,entry level classification_name: Healthcare & Medical,entry level
+9,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+10,senior senior senior senior senior senior senior senior senior senior,senior
+11,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+12,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+13,senior senior senior senior senior senior senior senior senior senior,senior
+14,trainee trainee,trainee
+15,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+16,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+17,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+18,apprentice apprentice,apprentice
+19,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+20,entry level your_predict: entry level your_predict: entry level your_predict: entry level your_,entry level
+21,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+22,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+23,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+24,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+25,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+26,graduate graduate graduate graduate graduate graduate graduate graduate,graduate
+27,senior senior senior senior senior senior senior senior senior senior,senior
+28,senior senior senior senior senior senior senior senior senior senior,senior
+29,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+30,head head head,head
+31,senior senior senior senior senior senior senior senior senior senior,senior
+32,senior senior senior senior senior senior senior senior senior senior,supervisor
+33,"lead lead The job title ""Solutions Specialist & Card Operations Team Leader (682-668)""",lead
+34,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+35,entry level entry level entry level,entry level
+36,experienced experienced experienced,experienced
+37,trainee trainee,trainee
+38,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+39,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+40,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+41,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+42,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+43,lead lead lead lead lead lead lead lead lead lead,lead
+44,senior senior senior senior senior senior senior senior senior senior,senior
+45,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+46,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+47,assistant assistant assistant assistant assistant assistant assistant assistant assistant assistant,assistant
+48,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+49,"intermediate intermediate intermediate The job title ""Student Marketing Officer"" at the University of Sydney is classified as an ""inter",intermediate
+50,experienced assistant experienced assistant experienced assistant experienced assistant experienced assistant experienced assistant experienced assistant experienced assistant,experienced assistant
+51,assistant assistant assistant assistant assistant assistant assistant assistant assistant assistant,assistant
+52,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+53,lead lead,lead
+54,entry level entry level,entry level
+55,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+56,senior senior senior senior senior senior senior senior senior senior,senior
+57,experienced experienced,experienced
+58,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+59,assistant assistant assistant assistant assistant assistant assistant assistant assistant assistant,assistant
+60,intermediate intermediate intermediate,intermediate
+61,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+62,senior senior senior senior senior senior senior senior senior senior,senior
+63,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+64,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+65,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+66,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+67,junior junior junior junior junior junior junior junior junior junior,junior
+68,senior senior senior senior senior senior senior senior senior senior,senior
+69,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+70,senior senior senior senior senior senior senior senior senior senior,senior
+71,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+72,lead lead,lead
+73,senior senior senior senior senior senior senior senior senior senior,senior
+74,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+75,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+76,associate associate associate associate associate associate associate associate associate associate,associate
+77,junior junior,junior
+78,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+79,senior senior senior senior senior senior senior senior senior senior,senior
+80,senior senior senior senior senior senior senior senior senior senior,intermediate
+81,junior junior junior,junior
+82,trainee trainee trainee trainee trainee trainee,trainee
+83,director director director director director director director director director director,director
+84,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+85,"graduate/junior classification_name: Manufacturing, Transport & Logistics",graduate/junior
+86,intermediate intermediate intermediate,intermediate
+87,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+88,senior senior senior senior senior senior senior senior senior senior,senior
+89,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+90,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+91,entry level entry level,entry level
+92,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+93,lead lead,lead
+94,entry-level entry-level,entry-level
+95,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+96,senior senior senior senior senior senior senior senior senior senior,senior
+97,senior senior senior senior senior senior senior senior senior senior,senior
+98,assistant assistant assistant assistant assistant assistant assistant assistant assistant assistant,assistant
+99,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+100,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+101,entry level entry level Your prediction matches the classification provided. The job description for a Machine Operator / Storeman - Metal at,entry level
+102,senior senior senior senior senior senior senior senior senior senior,senior
+103,senior senior senior senior senior senior senior senior senior senior,senior
+104,head head head,head
+105,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+106,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+107,assistant assistant assistant assistant assistant assistant assistant assistant assistant assistant,assistant
+108,junior junior junior junior junior junior junior junior junior junior,junior
+109,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+110,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+111,lead lead,lead
+112,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+113,senior senior senior senior senior senior senior senior senior senior,senior
+114,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+115,senior senior senior senior senior senior senior senior senior senior,senior
+116,entry level your_predict = entry level your_predict = entry level your_predict = entry level your_,entry level
+117,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+118,senior senior senior senior senior senior senior senior senior senior,senior
+119,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+120,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+121,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+122,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+123,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+124,entry level your_predict = entry level your_predict = entry level your_predict = entry level your_,entry level
+125,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+126,lead lead lead lead lead lead lead lead lead lead,lead
+127,assistant assistant assistant assistant assistant assistant assistant assistant assistant assistant,assistant
+128,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+129,intermediate classification_name: Sales,intermediate
+130,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+131,graduate/junior junior junior junior junior junior junior junior junior,graduate/junior
+132,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+133,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+134,intermediate classification_name: Trades & Services,intermediate
+135,manager classification_name: Government & Defence,manager
+136,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+137,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+138,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+139,experienced experienced experienced,experienced
+140,senior senior senior senior senior senior senior senior senior senior,senior
+141,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+142,assistant assistant assistant assistant assistant assistant assistant assistant assistant assistant,assistant
+143,entry-level to intermediate entry-level to intermediate,entry-level to intermediate
+144,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+145,junior junior junior junior junior junior junior junior junior junior,junior
+146,head head head head head head head head head head,head
+147,assistant assistant assistant assistant assistant assistant assistant assistant assistant assistant,assistant
+148,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+149,senior senior senior senior senior senior senior senior senior senior,senior
+150,assistant assistant assistant assistant assistant assistant assistant assistant assistant assistant,assistant
+151,assistant assistant assistant assistant assistant assistant assistant assistant assistant assistant,assistant
+152,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+153,apprentice apprentice,apprentice
+154,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+155,assistant assistant assistant assistant assistant assistant assistant assistant assistant assistant,assistant
+156,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+157,senior senior senior senior senior senior senior senior senior senior,senior
+158,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+159,senior senior senior senior senior senior senior senior senior senior,senior
+160,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+161,senior senior senior senior senior senior senior senior senior senior,senior
+162,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+163,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+164,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+165,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+166,junior junior junior,junior
+167,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+168,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+169,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+170,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+171,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+172,lead lead,lead
+173,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+174,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+175,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+176,lead lead,lead
+177,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+178,trainee trainee,trainee
+179,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+180,experienced experienced experienced,experienced
+181,senior senior senior senior senior senior senior senior senior senior,senior
+182,assistant assistant assistant assistant assistant assistant assistant assistant assistant assistant,assistant
+183,intermediate intermediate intermediate,intermediate
+184,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+185,experienced experienced experienced,experienced
+186,senior senior senior senior senior senior senior senior senior senior,senior
+187,head head head head head head head head head head,head
+188,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+189,senior senior senior senior senior senior senior senior senior senior,senior
+190,intermediate classification_name: Real Estate & Property,intermediate
+191,graduate graduate graduate,graduate
+192,student student student student student student student student student student,student
+193,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+194,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+195,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+196,senior senior senior senior senior senior senior senior senior senior,senior
+197,seniority: intermediate classification_name: Sales & Marketing,intermediate
+198,senior senior senior senior senior senior senior senior senior senior,senior
+199,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+200,specialist specialist,specialist
+201,intermediate classification_name: Sales,intermediate
+202,head head head head head head head head head head,head
+203,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+204,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+205,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+206,senior lead senior lead,senior lead
+207,junior junior junior junior junior junior junior junior junior junior,junior
+208,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+209,lead lead,lead
+210,junior-intermediate your_predict = junior-intermediate your_predict = junior-intermediate your_predict =,junior-intermediate
+211,senior senior senior senior senior senior senior senior senior senior,senior
+212,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+213,graduate graduate,graduate
+214,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+215,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+216,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+217,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+218,senior senior senior senior senior senior senior senior senior senior,senior
+219,intermediate classification_name: Information & Communication Technology,intermediate
+220,assistant assistant assistant assistant assistant assistant assistant assistant assistant assistant,assistant
+221,head seniority: head,head
+222,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+223,junior junior junior junior junior junior junior junior junior junior,junior
+224,senior senior senior senior senior senior senior senior senior senior,senior
+225,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+226,senior senior senior senior senior senior senior senior senior senior,senior
+227,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+228,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+229,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+230,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+231,senior senior senior senior senior senior senior senior senior senior,senior
+232,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+233,senior senior senior senior senior senior senior senior senior senior,senior
+234,entry level entry level,entry level
+235,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+236,senior senior senior senior senior senior senior senior senior senior,senior
+237,experienced experienced experienced,experienced
+238,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+239,lead lead,lead
+240,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+241,associate director senior associate director,associate director
+242,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+243,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+244,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+245,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+246,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+247,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+248,intermediate intermediate intermediate,intermediate
+249,executive executive executive executive executive executive executive executive executive executive,executive
+250,head head,head
+251,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+252,senior senior senior senior senior senior senior senior senior senior,senior
+253,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+254,senior senior senior senior senior senior senior senior senior senior,senior
+255,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+256,y_true = apprentice y_true = apprentice y_true = apprentice y_true,apprentice
+257,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+258,senior senior senior senior senior senior senior senior senior senior,senior
+259,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+260,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+261,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+262,senior senior senior senior senior senior senior senior senior senior,senior
+263,senior senior senior senior senior senior senior senior senior senior,senior
+264,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+265,experienced experienced experienced,experienced
+266,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+267,intermediate classification_name: Healthcare & Medical,intermediate
+268,senior senior senior senior senior senior senior senior senior senior,senior
+269,principal senior engineering,principal
+270,intermediate intermediate intermediate,intermediate
+271,intermediate intermediate,intermediate
+272,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+273,intermediate classification_name: Administration & Office Support,intermediate
+274,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+275,intermediate intermediate intermediate,intermediate
+276,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+277,senior senior senior senior senior senior senior senior senior senior,senior
+278,junior junior junior junior junior junior junior junior junior junior,junior
+279,intermediate intermediate,intermediate
+280,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+281,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+282,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+283,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+284,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+285,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+286,lead lead lead lead lead lead lead lead lead lead,lead
+287,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+288,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+289,entry-level entry-level entry-level entry-level entry-level entry-level,entry-level
+290,senior senior senior senior senior senior senior senior senior senior,senior
+291,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+292,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+293,senior senior senior senior senior senior senior senior senior senior,senior
+294,senior senior senior senior senior senior senior senior senior senior,senior
+295,principal senior principal senior principal principal principal principal principal principal,principal
+296,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+297,intermediate intermediate intermediate,intermediate
+298,intermediate intermediate intermediate,intermediate
+299,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+300,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+301,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+302,senior senior senior senior senior senior senior senior senior senior,senior
+303,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+304,lead lead,lead
+305,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+306,junior junior junior junior junior junior junior junior junior junior,junior
+307,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+308,experienced experienced experienced,experienced
+309,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+310,intermediate intermediate intermediate,intermediate
+311,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+312,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+313,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+314,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+315,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+316,lead lead,lead
+317,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+318,senior senior senior senior senior senior senior senior senior senior,senior
+319,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+320,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+321,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+322,junior junior junior junior junior junior junior junior junior junior,junior
+323,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+324,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+325,assistant assistant assistant assistant assistant assistant assistant assistant assistant assistant,assistant
+326,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+327,senior senior chief CEO & General Management,chief
+328,assistant assistant assistant assistant assistant assistant assistant assistant assistant assistant,assistant
+329,experienced experienced experienced,experienced
+330,senior senior senior senior senior senior senior senior senior senior,senior
+331,senior senior senior senior senior senior senior senior senior senior,senior
+332,graduate classification_name: Marketing & Communications,graduate
+333,senior senior senior senior senior senior senior senior senior senior,senior
+334,experienced experienced experienced,experienced
+335,lead lead,lead
+336,experienced experienced experienced,experienced
+337,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+338,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+339,assistant assistant your_predict = assistant assistant assistant assistant assistant assistant assistant,assistant
+340,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+341,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+342,junior junior junior junior junior junior junior junior junior junior,junior
+343,director director director,director
+344,head head head head head head head head head head,head
+345,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+346,lead lead,lead
+347,lead lead lead lead lead lead lead lead lead lead,lead
+348,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+349,head head head head head head head head head head,head
+350,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+351,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+352,assistant assistant assistant assistant assistant assistant assistant assistant assistant assistant,assistant
+353,junior junior junior junior junior junior junior junior junior junior,junior
+354,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+355,associate associate associate associate associate associate associate associate associate associate,associate
+356,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+357,senior senior senior senior senior senior senior senior senior senior,senior
+358,junior junior junior,junior
+359,principal principal principal principal principal principal principal principal principal principal,principal
+360,senior senior senior senior senior senior senior senior senior senior,senior
+361,junior-to-intermediate classification_name: Information & Communication Technology,junior-to-intermediate
+362,"intermediate your_predict = intermediate Based on the job description provided, the classification for the role of a Part time Café / R",intermediate
+363,entry level entry level,entry level
+364,junior junior junior,junior
+365,head head head head head head head head head head,head
+366,assistant assistant assistant assistant assistant assistant assistant assistant assistant assistant,assistant
+367,experienced experienced experienced,experienced
+368,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+369,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+370,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+371,independent classification_name: Board Appointments,independent
+372,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+373,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+374,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+375,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+376,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+377,"entry level classification_name: Manufacturing, Transport & Logistics",entry level
+378,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+379,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+380,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+381,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+382,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+383,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+384,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+385,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+386,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+387,assistant assistant assistant assistant assistant assistant assistant assistant assistant assistant,assistant
+388,"intermediate your_predict = intermediate Based on the job description provided, the classification for the role of Part time Sandwich Hand in Auch",intermediate
+389,entry level classification_name: Accounting,entry level
+390,senior senior senior senior senior senior senior senior senior senior,senior
+391,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+392,senior senior senior senior senior senior senior senior senior senior,senior
+393,lead lead lead lead lead lead lead lead lead lead,lead
+394,experienced experienced experienced,experienced
+395,lead lead,lead
+396,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+397,senior senior senior senior senior senior senior senior senior senior,senior
+398,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+399,associate-director senior associate-director,associate-director
+400,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+401,senior senior senior senior senior senior senior senior senior senior,senior
+402,senior senior senior senior senior senior senior senior senior senior,senior
+403,third-year apprentice third-year apprentice,third-year apprentice
+404,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+405,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+406,associate seniority = associate seniority = associate seniority = associate seniority = associate seniority =,associate
+407,experienced assistant experienced assistant experienced assistant experienced assistant experienced assistant experienced assistant experienced assistant experienced assistant,experienced assistant
+408,senior senior senior senior senior senior senior senior senior senior,senior
+409,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+410,senior senior senior senior senior senior senior senior senior senior,senior
+411,senior senior senior senior senior senior senior senior senior senior,senior
+412,entry level your_predict = entry level your_predict = entry level your_predict = entry level your_,entry level
+413,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+414,senior senior senior senior senior senior senior senior senior senior,senior
+415,head head head head head head head head head head,head
+416,early-career early-career,early-career
+417,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+418,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+419,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+420,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+421,cadet cadet,cadet
+422,senior senior senior senior senior senior senior senior senior senior,senior
+423,senior senior senior senior senior senior senior senior senior senior,senior
+424,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+425,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+426,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+427,assistant assistant assistant assistant assistant assistant assistant assistant assistant assistant,assistant
+428,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+429,senior senior senior senior senior senior senior senior senior senior,senior
+430,deputy deputy deputy deputy deputy deputy deputy deputy,deputy
+431,senior principal principal senior principal principal principal principal principal principal,principal
+432,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+433,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+434,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+435,assistant assistant assistant assistant assistant assistant assistant assistant assistant assistant,assistant
+436,experienced experienced experienced,experienced
+437,assistant assistant assistant assistant assistant assistant assistant assistant assistant assistant,assistant
+438,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+439,assistant assistant assistant assistant assistant assistant assistant assistant assistant assistant,assistant
+440,lead lead,lead
+441,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+442,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+443,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+444,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+445,senior senior senior senior senior senior senior senior senior senior,senior
+446,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+447,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+448,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+449,"entry level education & training, childcare & outside school hours care, entry level your_predict = entry level your_",entry level
+450,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+451,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+452,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+453,trainee trainee,trainee
+454,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+455,assistant assistant assistant assistant assistant assistant assistant assistant assistant assistant,assistant
+456,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+457,assistant assistant assistant assistant assistant assistant assistant assistant assistant assistant,assistant
+458,executive executive executive executive executive executive executive executive executive executive,executive
+459,senior senior senior senior senior senior senior senior senior senior,senior
+460,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+461,entry level your_predict = entry level your_predict = entry level your_predict = entry level your_,entry level
+462,intermediate classification_name: Sales,intermediate
+463,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+464,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+465,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+466,intermediate classification_name: Administration & Office Support,intermediate
+467,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+468,assistant assistant assistant assistant assistant assistant assistant assistant assistant assistant,assistant
+469,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+470,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+471,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+472,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+473,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+474,senior senior senior senior senior senior senior senior senior senior,intermediate
+475,senior senior senior senior senior senior senior senior senior senior,senior
+476,associate director senior associate director senior senior senior senior senior senior senior,associate director
+477,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+478,senior senior senior senior senior senior senior senior senior senior,senior
+479,trainee trainee,trainee
+480,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+481,senior senior senior senior senior senior senior senior senior senior,supervisor
+482,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+483,head head head head head head head head head head,head
+484,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+485,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+486,trainee trainee,trainee
+487,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+488,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+489,entry level your_predict = entry level your_predict = entry level your_predict = entry level your_,entry level
+490,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+491,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+492,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+493,associate associate associate associate associate associate associate associate associate associate,associate
+494,intermediate classification_name: Sales,intermediate
+495,"lead your_predict: lead Given the job description, the role of a Diploma/ECT trained Nursery room leader",lead
+496,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+497,lead lead lead lead lead lead lead lead lead lead,lead
+498,lead lead,lead
+499,intermediate classification_name: Sport & Recreation,intermediate
+500,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+501,junior junior junior junior junior junior junior junior junior junior,junior
+502,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+503,experienced experienced experienced,experienced
+504,head head head,head
+505,intermediate intermediate,intermediate
+506,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+507,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+508,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+509,senior senior senior senior senior senior senior senior senior senior,senior
+510,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+511,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+512,intermediate intermediate intermediate,intermediate
+513,seniority: cadet classification_name: Sales,cadet
+514,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+515,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+516,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+517,senior senior senior senior senior senior senior senior senior senior,senior
+518,senior/principal senior/principal,senior/principal
+519,senior senior senior senior senior senior senior senior senior senior,senior
+520,senior senior senior senior senior senior senior senior senior senior,senior
+521,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+522,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+523,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+524,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+525,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+526,principal senior principal senior senior senior senior senior senior senior,principal
+527,head classification_name: Engineering,head
+528,executive executive executive executive executive executive executive executive executive executive,executive
+529,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+530,senior senior senior senior senior senior senior senior senior senior,senior
+531,intermediate intermediate intermediate,intermediate
+532,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+533,intermediate intermediate intermediate,intermediate
+534,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+535,intermediate management intermediate management,intermediate management
+536,junior junior junior junior junior junior junior junior junior junior,junior
+537,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+538,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+539,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+540,senior senior senior senior senior senior senior senior senior senior,senior
+541,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+542,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+543,entry level entry level,entry level
+544,director director director,director
+545,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+546,entry level entry level,entry level
+547,senior senior senior senior senior senior senior senior senior senior,senior
+548,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+549,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+550,graduate graduate graduate graduate graduate graduate graduate graduate,graduate
+551,senior lead senior lead,senior lead
+552,intermediate intermediate intermediate,intermediate
+553,intermediate intermediate intermediate,intermediate
+554,entry level entry level entry level,entry level
+555,senior senior senior senior senior senior senior senior senior senior,senior
+556,head head head head head head head head head head,head
+557,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+558,intermediate classification_name: Administration & Office Support,intermediate
+559,senior senior senior senior senior senior senior senior senior senior,senior
+560,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+561,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+562,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+563,entry level entry level,entry level
+564,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+565,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+566,trainee trainee,trainee
+567,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+568,lead lead lead lead lead lead lead lead lead lead,lead
+569,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+570,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+571,experienced experienced experienced,experienced
+572,entry level administration_support,entry level
+573,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+574,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+575,intermediate intermediate intermediate The job description provided outlines a Sales Estimator position within a commercial division of a roofing company,intermediate
+576,lead lead,lead
+577,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+578,intermediate intermediate intermediate,intermediate
+579,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+580,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+581,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+582,senior senior senior senior senior senior senior senior senior senior,senior
+583,head head head head head head head head head head,head
+584,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+585,lead lead,lead
+586,"entry level classification_name: Farming, Animals & Conservation",entry level
+587,"intermediate your_predict = intermediate Based on the job description provided, the classification for the job title ""BOOK-KEEPER",intermediate
+588,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+589,senior senior senior senior senior senior senior senior senior senior,senior
+590,senior senior senior senior senior senior senior senior senior senior,senior
+591,senior senior senior senior senior senior senior senior senior senior,senior
+592,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+593,senior senior senior senior senior senior senior senior senior senior,senior
+594,senior senior senior senior senior senior senior senior senior senior,senior
+595,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+596,senior director senior director senior director senior director senior director,director
+597,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+598,senior senior senior senior senior senior senior senior senior senior,senior
+599,senior senior senior senior senior senior senior senior senior senior,senior
+600,senior senior senior senior senior senior senior senior senior senior,senior
+601,specialist specialist,specialist
+602,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+603,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+604,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+605,senior senior senior senior senior senior senior senior senior senior,senior
+606,chief chief chief chief chief chief chief chief chief chief,chief
+607,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+608,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+609,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+610,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+611,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+612,senior senior senior senior senior senior senior senior senior senior,senior
+613,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+614,senior senior senior senior senior senior senior senior senior senior,senior
+615,lead lead lead lead lead lead lead lead lead lead,lead
+616,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+617,trainee trainee,trainee
+618,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+619,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+620,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+621,intermediate classification_name: Information & Communication Technology,intermediate
+622,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+623,advanced advanced advanced advanced advanced advanced advanced advanced advanced advanced,advanced
+624,executive executive executive executive executive executive executive executive executive executive,executive
+625,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+626,senior senior senior senior senior senior senior senior senior senior,senior
+627,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+628,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+629,senior senior senior senior senior senior senior senior senior senior,senior
+630,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+631,experienced experienced experienced,experienced
+632,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+633,senior senior senior senior senior senior senior senior senior senior,senior
+634,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+635,lead lead,lead
+636,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+637,senior senior senior senior senior senior senior senior senior senior,supervisor
+638,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+639,assistant assistant assistant assistant assistant assistant assistant assistant assistant assistant,assistant
+640,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+641,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+642,retired senior senior senior senior senior senior senior senior senior,retired
+643,entry level entry level entry level,entry level
+644,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+645,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+646,intermediate intermediate intermediate,intermediate
+647,senior senior senior senior senior senior senior senior senior senior,senior
+648,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+649,associate associate associate associate associate associate associate associate associate associate,associate
+650,intermediate classification_name: Sales,intermediate
+651,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+652,junior junior junior junior junior junior junior junior junior junior,1st year apprentice
+653,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+654,head head head head head head head head head head,head
+655,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+656,senior senior senior senior senior senior senior senior senior senior,senior
+657,trainee trainee,trainee
+658,chief chief chief chief chief chief chief chief chief chief,chief
+659,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+660,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+661,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+662,head head head,head
+663,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+664,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+665,senior senior senior senior senior senior senior senior senior senior,senior
+666,entry level entry level,entry level
+667,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+668,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+669,intermediate intermediate intermediate,intermediate
+670,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+671,head head head,head
+672,senior senior senior senior senior senior senior senior senior senior,senior
+673,intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+674,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+675,head head head head head head head head head head,head
+676,senior senior senior senior senior senior senior senior senior senior,senior
+677,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+678,lead lead lead lead lead lead lead lead lead lead,lead
+679,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+680,assistant assistant assistant assistant assistant assistant assistant assistant assistant assistant,assistant
+681,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+682,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+683,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+684,experienced experienced experienced experienced experienced experienced experienced experienced experienced experienced,experienced
+685,entry level entry level entry level entry level entry level entry level entry level entry level,entry level
+686,senior senior senior senior senior senior senior senior senior senior,senior
+687,associate associate associate,associate
+688,graduate graduate,graduate

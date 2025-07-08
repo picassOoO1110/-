@@ -1,0 +1,568 @@
+index,predicted,true_label
+0,1500-1800-AUS-MONTHLY your_predict: y_true = 15,1500-1800-MYR-MONTHLY
+1,100-200-HK-MONTHLY 0-0-None-None,60-60-HKD-HOURLY
+2,0-0-None-None The job description provided does not mention a specific salary for the Skid Steer Operator/,0-0-None-None
+3,0-0-None-None The provided job description does not mention a specific salary for the Business Development Manager position at P&,0-0-None-None
+4,"0-0-None-None The job description provided does not mention a specific salary. Therefore, the answer is 0-",0-0-None-None
+5,21.20-8-None-None y_true = 21.20-8-None-None,21-21-NZD-HOURLY
+6,100-200-AUS-MONTHLY y_true = 100-200-,0-0-None-None
+7,100-200-AUS-MONTHLY 0-0-None-None y_true,0-0-None-None
+8,0-0-None-None y_true = 32.42-11.5-Not for Profit,32-32-AUD-HOURLY
+9,2000-3000-AUS-MONTHLY y_true = 2000-3,2000-3000-MYR-MONTHLY
+10,3000-4000-AUS-MONTHLY Your prediction matches the given salary details for the Le,3000-4000-MYR-MONTHLY
+11,0-0-None-None The provided job description for the Structural Design Engineer - Formwork & Scaffolding,0-0-None-None
+12,"0-0-None-None The job description provided does not mention a specific salary, hence the answer is 0-0",0-0-None-None
+13,"0-0-None-None The provided job description does not explicitly mention a monthly salary in AUS dollars. Therefore,",80-90-HKD-HOURLY
+14,156491-5998.30-None-None 156491-5,142642-156491-AUD-ANNUAL
+15,100-0-AUS-MONTHLY The provided job description does not explicitly mention a salary. The only reference,0-0-None-None
+16,"28.80-None-None As an AI, I don't have the capability to predict or generate real",29-29-AUD-HOURLY
+17,"0-0-None-None The job description provided does not mention a specific salary range. Therefore, the answer is 0",1500-2500-MYR-MONTHLY
+18,66027.58-68085.5-AUS-MONTHLY 0-0,66028-68086-AUD-ANNUAL
+19,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+20,3000-4000-AUS-MONTHLY 0-0-None-None,3000-4000-SGD-MONTHLY
+21,0-0-None-None y_true = 0-0-None-None y_true = 1,0-0-None-None
+22,"0-0-None-None The job description provided does not mention a specific salary. Therefore, the answer is 0-",0-0-None-None
+23,"0-0-None-None The job description provided does not explicitly mention a salary. Therefore, the answer is 0-",73-85-HKD-HOURLY
+24,5000-8000-AUS-MONTHLY y_true = 5000-8,5000-8000-MYR-MONTHLY
+25,0-0-None-None y_true = 0-0-None-None y_true = 0,30-30-NZD-HOURLY
+26,100-200-AUS-MONTHLY 100-200-AUS-MON,0-0-None-None
+27,"0-0-None-None The provided job description for the Car Mechanic position does not explicitly mention a salary. Therefore,",500-1250-SGD-WEEKLY
+28,"0-0-None-None The job description provided does not mention a specific salary. Therefore, the answer is 0-",1500-1500-MYR-MONTHLY
+29,750-1125-AUS-MONTHLY 0-0-None-None 7,750-1125-SGD-WEEKLY
+30,0-0-None-None The job description provided does not mention a specific salary for the Insurance Administrator - Tem,0-0-None-None
+31,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+32,0-0-None-None y_true = 0-0-None-None y_true = 1,0-0-None-None
+33,0-0-None-None The provided job description for the CLINICAL ASSISTANT does not explicitly mention a month,1500-1500-MYR-MONTHLY
+34,2000-2500-AUS-MONTHLY your_predict: y_true = 20,2000-2500-SGD-MONTHLY
+35,100-200-AUS-MONTHLY 58008.48-0-None,58008-58008-AUD-ANNUAL
+36,0-0-None-None y_true = 0-0-None-None y_true = 2,23-29-NZD-HOURLY
+37,3000-6000-MYR-MONTHLY y_true = 3000-6,3000-6000-MYR-MONTHLY
+38,"0-0-None-None The provided job description does not explicitly mention a salary. Therefore, the answer is 0-",31-31-NZD-HOURLY
+39,y_true = 100-100-HK-MONTHLY y_true = 100-,100-100-HKD-HOURLY
+40,"0-0-None-None The provided job description does not explicitly mention a monthly salary. Therefore, the answer is",500-667-PHP-DAILY
+41,"0-0-None-None The provided job description does not explicitly mention a monthly salary. Instead, it states an expected",107-150-SGD-DAILY
+42,0-0-None-None The job description for Outlet Crew does not explicitly mention a monthly salary in the provided,1500-1500-MYR-MONTHLY
+43,0-0-None-None y_true = 0-0-None-None y_true = 2,20-25-AUD-HOURLY
+44,100-200-AUS-MONTHLY y_true = 100-200-,0-0-None-None
+45,100-200-AUS-MONTHLY 100-200-AUS-MON,0-0-None-None
+46,"2700-3000-AUS-MONTHLY As per the instruction, the answer is formatted as requested",2700-3000-SGD-MONTHLY
+47,"0-0-None-None The provided job description does not mention a specific salary, hence the answer is 0-0",0-0-None-None
+48,1200-None-None y_true = 1200-None-None y_true =,0-0-None-None
+49,"0-0-None-None The job description provided does not mention a specific salary. Therefore, the answer is 0-",0-0-None-None
+50,2300-2700-AUS-MONTHLY 0-0-None-None,2300-2700-SGD-MONTHLY
+51,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+52,0-0-None-None The provided job description for the Personal Care Assistant (PCA) position in Bega NSW,61868-61868-AUD-ANNUAL
+53,100-200-AUS-MONTHLY 0-0-None-None,0-0-None-None
+54,"0-0-None-None The job description provided does not mention a specific salary. Therefore, the answer is 0-",0-0-None-None
+55,0-0-None-None The job description provided does not mention a specific salary for the Project Finance & Project Control Manager,0-0-None-None
+56,16000-15000-AUS-MONTHLY y_true = 1600,16000-16000-PHP-MONTHLY
+57,100-200-AUS-MONTHLY y_true = 100-200-,0-0-None-None
+58,0-0-None-None y_true = 0-0-None-None y_true = 2,25-30-NZD-HOURLY
+59,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+60,"0-0-None-None The provided job description does not explicitly mention a salary. Therefore, the answer is 0-",3750-5000-HKD-WEEKLY
+61,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+62,1500-None-None 1500-0-None-None,1500-1500-MYR-MONTHLY
+63,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+64,"0-0-None-None The job description for the Finance Manager position does not explicitly mention a salary. Therefore, the",0-0-None-None
+65,100-200-AUS-MONTHLY y_true = 100-200-,0-0-None-None
+66,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+67,0-0-None-None y_true = 0-0-None-None y_true = 5,500-800-SGD-MONTHLY
+68,100-200-AUS-MONTHLY 0-0-None-None 10,625-800-HKD-WEEKLY
+69,"0-0-None-None As the provided job description does not mention a specific salary, the answer is 0-0",0-0-None-None
+70,60-60-AUS-MONTHLY The provided job description for the Delivery Driver (Vending machine) in,60-60-SGD-DAILY
+71,"0-0-None-None The job description provided does not mention a specific salary. Therefore, the answer is 0-",0-0-None-None
+72,100-200-AUS-MONTHLY y_true = 100-200-,30-30-AUD-HOURLY
+73,100-0-None-None The provided job description does not explicitly mention a salary or any form of compensation such,0-0-None-None
+74,100-200-AUS-MONTHLY 0-0-None-None 15,0-0-None-None
+75,0-0-None-None y_true = 0-0-None-None Given the job description for the,0-0-None-None
+76,100-200-AUS-MONTHLY 0-0-None-None,0-0-None-None
+77,"0-0-None-None The provided job description does not explicitly mention a salary or bonus. Therefore, the answer is",0-0-None-None
+78,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+79,1800-2000-AUS-MONTHLY 1800-2000-,1800-2000-MYR-MONTHLY
+80,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+81,0-0-None-None y_true = 0-0-None-None y_true = 2,27-27-NZD-HOURLY
+82,100-200-AUS-MONTHLY y_true = 100-200-,0-0-None-None
+83,100-200-AUS-MONTHLY y_true = 100-200-,0-0-None-None
+84,130378-132799-AUS-MONTHLY 0-0-None-,130378-132799-AUD-ANNUAL
+85,21000-20000-AUS-MONTHLY y_true = 2100,21000-21000-PHP-MONTHLY
+86,100-200-AUS-MONTHLY 100-200-AUS-MON,0-0-None-None
+87,123870.36-127316.75 123870.,123870-127316-AUD-ANNUAL
+88,100-200-AUS-MONTHLY 0-0-None-None 15,0-0-None-None
+89,"0-0-None-None The provided job description does not explicitly mention a monthly salary in AUS dollars. Therefore,",106-106-HKD-HOURLY
+90,100-200-AUS-MONTHLY 0-0-None-None 10,0-0-None-None
+91,"0-0-None-None The provided job description does not explicitly mention a salary. Therefore, the answer is 0-",90-160-HKD-HOURLY
+92,2800-4000-AUS-MONTHLY 0-0-None-None,2800-4000-SGD-MONTHLY
+93,100-200-AUS-MONTHLY 0-0-None-None 10,35-45-NZD-HOURLY
+94,60-70-AUS-MONTHLY y_true = 60-70-AUS-MON,60-70-AUD-HOURLY
+95,0-0-None-None y_true = 0-0-None-None y_true = 5,500-750-SGD-WEEKLY
+96,26.24-28.67-AUS-MONTHLY 0-0-None-None,26-29-NZD-HOURLY
+97,0-0-None-None y_true = 0-0-None-None Given the job description for the,0-0-None-None
+98,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+99,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+100,"0-0-None-None The job description provided does not mention a specific salary. Therefore, the answer is 0-",0-0-None-None
+101,100-200-AUS-MONTHLY 76171.43-875,76171-87566-AUD-ANNUAL
+102,0-0-None-None y_true = 0-0-None-None y_true = 1,0-0-None-None
+103,40-46-AUS-MONTHLY your_predict: 40-46-AUS-MON,40-46-AUD-HOURLY
+104,"0-0-None-None The provided job description does not explicitly mention a salary figure. Therefore, the classification of the sal",30-30-AUD-HOURLY
+105,0-0-None-None The job description provided does not mention a specific salary for the Coworking General Manager - B,0-0-None-None
+106,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+107,100-200-AUS-MONTHLY 0-0-None-None 10,0-0-None-None
+108,12-0-AUS-MONTHLY Your prediction is correct. The salary mentioned in the job description is $1,12-12-SGD-HOURLY
+109,100-200-AUS-MONTHLY y_true = 100-200-,0-0-None-None
+110,"100-200-AUS-MONTHLY Given the job description, the salary range is provided as ""$",125-170-HKD-HOURLY
+111,100-250-AUS-MONTHLY y_true = 100-250-,100-250-THB-HOURLY
+112,98351-200-AUS-MONTHLY 0-0-None-None,35-49-AUD-HOURLY
+113,51-54.98-AUS-MONTHLY 0-0-None-None,51-55-AUD-HOURLY
+114,"2800-3600-AUS-MONTHLY As the instruction specifies, the answer should be in",2800-3600-SGD-MONTHLY
+115,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+116,"0-0-None-None The provided job description for the Night Porter position at The Rees Hotel, Luxury Apart",26-26-NZD-HOURLY
+117,0-0-None-None y_true = 0-0-None-None y_true = 1,0-0-None-None
+118,38-40-AUS-MONTHLY your_predict: y_true = 38-40-,38-40-AUD-HOURLY
+119,100-200-AUS-MONTHLY 0-0-None-None 10,34-34-AUD-HOURLY
+120,17000-15000-AUS-MONTHLY Your prediction is correct. The salary mentioned,17000-17000-PHP-MONTHLY
+121,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+122,"0-0-None-None The job description provided does not explicitly mention a salary range. Therefore, the answer is 0",12000-30000-HKD-MONTHLY
+123,2500-3300-AUS-MONTHLY your_predict = 2500-3,2500-3300-SGD-MONTHLY
+124,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+125,0-0-None-None The provided job description for the ADMIN ACCOUNTANT does not explicitly mention a salary. The,2000-2000-MYR-MONTHLY
+126,30000-35000-AUS-MONTHLY your_predict: y_true =,30000-35000-THB-MONTHLY
+127,16000-15000-AUS-MONTHLY y_true = 1600,16000-16000-PHP-MONTHLY
+128,16000-15000-AUS-MONTHLY y_true = 1600,16000-16000-PHP-MONTHLY
+129,"0-0-None-None The provided job description does not explicitly mention a monthly salary in AUS dollars. Therefore,",44-50-HKD-HOURLY
+130,100-200-AUS-MONTHLY 100-200-AUS-MON,0-0-None-None
+131,0-0-None-None y_true = 0-0-None-None y_true = 1,0-0-None-None
+132,"0-0-None-None The job description provided does not mention a specific salary, hence the correct classification is 0-",0-0-None-None
+133,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+134,"0-0-None-None As the provided job description does not include any specific salary information, the answer is 0-",0-0-None-None
+135,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+136,100-200-AUS-MONTHLY y_true = 100-200-,0-0-None-None
+137,"0-0-None-None The provided text does not contain any explicit mention of a salary. Therefore, the answer is",83-88-HKD-HOURLY
+138,1250-1500-AUS-MONTHLY 0-0-None-None.,1250-1500-SGD-WEEKLY
+139,"13300-0-AUS-MONTHLY The provided job description for the ""幼稚",13300-13300-HKD-MONTHLY
+140,100-120-AUS-MONTHLY y_true = 100-120-,100-100-HKD-HOURLY
+141,"0-0-None-None The provided job description does not explicitly mention a monthly salary. Therefore, the answer is",500-667-HKD-DAILY
+142,0-0-None-None y_true = 0-0-None-None y_true = 1,0-0-None-None
+143,"0-0-None-None The provided job description does not explicitly mention a monthly salary figure. It only mentions ""Tra",0-0-None-None
+144,100-200-AUS-MONTHLY y_true = 100-200-,0-0-None-None
+145,4000-4500-AUS-MONTHLY 4000-4500-,4000-4500-SGD-MONTHLY
+146,100-200-AUS-MONTHLY 0-0-None-None 10,4000-6000-MYR-MONTHLY
+147,0-0-None-None The provided job description for the Multi-Skilled Technician does not mention a specific salary.,0-0-None-None
+148,0-0-None-None The provided job description for the WMS Software Developer (Open New Grads) does not explicitly,50000-80000-THB-MONTHLY
+149,78-90-AUS-MONTHLY 0-0-None-None 78-9,78-90-AUD-HOURLY
+150,100-200-AUS-MONTHLY Your prediction is incorrect. The correct format based on the provided job,700-800-SGD-WEEKLY
+151,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+152,"0-0-None-None The job description provided does not mention a specific salary, hence the answer is 0-0",0-0-None-None
+153,20000-30000-AUS-MONTHLY your_predict: y_true =,20000-30000-THB-MONTHLY
+154,0-0-None-None y_true = 0-0-None-None y_true = 1,0-0-None-None
+155,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+156,2400-3700-AUS-MONTHLY your_predict: y_true = 24,2400-3700-SGD-MONTHLY
+157,28000-20000-AUS-MONTHLY y_true = 2800,28000-28000-PHP-MONTHLY
+158,"0-0-None-None The job description provided does not explicitly mention a salary. Therefore, the answer is 0-",0-0-None-None
+159,5000-5500-AUS-MONTHLY 5000-5500-,5000-5500-SGD-MONTHLY
+160,0-0-None-None The provided job description does not explicitly mention a monthly salary in the format required (10,65-70-HKD-HOURLY
+161,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+162,625-750-AUS-WEEKLY Your prediction is correct. The salary mentioned in the job,625-750-SGD-WEEKLY
+163,225000-250000-AUS-MONTHLY your_predict: 22,225000-250000-AUD-ANNUAL
+164,"0-0-None-None The provided job description does not explicitly mention a salary. Therefore, the answer is 0-",0-0-None-None
+165,"100-0-AUS-MONTHLY The provided job description does not explicitly mention a salary. However, it",0-0-None-None
+166,"0-0-None-None Your prediction matches the given format and instructions. The job description does not mention a specific salary,",0-0-None-None
+167,0-0-None-None The provided job description for the CLASS 4 TIP TRUCK DRIVER does,0-0-None-None
+168,29.29-29.99-AUS-MONTHLY 0-0-None-None,29-30-AUD-HOURLY
+169,31.20-32.24-AUS-MONTHLY 31.20-32,31-32-AUD-HOURLY
+170,"0-0-None-None The job description provided does not explicitly mention a salary. Therefore, the answer is 0-",1500-1500-MYR-MONTHLY
+171,13.45-0-None-None y_true = 13.45-0-None-None,13-13-SGD-HOURLY
+172,25000-30000-TH-MONTHLY your_predict: y_true = 2,25000-30000-THB-MONTHLY
+173,0-0-None-None y_true = 0-0-None-None y_true = 1,0-0-None-None
+174,25000-35000-AUS-MONTHLY 100-200-,25000-35000-THB-MONTHLY
+175,0-0-None-None y_true = 0-0-None-None The provided job description for the,0-0-None-None
+176,15067-100-AUS-MONTHLY 0-0-None-None,0-0-None-None
+177,1500-1800-AUS-MONTHLY your_predict: y_true = 15,1500-1800-MYR-MONTHLY
+178,100-200-AUS-MONTHLY 32.80-0-None-None,33-33-AUD-HOURLY
+179,117544-120393-AUS-MONTHLY 0-0-None-,117544-120393-AUD-ANNUAL
+180,52-0-AUS-MONTHLY y_true = 52-0-AUS-MONTHLY,52-52-AUD-HOURLY
+181,"0-0-None-None The job description provided does not explicitly mention a salary. Therefore, the answer is 0-",0-0-None-None
+182,35.33-49.60-100-AUS-MONTHLY 35.3,70050-98351-AUD-ANNUAL
+183,0-0-None-None y_true = 0-0-None-None y_true = 3,3500-10000-MYR-MONTHLY
+184,0-0-None-None y_true = 0-0-None-None y_true = 1,12000-30000-HKD-MONTHLY
+185,0-0-None-None y_true = 0-0-None-None y_true = 0,89095-139187-AUD-ANNUAL
+186,90-100-AUS-MONTHLY Your_predict: y_true = 90-10,90-100-AUD-HOURLY
+187,100-200-AUS-MONTHLY y_true = 100-200-,0-0-None-None
+188,"0-0-None-None The job description provided does not explicitly mention a monthly salary range. Therefore, the answer is",3000-5000-MYR-MONTHLY
+189,0-0-None-None The provided job description for the Cleaner position at Spotless NZ does not explicitly mention,24-24-NZD-HOURLY
+190,1500-3000-MYR-MONTHLY Your prediction matches the given true salary information. The,1500-3000-MYR-MONTHLY
+191,"0-0-None-None The provided job description does not explicitly mention a salary. Therefore, the answer is 0-",200-300-HKD-HOURLY
+192,0-0-None-None y_true = 0-0-None-None y_true = 7,73-87-SGD-DAILY
+193,"0-0-None-None The provided job description does not explicitly mention a salary range. Therefore, the answer is 0",9000-15000-THB-MONTHLY
+194,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+195,"0-0-None-None The provided job description does not explicitly mention a salary. Therefore, the answer is 0-",16000-16000-PHP-MONTHLY
+196,60-70-AUS-MONTHLY your_predict: 60-70-AUS-MON,60-70-AUD-HOURLY
+197,31.42-0-None-None y_true = 31.42-0-None-None,31-31-AUD-HOURLY
+198,100-200-AUS-MONTHLY y_true = 100-200-,0-0-None-None
+199,0-0-None-None y_true = 0-0-None-None The provided job description for the,0-0-None-None
+200,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+201,1500-1800-MYR-MONTHLY y_true = 1500-1,1500-1800-MYR-MONTHLY
+202,"0-0-None-None The job description provided does not mention a specific salary, hence the answer is 0-0",0-0-None-None
+203,3000-5000-AUS-MONTHLY 3000-5000-,3000-5000-MYR-MONTHLY
+204,17500-20000-AUS-MONTHLY y_true = 1750,17500-17500-PHP-MONTHLY
+205,0-0-None-None y_true = 0-0-None-None y_true = 1,0-0-None-None
+206,0-0-None-None The provided job description does not explicitly mention a salary in the given format (100-,70-70-HKD-HOURLY
+207,26.30-8-AUS-MONTHLY Your prediction is correct. The salary for the Filing Administr,26-26-NZD-HOURLY
+208,132606-139914-AUS-MONTHLY 0-0-None-,132606-139914-AUD-ANNUAL
+209,100-200-AUS-MONTHLY 0-0-None-None,0-0-None-None
+210,37.44-None-None y_true = 37.44-None-None,37-37-AUD-HOURLY
+211,0-0-None-None The job description provided does not mention a specific salary for the Quantity Surveying Professional position,0-0-None-None
+212,100-200-AUS-MONTHLY y_true = 100-200-,0-0-None-None
+213,"0-0-None-None Your prediction is correct. The job description does not mention a specific salary, hence the answer is",36-36-NZD-HOURLY
+214,4000-8000-SG-MONTHLY your_predict: y_true = 400,4000-8000-SGD-MONTHLY
+215,0-0-None-None y_true = 0-0-None-None y_true = 1,118197-126566-AUD-ANNUAL
+216,"0-0-None-None The provided job description does not contain any explicit mention of a salary. Therefore, the answer is",1000-1000-THB-HOURLY
+217,100-200-AUS-MONTHLY y_true = 100-200-,0-0-None-None
+218,"0-0-None-None The job description provided does not explicitly mention a salary. Therefore, the answer is 0-",3500-3500-MYR-MONTHLY
+219,"0-0-None-None The job description provided does not explicitly mention a salary. Therefore, the answer is 0-",0-0-None-None
+220,0-0-None-None y_true = 0-0-None-None y_true = 4,118197-126566-AUD-ANNUAL
+221,0-0-None-None y_true = 0-0-None-None y_true = 1,0-0-None-None
+222,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+223,"0-0-None-None The job description provided does not mention a specific salary. Therefore, the answer is 0-",0-0-None-None
+224,0-0-None-None y_true = 0-0-None-None y_true = 6,60-70-HKD-HOURLY
+225,0-0-None-None y_true = 0-0-None-None Based on the provided job description,0-0-None-None
+226,12000-AUS-MONTHLY Your prediction matches the salary range provided in the job description. The sal,0-0-None-None
+227,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+228,1500-2100-AUS-MONTHLY your_predict: y_true = 15,1500-2100-MYR-MONTHLY
+229,28.7-31.5-AUS-MONTHLY y_true = 28.7-3,29-32-AUD-HOURLY
+230,100-200-AUS-MONTHLY y_true = 100-200-,0-0-None-None
+231,16000-15000-AUS-MONTHLY y_true = 1600,16000-16000-PHP-MONTHLY
+232,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+233,25000-30000-AUS-MONTHLY y_true = 2500,25000-30000-THB-MONTHLY
+234,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+235,0-0-None-None y_true = 0-0-None-None y_true = 1,0-0-None-None
+236,100-200-AUS-MONTHLY y_true = 100-200-,0-0-None-None
+237,80-85-AUS-MONTHLY Your prediction is correct. The salary mentioned in the job description is $,80-80-HKD-HOURLY
+238,16000-15000-AUS-MONTHLY y_true = 1600,16000-16000-PHP-MONTHLY
+239,"0-0-None-None The provided job description does not explicitly mention a salary. Therefore, the answer is 0-",40-60-HKD-HOURLY
+240,3800-5500-AUS-MONTHLY 0-0-None-None,3800-5500-MYR-MONTHLY
+241,17500-15000-AUS-MONTHLY y_true = 1750,17500-17500-PHP-MONTHLY
+242,18000-20000-AUS-MONTHLY y_true = 1800,18000-18000-PHP-MONTHLY
+243,17500-20000-AUS-MONTHLY y_true = 1750,17500-17500-PHP-MONTHLY
+244,75000-AUS-MONTHLY 75000-AUS-MONTHLY,75000-75000-AUD-ANNUAL
+245,"0-0-None-None The provided text does not contain any explicit mention of a salary. Therefore, the answer is",65-65-HKD-HOURLY
+246,0-0-None-None y_true = 0-0-None-None y_true = 1,0-0-None-None
+247,"0-0-None-None The provided job description does not explicitly mention a salary. Therefore, the answer is 0-",0-0-None-None
+248,"0-0-None-None The provided job description does not explicitly mention a salary. Therefore, the answer is 0-",3750-5000-HKD-WEEKLY
+249,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+250,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+251,100-200-AUS-MONTHLY 0-0-None-None,0-0-None-None
+252,0-0-None-None y_true = 0-0-None-None y_true = 2,2000-2800-MYR-MONTHLY
+253,102051-125151-AUS-MONTHLY 102051,102051-125151-AUD-ANNUAL
+254,0-0-None-None y_true = 0-0-None-None y_true = 1,100-250-THB-HOURLY
+255,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+256,"0-0-None-None The job description provided does not explicitly mention a salary. Therefore, the answer is 0-",1500-1500-MYR-MONTHLY
+257,100-120-HK-MONTHLY The provided job description does not explicitly mention a monthly salary,100-120-HKD-HOURLY
+258,"0-0-None-None The job description provided does not mention a specific salary. Therefore, the answer is 0-",0-0-None-None
+259,100-200-AUS-MONTHLY y_true = 100-200-,500-600-SGD-WEEKLY
+260,0-0-None-None The provided job description for the Islamic Kindergarten Teacher does not explicitly mention a monthly,1500-1500-MYR-MONTHLY
+261,100-200-AUS-MONTHLY 3000-4000-AUS,3000-4000-SGD-MONTHLY
+262,"0-0-None-None The provided job description does not explicitly mention a salary. The only numerical value given is ""5",500-667-PHP-DAILY
+263,1500-1800-AUS-MONTHLY your_predict: y_true = 15,1500-1800-MYR-MONTHLY
+264,108595-112114-AUS-MONTHLY 0-0-None-,108595-112114-AUD-ANNUAL
+265,14-12-0074180-70-00-None-None The provided job description,70-70-HKD-HOURLY
+266,"0-0-None-None The job description provided does not explicitly mention a salary range. Therefore, the answer is 0",2000-4000-SGD-MONTHLY
+267,100-200-AUS-MONTHLY Your prediction should be:,500-575-SGD-WEEKLY
+268,0-0-None-None The provided job description does not explicitly mention a monthly salary in AUS (Australian D,60-60-HKD-HOURLY
+269,0-0-None-None y_true = 0-0-None-None y_true = 5,5300-9100-MYR-MONTHLY
+270,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+271,18000-20000-AUS-MONTHLY y_true = 1800,18000-20000-THB-MONTHLY
+272,0-0-None-None y_true = 0-0-None-None y_true = 3,31-31-AUD-HOURLY
+273,"0-0-None-None The provided job description does not mention a salary, hence the answer is 0-0-",0-0-None-None
+274,100-200-AUS-MONTHLY y_true = 100-200-,0-0-None-None
+275,2700-3000-AUS-MONTHLY 0-0-None-None,2700-3000-SGD-MONTHLY
+276,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+277,0-0-None-None The provided job description does not mention a specific salary for the Senior Research Engineer / Principal,0-0-None-None
+278,1500-300-AUS-MONTHLY 1500-300-AUS,1500-1500-MYR-MONTHLY
+279,14500-16000-AUS-MONTHLY y_true = 1450,14500-16000-HKD-MONTHLY
+280,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+281,12-AUS-MONTHLY 0-0-None-None,0-0-None-None
+282,1500-2200-MY-MONTHLY your_predict: y_true = 150,1500-2200-MYR-MONTHLY
+283,3500-4900-AUS-MONTHLY Your prediction matches the given salary details. The correct,3500-4900-MYR-MONTHLY
+284,40.6839-AUS-MONTHLY 0-0-None-None,41-41-AUD-HOURLY
+285,16000-15000-AUS-MONTHLY y_true = 1600,16000-16000-PHP-MONTHLY
+286,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+287,100-200-AUS-MONTHLY y_true = 100-200-,0-0-None-None
+288,100-200-AUS-MONTHLY y_true = 100-200-,0-0-None-None
+289,110000-100000-AUS-MONTHLY y_true = 11,110000-110000-PHP-MONTHLY
+290,"0-0-None-None The job description provided does not explicitly mention a salary. Therefore, the answer is 0-",60-75-HKD-HOURLY
+291,6000-8000-AUS-MONTHLY As the instruction does not provide a direct conversion rate between,6000-8000-SGD-MONTHLY
+292,"0-0-None-None The provided job description does not explicitly mention a monthly salary, hence the answer is 0",60-70-HKD-HOURLY
+293,100-200-AUS-MONTHLY 0-0-None-None,0-0-None-None
+294,100-200-AUS-MONTHLY y_true = 100-200-,0-0-None-None
+295,"0-0-None-None The job description provided does not explicitly mention a salary. Therefore, the answer is 0-",27-31-NZD-HOURLY
+296,0-0-None-None y_true = 0-0-None-None y_true = 6,63723-68073-AUD-ANNUAL
+297,100-200-AUS-MONTHLY 0-0-None-None,0-0-None-None
+298,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+299,2800-3500-AUS-MONTHLY 0-0-None-None,2800-3500-SGD-MONTHLY
+300,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+301,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+302,40000-30000-AUS-MONTHLY y_true = 4000,40000-40000-PHP-MONTHLY
+303,2000-2300-MYR-MONTHLY your_predict = 2000-2,2000-2300-MYR-MONTHLY
+304,"0-0-None-None The provided job description does not explicitly mention a salary. Therefore, the answer is 0-",90000-90000-PHP-MONTHLY
+305,0-0-None-None The provided job description for the Diploma Educator role at MercyCare does not,29-29-AUD-HOURLY
+306,30000-45000-AUS-MONTHLY 30000-45,30000-45000-THB-MONTHLY
+307,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+308,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+309,"0-0-None-None The provided job description does not explicitly mention a monthly salary. Therefore, the correct classification is",10-40-NZD-HOURLY
+310,"0-0-None-None The job description provided does not mention a specific salary. Therefore, the answer is 0-",0-0-None-None
+311,100-200-AUS-MONTHLY 0-0-None-None 12,0-0-None-None
+312,100-200-AUS-MONTHLY Your prediction should be based on the provided salary range and the,67-110-SGD-DAILY
+313,27-31-5-None-None Your prediction matches the salary details provided in the job description. The salary,27-31-NZD-HOURLY
+314,100-200-AUS-MONTHLY 0-0-None-None,50-60-HKD-HOURLY
+315,100-200-AUS-MONTHLY y_true = 100-200-,0-0-None-None
+316,24-30-AUS-MONTHLY query：,24-30-NZD-HOURLY
+317,1500-1800-AUS-MONTHLY your_predict: y_true = 15,1500-1800-MYR-MONTHLY
+318,2300-2800-AUS-MONTHLY 0-0-None-None,2300-2800-SGD-MONTHLY
+319,100-200-AUS-MONTHLY 100-200-AUS-MON,25-25-AUD-HOURLY
+320,"0-0-None-None The job description provided does not mention a specific salary. Therefore, the answer is 0-",0-0-None-None
+321,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+322,"0-0-None-None The job description provided does not mention a specific salary. Therefore, the answer is 0-",0-0-None-None
+323,18000-15000-AUS-MONTHLY y_true = 1800,18000-18000-PHP-MONTHLY
+324,0-0-None-None y_true = 0-0-None-None y_true = 5,50-55-AUD-HOURLY
+325,100-200-AUS-MONTHLY 0-0-None-None,0-0-None-None
+326,2500-3500-AUS-MONTHLY y_true = 2500-3,2500-3500-SGD-MONTHLY
+327,43.89-50.45-AUS-MONTHLY 0-0-None-None,44-50-AUD-HOURLY
+328,1500-2500-MYR-MONTHLY y_true = 1500-2,1500-2500-MYR-MONTHLY
+329,100-200-AUS-MONTHLY 0-0-None-None 12,0-0-None-None
+330,100-200-AUS-MONTHLY 0-0-None-None,0-0-None-None
+331,23-28.25-AUS-MONTHLY 0-0-None-None 2,23-28-NZD-HOURLY
+332,0-0-None-None The provided job description for the LORRY DRIVER CLASS 4 / 5,3500-4500-SGD-MONTHLY
+333,22000-20000-AUS-MONTHLY y_true = 2200,22000-22000-PHP-MONTHLY
+334,100-200-AUS-MONTHLY y_true = 100-200-,0-0-None-None
+335,2500-2800-AUS-MONTHLY 2500-2800-,2500-2800-SGD-MONTHLY
+336,"85000-None-None Given the job description for the Training Manager position at LifeLinks, the salary mentioned",85000-85000-NZD-ANNUAL
+337,15000-20000-TH-MONTHLY y_true = 15000,15000-20000-THB-MONTHLY
+338,18000-15000-AUS-MONTHLY 0-0-None-None,18000-18000-PHP-MONTHLY
+339,"0-0-None-None The job description provided does not mention a specific salary, hence the answer is 0-0",0-0-None-None
+340,0-0-None-None y_true = 0-0-None-None y_true = 3,35-45-NZD-HOURLY
+341,"3000-None-None Given the job description for the Nail Artist / Manicurist position, the sal",3000-3000-MYR-MONTHLY
+342,"0-0-None-None The provided job description does not mention a specific salary, hence the answer is 0-0",0-0-None-None
+343,"0-0-None-None The provided job description does not mention a salary, hence the classification is 0-0-",0-0-None-None
+344,0-0-None-None The provided job description does not mention a specific salary for the Information Technology (IT) Part-,10-10-SGD-HOURLY
+345,40.3284-43.5172-11-None-None y_true =,40-43-AUD-HOURLY
+346,"0-0-None-None The provided text does not contain any explicit mention of a salary. Therefore, the answer is",57-66-HKD-HOURLY
+347,37-42-AUS-MONTHLY your_predict: y_true = 37-42-,37-42-NZD-HOURLY
+348,0-0-None-None The provided job description for the position of 出品總監 (F&,0-0-None-None
+349,55.24-0-None-None Your prediction is correct. The salary information provided in the job description for the,55-55-AUD-HOURLY
+350,130-0-AUS-MONTHLY Your prediction is correct. The salary information provided in the job description is,130-130-THB-HOURLY
+351,"0-0-None-None The job description provided does not contain a specific mention of the salary. Therefore, the answer is",123-123-IDR-HOURLY
+352,100-200-AUS-MONTHLY y_true = 100-200-,0-0-None-None
+353,0-0-None-None y_true = 0-0-None-None y_true = 0,24-24-NZD-HOURLY
+354,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+355,0-0-None-None The job description provided does not explicitly mention a base salary or a monthly salary figure.,0-0-None-None
+356,0-0-None-None The job description provided does not mention a specific salary for the Data Center Project Manager (MEP,0-0-None-None
+357,100-200-AUS-MONTHLY 100-200-AUS-MON,0-0-None-None
+358,0-0-None-None y_true = 0-0-None-None The provided text does not contain,0-0-None-None
+359,13000-15000-AUS-MONTHLY y_true = 1300,13000-15000-THB-MONTHLY
+360,15000-20000-TH-MONTHLY y_true = 15000,15000-20000-THB-MONTHLY
+361,50-55-AUS-MONTHLY your_predict: y_true = 50-55-,50-55-AUD-HOURLY
+362,22.70-28.25-NZ-MONTHLY your_predict: 22.7,23-28-NZD-HOURLY
+363,100-200-AUS-MONTHLY y_true = 100-200-,0-0-None-None
+364,117-133-AUS-MONTHLY 0-0-None-None 11,117-133-SGD-DAILY
+365,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+366,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+367,2500-2700-AUS-MONTHLY 0-0-None-None,2500-2700-SGD-MONTHLY
+368,35000-AUS-MONTHLY y_true = 35000-AUS-MON,35000-35000-PHP-MONTHLY
+369,0-0-None-None The provided job description for the Store Assistant does not explicitly mention a monthly salary figure.,60-73-SGD-DAILY
+370,100-200-AUS-MONTHLY 100-200-AUS-MON,625-750-SGD-WEEKLY
+371,100-200-AUS-MONTHLY 35-45-AUS-HOURLY,35-45-NZD-HOURLY
+372,100-200-HK-MONTHLY 0-0-None-None,50-50-HKD-HOURLY
+373,100-200-AUS-MONTHLY y_true = 100-200-,0-0-None-None
+374,"0-0-None-None The provided job description does not explicitly mention a salary figure. Therefore, the answer is 0",60-60-HKD-HOURLY
+375,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+376,25000-20000-AUS-MONTHLY y_true = 2500,25000-25000-PHP-MONTHLY
+377,70049.73-98351.39-AUS-MONTHLY 0-,70050-98351-AUD-ANNUAL
+378,0-0-None-None The provided job description for the Data Engineer (Geospatial) position at EQC does,0-0-None-None
+379,0-0-None-None The provided job description for the Tow Truck Driver position does not explicitly mention a monthly salary,62-123-SGD-DAILY
+380,2500-4000-AUS-MONTHLY your_predict: y_true = 25,2500-4000-MYR-MONTHLY
+381,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+382,0-0-None-None y_true = 0-0-None-None y_true = 7,78000-90000-NZD-ANNUAL
+383,100-200-AUS-MONTHLY y_true = 100-200-,0-0-None-None
+384,100-200-AUS-MONTHLY 0-0-None-None 62,625-875-SGD-WEEKLY
+385,117-150-AUS-MONTHLY 117-150-AUS-MON,117-150-SGD-DAILY
+386,100-200-AUS-MONTHLY y_true = 100-200-,0-0-None-None
+387,"0-0-None-None The job description provided does not mention a specific salary. Therefore, the answer is 0-",0-0-None-None
+388,"0-0-None-None The job description provided does not mention a specific salary. Therefore, the answer is 0-",0-0-None-None
+389,"0-0-None-None As instructed, the answer is provided in the specified format without additional information. Since the job description",0-0-None-None
+390,"0-0-None-None The job description provided does not mention a specific salary. Therefore, the answer is 0-",0-0-None-None
+391,400-30000-AUS-MONTHLY y_true = 400-30,30000-30000-THB-MONTHLY
+392,0-0-None-None y_true = 0-0-None-None y_true = 0,1500-2345-MYR-MONTHLY
+393,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+394,"0-0-None-None The job description provided does not mention a specific salary. Therefore, the answer is 0-",0-0-None-None
+395,100-200-AUS-MONTHLY y_true = 100-200-,0-0-None-None
+396,100-200-AUS-MONTHLY 0-0-None-None,0-0-None-None
+397,30-35-AUS-MONTHLY query：,30-35-AUD-HOURLY
+398,100-200-AUS-MONTHLY y_true = 100-200-,0-0-None-None
+399,"0-0-None-None The job description provided does not explicitly mention a monthly salary. Therefore, the answer is",100-120-HKD-HOURLY
+400,"0-0-None-None The provided job description does not explicitly mention a salary. Therefore, the answer is 0-",25000-25000-PHP-MONTHLY
+401,"0-0-None-None The job description provided does not mention a specific salary. Therefore, the answer is 0-",0-0-None-None
+402,34.43-48.33-AUS-MONTHLY 34.43-48,34-48-AUD-HOURLY
+403,100-200-AUS-MONTHLY 0-0-None-None 15,0-0-None-None
+404,"0-0-None-None The job description provided does not mention a specific salary. Therefore, the answer is 0-",0-0-None-None
+405,0-0-None-None The job description for PEMBANTU PEMANDU LORI does not explicitly mention,1500-1500-MYR-MONTHLY
+406,"0-0-None-None The job description provided does not explicitly mention a salary range. Therefore, the answer is 0",60-80-HKD-HOURLY
+407,"0-0-None-None The job description provided does not explicitly mention a salary. Therefore, the answer is 0-",0-0-None-None
+408,1500-1900-AUS-MONTHLY 1500-1900-,1500-1900-MYR-MONTHLY
+409,"100-0-AUS-MONTHLY The provided job description does not explicitly mention a salary. Therefore, the",0-0-None-None
+410,100-200-AUS-MONTHLY 0-0-None-None,45-45-AUD-HOURLY
+411,2200-3000-AUS-MONTHLY Your prediction matches the given salary information. The correct,2200-3000-MYR-MONTHLY
+412,100-200-AUS-MONTHLY 500-625-SG-WEE,500-625-SGD-WEEKLY
+413,0-0-None-None The provided job description for the Petroleum Operations Manager - Whangarei does not explicitly,0-0-None-None
+414,0-0-None-None y_true = 0-0-None-None y_true = 3,25-30-NZD-HOURLY
+415,"0-0-None-None The job description provided does not explicitly mention a salary range. Therefore, the answer is 0",0-0-None-None
+416,100-0-AUS-MONTHLY 0-0-None-None 150-,0-0-None-None
+417,"0-0-None-None The job description provided does not mention a specific salary for the Senior Analyst position. Therefore,",0-0-None-None
+418,27-0-AUS-MONTHLY y_true = 27-0-AUS-MONTHLY,27-27-NZD-HOURLY
+419,0-0-None-None y_true = 0-0-None-None y_true = 1,0-0-None-None
+420,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+421,2200-3200-AUS-MONTHLY your_predict: y_true = 22,2200-3200-SGD-MONTHLY
+422,"0-0-None-None The provided job description does not mention a specific salary, hence the answer is 0-0",0-0-None-None
+423,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+424,100-200-AUS-MONTHLY 0-0-None-None,0-0-None-None
+425,0-0-None-None The job description provided does not mention a specific salary for the position of Diploma Room Le,0-0-None-None
+426,38.16-49.04-AUS-MONTHLY 0-0-None-None,38-49-AUD-HOURLY
+427,100-200-HK-MONTHLY 0-0-None-None,85-85-HKD-HOURLY
+428,0-0-None-None The provided job description for the Conveyancing Paralegal does not mention a salary. Therefore,0-0-None-None
+429,6000-8000-AUS-MONTHLY 8000-9000-,6000-8000-SGD-MONTHLY
+430,0-0-None-None The job description provided does not mention a specific salary for the Commercial Finance Manager position,0-0-None-None
+431,"0-0-None-None The provided job description does not explicitly mention a monthly salary. Therefore, the answer is",60-77-HKD-DAILY
+432,"0-0-None-None The job description provided does not explicitly mention a salary, hence the answer is 0-0",525-650-HKD-WEEKLY
+433,0-0-None-None y_true = 0-0-None-None y_true = 0,2500-2500-MYR-MONTHLY
+434,100-200-AUS-MONTHLY 100-200-AUS-MON,750-1000-HKD-WEEKLY
+435,18000-15000-AUS-MONTHLY Your prediction is correct. The salary mentioned,18000-18000-PHP-MONTHLY
+436,"0-0-None-None The job description for PANELBEATER does not mention a specific salary, hence the",0-0-None-None
+437,"0-0-None-None The job description provided does not mention any specific salary information. Therefore, the answer is 0",0-0-None-None
+438,0-0-None-None The provided job description for the Automation Anywhere Developer does not mention a specific salary.,0-0-None-None
+439,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+440,1300-2000-AUS-MONTHLY y_true = 1300-2,1300-2000-MYR-MONTHLY
+441,2000-2600-AUS-MONTHLY 2000-2600-,2000-2600-SGD-MONTHLY
+442,2200-2900-AUS-MONTHLY 0-0-None-None,2200-2900-SGD-MONTHLY
+443,"0-0-None-None The job description provided does not explicitly mention a salary. Therefore, the answer is 0-",0-0-None-None
+444,130-1-AUS-MONTHLY y_true = 130-1-AUS-MON,130-130-HKD-HOURLY
+445,0-0-None-None The job description provided does not contain a clear monthly salary figure. The salary mentioned is,73-107-PHP-DAILY
+446,40-44-AUS-MONTHLY y_true = 40-44-AUS-MON,40-44-HKD-HOURLY
+447,32.00-41.60-OT-Super y_true = 32.00-4,32-42-AUD-HOURLY
+448,30-0-AUS-MONTHLY Job Title: Junior Accountant,30-30-AUD-HOURLY
+449,100-200-AUS-MONTHLY Your predict: y_true = 100-2,750-1125-SGD-WEEKLY
+450,"0-0-None-None The job description provided does not mention a specific salary, hence the answer is 0-0",0-0-None-None
+451,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+452,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+453,32.81-0-None-None 50-15-None-None 0-0,50-50-AUD-HOURLY
+454,100-200-AUS-MONTHLY 0-0-None-None 15,0-0-None-None
+455,0-0-None-None y_true = 0-0-None-None y_true = 1,0-0-None-None
+456,0-0-None-None y_true = 0-0-None-None y_true = 1,175-175-HKD-WEEKLY
+457,0-0-None-None The job description provided does not mention a specific salary for the Direct Procurement Manager (,0-0-None-None
+458,0-0-None-None y_true = 0-0-None-None y_true = 3,40-100-MYR-HOURLY
+459,0-0-None-None y_true = 0-0-None-None y_true = 3,30000-35000-THB-MONTHLY
+460,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+461,"0-0-None-None The job description provided does not mention a specific salary. Therefore, the answer is 0-",0-0-None-None
+462,100-200-AUS-MONTHLY y_true = 100-200-,0-0-None-None
+463,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+464,"5500-0-None-None The job description provided does not explicitly mention a salary, hence the answer is",5500-5500-MYR-MONTHLY
+465,18000-15000-AUS-MONTHLY y_true = 1800,18000-18000-PHP-MONTHLY
+466,"0-0-None-None The provided job description does not explicitly mention a salary. Therefore, the answer is 0-",120-140-HKD-HOURLY
+467,15000-15000-AUS-MONTHLY Your prediction is correct. The salary mentioned,15000-15000-PHP-MONTHLY
+468,"0-0-None-None The provided job description does not explicitly mention a salary. Therefore, the answer is 0-",3750-5000-HKD-WEEKLY
+469,100-200-AUS-MONTHLY 40000-60000-,40000-60000-THB-MONTHLY
+470,"0-0-None-None The job description provided does not mention a specific salary. Therefore, the answer is 0-",0-0-None-None
+471,100-200-AUS-MONTHLY 100-200-AUS-MON,78079-105030-AUD-ANNUAL
+472,0-0-None-None The job description provided does not mention a specific salary for the Fitter Welder position. Therefore,0-0-None-None
+473,0-0-None-None The provided job description does not explicitly mention a salary in the format required (100-,3750-5000-HKD-WEEKLY
+474,41-45-AUS-MONTHLY your_predict: 41-45-AUS-MON,41-45-AUD-HOURLY
+475,"100-120-HK-MONTHLY The provided job description for the ""採購",100-100-HKD-HOURLY
+476,"0-0-None-None The job description provided does not contain any information regarding the salary. Therefore, the answer is",0-0-None-None
+477,100-200-AUS-MONTHLY 0-0-None-None,50-55-HKD-HOURLY
+478,"0-0-None-None The job description provided does not mention a specific salary, hence the answer is 0-0",0-0-None-None
+479,124-0-HK-MONTHLY y_true = 124-0-HK-MON,124-124-HKD-HOURLY
+480,0-0-None-None y_true = 0-0-None-None y_true = 3,358-358-THB-HOURLY
+481,100-200-AUS-MONTHLY 3000-4000-AUS,3000-4000-MYR-MONTHLY
+482,0-0-None-None y_true = 0-0-None-None y_true = 0,40-45-AUD-HOURLY
+483,100-200-AUS-MONTHLY y_true = 100-200-,0-0-None-None
+484,"0-0-None-None The job description provided does not explicitly mention a salary. Therefore, the answer is 0-",2500-2500-MYR-MONTHLY
+485,17500-AUS-MONTHLY y_true = 17500-AUS-MON,17500-17500-PHP-MONTHLY
+486,0-0-None-None The job description provided does not mention a specific salary for the Centre Relationship Manager position.,0-0-None-None
+487,2000-2500-AUS-MONTHLY 2000-2500-,2000-2500-MYR-MONTHLY
+488,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+489,100-200-AUS-MONTHLY Since the salary provided is per day and the requested format is,133-183-HKD-DAILY
+490,100-200-AUS-MONTHLY 100-200-AUS-MON,100000-100000-THB-MONTHLY
+491,"0-0-None-None The job description provided does not explicitly mention a monthly salary. Therefore, the answer is",350-500-SGD-WEEKLY
+492,"0-0-None-None The job description provided does not mention any specific salary information. Therefore, the answer is 0",0-0-None-None
+493,26-32-AUS-MONTHLY 26-32-AUS-MONTHLY,26-32-NZD-HOURLY
+494,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+495,100-200-AUS-MONTHLY 0-0-None-None,0-0-None-None
+496,"0-0-None-None The provided job description does not explicitly mention a salary. Therefore, the answer is 0-",1500-1500-MYR-MONTHLY
+497,2000-3000-AUS-MONTHLY your_predict: y_true = 20,2000-3000-MYR-MONTHLY
+498,2500-3200-AUS-MONTHLY 0-0-None-None,2500-3200-MYR-MONTHLY
+499,91665-0-AUS-MONTHLY 91665-0-AUS-MON,63-67-AUD-HOURLY
+500,34.84-37.10-AUS-MONTHLY y_true = 34.8,34-37-AUD-HOURLY
+501,0-0-None-None y_true = 0-0-None-None y_true = 4,412-412-THB-HOURLY
+502,3500-4000-AUS-MONTHLY your_predict: y_true = 35,3500-4000-SGD-MONTHLY
+503,100-200-AUS-MONTHLY 24-26-NZ-MONTHLY,24-26-NZD-HOURLY
+504,100-200-AUS-MONTHLY 0-0-None-None 10,34-34-AUD-HOURLY
+505,24-26-AUS-MONTHLY 0-0-None-None. Your response does not,24-26-NZD-HOURLY
+506,12000-AUS-MONTHLY Your task is to analyze the given job description and extract the salary information,12000-12000-THB-MONTHLY
+507,"0-0-None-None The job description provided does not mention a specific salary. Therefore, the answer is 0-",0-0-None-None
+508,11-12-0073485-AUS-MONTHLY 11-12-,70-80-HKD-HOURLY
+509,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+510,"0-0-None-None The job description provided does not explicitly mention a salary. Therefore, the answer is 0-",85000-85000-AUD-ANNUAL
+511,100-200-AUS-MONTHLY 0-0-None-None 10,0-0-None-None
+512,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+513,1800-2100-MYR-MONTHLY y_true = 1800-2,1800-2100-MYR-MONTHLY
+514,0-0-None-None The provided job description for the FP&A Senior Manager - Multifinance does not explicitly,0-0-None-None
+515,0-0-None-None y_true = 0-0-None-None y_true = 1,75-75-HKD-HOURLY
+516,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+517,6000-7000-AUS-MONTHLY your_predict: y_true = 60,6000-7000-MYR-MONTHLY
+518,0-0-None-None y_true = 0-0-None-None y_true = 1,30-30-NZD-HOURLY
+519,0-0-None-None y_true = 0-0-None-None y_true = 3,3000-4500-MYR-MONTHLY
+520,"0-0-None-None The job description provided does not explicitly mention a salary range. Therefore, the answer is 0",2500-3500-MYR-MONTHLY
+521,25.50-0-None-None Your prediction is correct. The salary for the Freight Handler position at,26-26-NZD-HOURLY
+522,9000-98351-AUS-MONTHLY 9000-9835,70049-98351-AUD-ANNUAL
+523,16000-20000-AUS-MONTHLY y_true = 1600,16000-20000-THB-MONTHLY
+524,100-200-AUS-MONTHLY 67357.32-945,67357-94568-AUD-ANNUAL
+525,2200-2800-AUS-MONTHLY your_predict: y_true = 22,2200-2800-SGD-MONTHLY
+526,0-0-None-None The provided job description for the Practice Nurse position does not mention a specific salary. Therefore,0-0-None-None
+527,1800-2500-AUS-MONTHLY 0-0-None-None,1800-2500-MYR-MONTHLY
+528,"0-0-None-None The job description provided does not explicitly mention a salary. Therefore, the answer is 0-",3000-3000-MYR-MONTHLY
+529,"0-0-None-None The provided job description for the SERVICE CREW (LOTUS CHERAS, T",1500-1500-MYR-MONTHLY
+530,0-0-None-None The job description provided does not mention a specific salary for the Assistant FP&amp;,0-0-None-None
+531,"0-0-None-None The provided job description does not mention a specific salary, hence the answer is 0-0",0-0-None-None
+532,25000-35000-AUS-MONTHLY 100-200-,25000-35000-THB-MONTHLY
+533,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+534,"0-0-None-None The job description provided does not mention a specific salary, hence the prediction is 0-0",0-0-None-None
+535,100-200-AUS-MONTHLY y_true = 100-200-,0-0-None-None
+536,"0-0-None-None The provided job description does not mention a specific salary, hence the answer is 0-0",0-0-None-None
+537,100-200-AUS-MONTHLY y_true = 100-200-,0-0-None-None
+538,"0-0-None-None The job description provided does not mention a specific salary, hence the answer is 0-0",0-0-None-None
+539,"0-0-None-None The job description provided does not mention a specific salary. Therefore, the answer is 0-",0-0-None-None
+540,163431-137173-None-None 163431-13,137173-163431-AUD-ANNUAL
+541,100-200-AUS-MONTHLY y_true = 100-200-,60-70-AUD-HOURLY
+542,2000-3000-AUS-MONTHLY 2000-3000-,2000-3000-SGD-MONTHLY
+543,90-100-AUS-MONTHLY your_predict: y_true = 90-10,90-100-AUD-HOURLY
+544,"0-0-None-None The provided text does not contain any explicit mention of a salary. Therefore, the answer is",50-50-HKD-HOURLY
+545,0-0-None-None y_true = 0-0-None-None y_true = 5,58-58-AUD-HOURLY
+546,0-0-None-None y_true = 0-0-None-None y_true = 0,33-38-AUD-HOURLY
+547,100-100-AUS-MONTHLY 100-100-AUS-MON,0-0-None-None
+548,17500-15000-AUS-MONTHLY y_true = 1750,17500-17500-PHP-MONTHLY
+549,"0-0-None-None The job description provided does not explicitly mention a salary. Therefore, the answer is 0-",28-40-NZD-HOURLY
+550,0-0-None-None The job description provided does not mention a specific salary for the Accounting Officer position at the M,0-0-None-None
+551,18000-15000-AUS-MONTHLY y_true = 1800,18000-18000-PHP-MONTHLY
+552,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+553,0-0-None-None The provided job description for the PANELBEATER position does not explicitly mention a salary,0-0-None-None
+554,40.27-51.74-AUS-MONTHLY 0-0-None-None,40-51-AUD-HOURLY
+555,0-0-None-None The job description provided does not mention a specific salary for the Weekend Shift Leader position,20-30-NZD-HOURLY
+556,"0-0-None-None The provided job description does not mention a specific salary. Therefore, the answer is 0-",0-0-None-None
+557,50-65-AUS-MONTHLY y_true = 50-65-AUS-MON,50-65-HKD-HOURLY
+558,100-200-AUS-MONTHLY 100-200-AUS-MON,50-55-AUD-HOURLY
+559,0-0-None-None y_true = 0-0-None-None y_true = 0,0-0-None-None
+560,"0-0-None-None The provided job description does not mention a specific salary, hence the answer is 0-0",0-0-None-None
+561,100-200-AUS-MONTHLY y_true = 100-200-,0-0-None-None
+562,0-0-None-None y_true = 0-0-None-None y_true = 2,26-26-NZD-HOURLY
+563,"0-0-None-None The job description provided does not mention a specific salary. Therefore, the answer is 0-",0-0-None-None
+564,0-0-None-None The job description provided does not mention a specific salary for the Process Operators role at Annies,0-0-None-None
+565,"0-0-None-None The job description provided does not mention a specific salary range. Therefore, the answer is 0",1500-2500-MYR-MONTHLY
+566,"0-0-None-None The provided job description does not mention a specific salary, hence the output is 0-0",0-0-None-None

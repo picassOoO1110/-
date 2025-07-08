@@ -1,0 +1,690 @@
+index,predicted,true_label
+0,senior senior senior senior senior senior senior,senior
+1,lead example10：,experienced
+2,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,entry level
+3,senior senior senior senior senior senior senior,senior
+4,junior junior junior junior junior junior junior,intermediate
+5,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+6,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+7,junior junior junior junior junior junior junior,entry level
+8,sales y_true = sales,entry level
+9,intermediate intermediate your_predict: intermediate your_predict: intermediate,experienced
+10,senior senior senior senior senior senior senior,senior
+11,intermediate example10：,experienced
+12,experienced experienced experienced experienced experienced experienced experienced,experienced
+13,senior senior senior senior senior senior senior,senior
+14,intermediate your_predict = intermediate your_predict = intermediate your_predict,trainee
+15,intermediate example10：,experienced
+16,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+17,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+18,junior junior junior junior junior junior junior,apprentice
+19,y_true = junior junior,entry level
+20,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,entry level
+21,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,entry level
+22,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+23,experienced experienced experienced experienced experienced experienced experienced,experienced
+24,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+25,y_true = intermediate example10：,experienced
+26,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,graduate
+27,classification_name = Project Management,senior
+28,senior senior senior senior senior senior senior,senior
+29,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+30,senior senior senior senior senior senior senior,head
+31,foreperson foreperson foreperson foreperson,senior
+32,intermediate example10：,supervisor
+33,senior senior senior senior senior senior senior,lead
+34,experienced experienced experienced experienced experienced experienced experienced,experienced
+35,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,entry level
+36,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+37,lead y_true = lead,trainee
+38,intermediate example10：,entry level
+39,y_true = intermediate example10：,intermediate
+40,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+41,intermediate your_predict = intermediate,entry level
+42,lead y_true = lead,experienced
+43,lead lead your_predict = lead your_predict = lead,lead
+44,senior senior senior senior senior senior senior,senior
+45,y_true = intermediate example10：,entry level
+46,experienced experienced experienced experienced experienced experienced experienced,experienced
+47,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,assistant
+48,intermediate your_predict = intermediate your_predict = senior your_predict,intermediate
+49,intermediate intermediate example10：,intermediate
+50,intermediate intermediate your_predict = intermediate your_predict = intermediate,experienced assistant
+51,intermediate horticulture intermediate,assistant
+52,senior senior senior senior senior senior senior,intermediate
+53,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,lead
+54,y_true = lead y_true = lead y_true = lead,entry level
+55,lead lead your_predict = lead,experienced
+56,intermediate y_true = intermediate y_true = y_,senior
+57,senior senior senior senior senior senior senior,experienced
+58,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+59,intermediate example10：,assistant
+60,intermediate your_predict = intermediate your_predict = intermediate your_predict,intermediate
+61,intermediate your_predict = intermediate,entry level
+62,lead lead your_predict = lead your_predict = lead,senior
+63,senior senior senior senior senior senior senior,intermediate
+64,senior senior senior senior senior senior senior,experienced
+65,y_true = lead y_true = lead y_true = lead,experienced
+66,lead lead your_predict = lead your_predict = lead,experienced
+67,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,junior
+68,senior senior senior senior senior senior senior,senior
+69,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+70,senior senior senior senior senior senior senior,senior
+71,classification_name: Construction,experienced
+72,intermediate example10：,lead
+73,senior senior senior senior senior senior senior,senior
+74,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+75,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+76,intermediate your_predict = intermediate,associate
+77,intermediate example10：,junior
+78,intermediate your_predict = intermediate,experienced
+79,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,senior
+80,senior senior senior senior senior senior senior,intermediate
+81,junior junior junior junior junior junior junior,junior
+82,junior junior junior junior junior junior junior,trainee
+83,lead y_true = lead,director
+84,intermediate your_predict = intermediate,experienced
+85,graduate graduate graduate graduate graduate,graduate/junior
+86,intermediate example10：,intermediate
+87,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+88,senior query：,senior
+89,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+90,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+91,y_true = lead y_true = lead,entry level
+92,junior junior junior junior junior junior junior,entry level
+93,intermediate example10：,lead
+94,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,entry-level
+95,intermediate example10：,experienced
+96,senior senior senior senior senior senior senior,senior
+97,senior senior senior senior senior senior senior,senior
+98,intermediate your_predict = intermediate,assistant
+99,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+100,intermediate your_predict = intermediate your_predict = intermediate your_predict,experienced
+101,intermediate example10：,entry level
+102,senior senior senior senior senior senior senior,senior
+103,senior senior senior senior senior senior senior,senior
+104,senior senior senior senior senior senior senior,head
+105,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+106,intermediate your_predict = intermediate your_predict = intermediate your_predict,experienced
+107,intermediate example10：,assistant
+108,junior junior junior junior junior junior junior,junior
+109,intermediate intermediate example10：,entry level
+110,y_true = senior example10：,intermediate
+111,senior senior senior senior senior senior senior,lead
+112,experienced experienced experienced experienced experienced experienced experienced,experienced
+113,intermediate example10：,senior
+114,senior senior senior senior senior senior senior,experienced
+115,junior junior your_predict = junior your_predict = junior,senior
+116,intermediate your_predict = intermediate,entry level
+117,junior junior your_predict = junior your_predict = junior,intermediate
+118,senior senior senior senior senior senior senior,senior
+119,intermediate intermediate your_predict = intermediate,experienced
+120,experienced experienced experienced experienced experienced experienced experienced,experienced
+121,intermediate example10：,entry level
+122,intermediate example10：,entry level
+123,lead lead lead lead lead lead lead,entry level
+124,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,entry level
+125,intermediate your_predict = intermediate your_predict = intermediate your_predict,experienced
+126,lead your_predict = lead,lead
+127,intermediate your_predict = intermediate,assistant
+128,senior senior senior senior senior senior senior,experienced
+129,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+130,intermediate your_predict = intermediate your_predict = intermediate your_predict,intermediate
+131,junior junior junior junior junior junior junior,graduate/junior
+132,travel agents/consultants senior,experienced
+133,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+134,intermediate example10：,intermediate
+135,junior junior junior junior junior junior junior,manager
+136,intermediate intermediate your_predict：y_true = intermediate your,intermediate
+137,senior y_true = senior y_true = senior y_true,intermediate
+138,intermediate y_true = intermediate y_true = y_,experienced
+139,experienced experienced experienced experienced experienced experienced experienced,experienced
+140,senior senior senior senior senior senior senior,senior
+141,experienced experienced experienced experienced experienced experienced experienced,experienced
+142,lead y_true = lead,assistant
+143,y_true = lead y_true = lead y_true = lead,entry-level to intermediate
+144,sales y_true = experienced query：,experienced
+145,junior junior junior junior junior junior junior,junior
+146,lead Nurse Unit Manager &#8211; QEII Acute Care,head
+147,intermediate intermediate example10：,assistant
+148,experienced experienced experienced experienced experienced experienced experienced,experienced
+149,consulting & generalist HR consulting & generalist HR,senior
+150,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,assistant
+151,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,assistant
+152,intermediate example10：,entry level
+153,junior junior junior junior junior junior junior,apprentice
+154,intermediate example10：,intermediate
+155,intermediate your_predict = intermediate your_predict = intermediate your_predict,assistant
+156,junior junior junior junior junior junior junior,experienced
+157,senior senior senior senior senior senior senior,senior
+158,lead lead,experienced
+159,senior y_true = senior,senior
+160,junior junior junior junior junior junior junior,intermediate
+161,lead example10：,senior
+162,lead your_predict = lead,entry level
+163,intermediate intermediate your_predict：y_true = intermediate your_predict,experienced
+164,senior Compliance Manager – Marketing & Privacy senior,intermediate
+165,senior senior senior senior senior senior senior,intermediate
+166,junior junior junior junior junior junior junior,junior
+167,junior junior junior junior junior junior junior,entry level
+168,senior senior senior senior senior senior senior,experienced
+169,intermediate your_predict = intermediate your_predict = intermediate your_predict,intermediate
+170,intermediate your_predict = intermediate,intermediate
+171,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,entry level
+172,senior senior senior senior senior senior senior,lead
+173,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+174,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,entry level
+175,lead y_true = lead,experienced
+176,lead y_true = lead,lead
+177,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+178,y_true = trainee trainee,trainee
+179,experienced experienced experienced experienced experienced experienced experienced,experienced
+180,senior senior senior senior senior senior senior,experienced
+181,senior senior,senior
+182,junior junior junior junior junior junior junior,assistant
+183,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+184,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,entry level
+185,senior example10：,experienced
+186,senior senior senior senior senior senior senior,senior
+187,lead example10：,head
+188,intermediate your_predict = intermediate your_predict = intermediate your_predict,experienced
+189,y_true = senior example10：,senior
+190,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+191,junior your_predict = junior,graduate
+192,y_true = senior senior,student
+193,intermediate your_predict = intermediate your_predict = intermediate your_predict,intermediate
+194,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+195,experienced experienced experienced experienced experienced experienced experienced,experienced
+196,senior senior senior senior senior senior senior,senior
+197,intermediate your_predict：intermediate your_predict：intermediate your,intermediate
+198,"policy, planning & regulation y_true = senior",senior
+199,experienced experienced experienced experienced experienced experienced experienced,experienced
+200,y_true = senior General Adult Psychiatrists y_true =,specialist
+201,senior query：,intermediate
+202,senior senior senior senior senior senior senior,head
+203,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+204,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+205,intermediate intermediate example10：,experienced
+206,lead lead,senior lead
+207,junior junior junior junior junior junior junior,junior
+208,senior senior senior senior senior senior senior,experienced
+209,lead example10：,lead
+210,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,junior-intermediate
+211,senior senior senior senior senior senior senior,senior
+212,intermediate your_predict = intermediate your_predict = intermediate your_predict,experienced
+213,junior junior junior junior junior junior junior,graduate
+214,intermediate your_predict = intermediate your_predict = intermediate your_predict,experienced
+215,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+216,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+217,senior senior senior senior senior senior senior,intermediate
+218,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,senior
+219,intermediate example10：,intermediate
+220,intermediate your_predict = intermediate your_predict = intermediate your_predict,assistant
+221,senior senior senior senior senior senior senior,head
+222,lead your_predict = lead,experienced
+223,junior junior junior junior junior junior junior,junior
+224,senior example10：,senior
+225,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,entry level
+226,senior senior senior senior senior senior senior,senior
+227,lead example10：,intermediate
+228,intermediate example10：,experienced
+229,intermediate your_predict = intermediate your_predict = intermediate your_predict,experienced
+230,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,entry level
+231,senior senior senior senior senior senior senior,senior
+232,experienced experienced experienced experienced experienced experienced experienced,entry level
+233,senior senior senior senior senior senior senior,senior
+234,reservations intermediate query：,entry level
+235,lead example10：,experienced
+236,experienced experienced experienced experienced experienced experienced experienced,senior
+237,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+238,intermediate your_predict = intermediate,experienced
+239,y_true = lead y_true = lead,lead
+240,lead lead your_predict = lead your_predict = lead,experienced
+241,lead y_true = lead,associate director
+242,senior query：,intermediate
+243,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+244,junior junior junior junior junior junior junior,intermediate
+245,lead y_true = lead,intermediate
+246,intermediate intermediate intermediate,experienced
+247,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+248,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+249,y_true = lead y_true = lead,executive
+250,lead y_true = lead,head
+251,intermediate query：,intermediate
+252,senior y_true = senior,senior
+253,junior your_predict = junior,experienced
+254,lead example10：,senior
+255,y_true = lead y_true = lead y_true = lead,intermediate
+256,intermediate your_predict = intermediate,apprentice
+257,intermediate example10：,intermediate
+258,y_true = senior example10：,senior
+259,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+260,y_true = intermediate intermediate,experienced
+261,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+262,senior senior senior senior senior senior senior,senior
+263,senior senior senior senior senior senior senior,senior
+264,intermediate example10：,intermediate
+265,y_true = experienced example10：,experienced
+266,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+267,sales sales sales sales sales sales sales,intermediate
+268,senior senior senior senior senior senior senior,senior
+269,y_true = senior y_true = senior y_true = senior,principal
+270,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+271,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+272,intermediate your_predict = intermediate your_predict = intermediate your_predict,intermediate
+273,intermediate your_predict = intermediate,intermediate
+274,y_true = experienced example10：,experienced
+275,y_true = lead Speech Pathologist - Part-time / flexible hours,intermediate
+276,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+277,senior senior senior senior senior senior senior,senior
+278,junior junior junior junior junior junior junior,junior
+279,junior junior junior,intermediate
+280,experienced experienced experienced experienced experienced experienced experienced,experienced
+281,intermediate example10：,intermediate
+282,intermediate y_true = intermediate y_true = y_,intermediate
+283,intermediate example10：,intermediate
+284,intermediate query：,intermediate
+285,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+286,civil/structural engineering y_true = senior,lead
+287,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,entry level
+288,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+289,experienced experienced experienced experienced experienced experienced experienced,entry-level
+290,y_true = lead example10：,senior
+291,junior junior junior junior junior junior junior,entry level
+292,intermediate example10：,entry level
+293,senior senior senior senior senior senior senior,senior
+294,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,senior
+295,y_true = senior senior,principal
+296,experienced experienced experienced experienced experienced experienced experienced,entry level
+297,lead example10：,intermediate
+298,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+299,intermediate intermediate example10：,experienced
+300,experienced experienced experienced experienced experienced experienced experienced,experienced
+301,experienced experienced experienced experienced experienced experienced experienced,experienced
+302,intermediate intermediate example10：,senior
+303,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+304,intermediate example10：,lead
+305,y_true = intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+306,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,junior
+307,lead example10：,experienced
+308,y_true = lead example10：,experienced
+309,experienced experienced experienced experienced experienced experienced experienced,experienced
+310,intermediate your_predict = intermediate,intermediate
+311,intermediate your_predict = intermediate your_predict = intermediate your_predict,intermediate
+312,intermediate your_predict = intermediate your_predict = intermediate your_predict,intermediate
+313,intermediate example10：,intermediate
+314,experienced experienced experienced experienced experienced experienced experienced,experienced
+315,intermediate your_predict = intermediate,intermediate
+316,y_true = senior example10：,lead
+317,classification_name = Construction,experienced
+318,senior senior senior senior senior senior senior,senior
+319,intermediate example10：,experienced
+320,intermediate example10：,entry level
+321,experienced experienced experienced experienced experienced experienced experienced,intermediate
+322,junior junior junior junior junior junior junior,junior
+323,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+324,senior senior senior senior senior senior senior,experienced
+325,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,assistant
+326,project coordinator project coordinator y_true = intermediate project coordinator,experienced
+327,senior senior senior senior senior senior senior,chief
+328,junior junior junior junior junior junior junior,assistant
+329,intermediate example10：,experienced
+330,senior senior senior senior senior senior senior,senior
+331,senior senior senior senior senior senior senior,senior
+332,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,graduate
+333,senior senior senior senior senior senior senior,senior
+334,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+335,senior senior senior senior senior senior senior,lead
+336,y_true = experienced example10：,experienced
+337,intermediate your_predict = intermediate,intermediate
+338,intermediate example10：,entry level
+339,intermediate your_predict = intermediate,assistant
+340,y_true = lead y_true = lead,intermediate
+341,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,entry level
+342,junior junior junior junior junior junior junior,junior
+343,senior senior senior senior senior senior senior,director
+344,senior senior senior senior senior senior senior,head
+345,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,entry level
+346,lead example10：,lead
+347,senior example10：,lead
+348,junior junior junior junior junior junior junior,entry level
+349,senior senior senior senior senior senior senior,head
+350,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+351,y_true = experienced example10：,experienced
+352,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,assistant
+353,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,junior
+354,intermediate your_predict = intermediate,intermediate
+355,senior senior senior senior senior senior senior,associate
+356,experienced experienced experienced experienced experienced experienced experienced,experienced
+357,lead y_true = lead,senior
+358,intermediate your_predict = intermediate your_predict = intermediate your_predict,junior
+359,senior senior senior senior senior senior senior,principal
+360,intermediate example10：,senior
+361,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,junior-to-intermediate
+362,intermediate your_predict = waiting staff your_predict = intermediate your_,intermediate
+363,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,entry level
+364,junior junior junior junior junior junior junior,junior
+365,lead example10：,head
+366,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,assistant
+367,intermediate example10：,experienced
+368,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+369,intermediate example10：,experienced
+370,experienced experienced experienced experienced experienced experienced experienced,experienced
+371,board board board board board board board,independent
+372,experienced experienced experienced experienced experienced experienced experienced,experienced
+373,intermediate your_predict = intermediate your_predict = intermediate your_predict,entry level
+374,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+375,y_true = senior example10：,experienced
+376,experienced experienced experienced experienced experienced experienced experienced,experienced
+377,intermediate your_predict：y_true = intermediate your_predict：y_,entry level
+378,junior junior junior junior junior junior junior,entry level
+379,lead y_true = lead,experienced
+380,experienced example10：,intermediate
+381,intermediate example10：,experienced
+382,lead lead your_predict: lead your_predict: lead,experienced
+383,lead example10：,experienced
+384,experienced experienced experienced experienced experienced experienced experienced,experienced
+385,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+386,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,entry level
+387,junior junior junior,assistant
+388,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+389,intermediate your_predict = intermediate your_predict = intermediate your_predict,entry level
+390,senior senior senior senior senior senior senior,senior
+391,lead y_true = lead,intermediate
+392,senior senior senior senior senior senior senior,senior
+393,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,lead
+394,y_true = senior example10：,experienced
+395,senior senior senior senior senior senior senior,lead
+396,intermediate your_predict = intermediate,intermediate
+397,y_true = senior example10：,senior
+398,intermediate your_predict = intermediate,intermediate
+399,senior senior senior senior senior senior senior,associate-director
+400,senior senior senior senior senior senior senior,experienced
+401,lead example10：,senior
+402,senior senior senior senior senior senior senior,senior
+403,junior junior junior junior junior junior junior,third-year apprentice
+404,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+405,junior junior junior junior junior junior junior,intermediate
+406,senior senior senior senior senior senior senior,associate
+407,intermediate assistant assistant assistant assistant assistant assistant,experienced assistant
+408,y_true = lead your_predict：y_true = lead your_,senior
+409,intermediate example10：,entry level
+410,lead y_true = lead,senior
+411,analysis & reporting analysis & reporting,senior
+412,intermediate your_predict = intermediate your_predict = intermediate your_predict,entry level
+413,intermediate example10：,experienced
+414,intermediate query：,senior
+415,lead lead lead lead lead lead lead,head
+416,y_true = senior y_true = senior y_true = senior,early-career
+417,senior senior senior senior senior senior senior,experienced
+418,experienced experienced experienced experienced experienced experienced experienced,experienced
+419,government - state government - state,intermediate
+420,junior junior junior junior junior junior junior,experienced
+421,intermediate your_predict = intermediate your_predict = intermediate your_predict,cadet
+422,senior senior senior senior senior senior senior,senior
+423,senior senior senior senior senior senior senior,senior
+424,y_true = junior junior,entry level
+425,junior junior junior junior junior junior junior,entry level
+426,intermediate your_predict = intermediate your_predict = intermediate your_predict,experienced
+427,intermediate query：,assistant
+428,senior query：,experienced
+429,junior junior junior junior junior junior junior,senior
+430,lead example10：,deputy
+431,senior senior senior senior senior senior senior,principal
+432,recruitment - agency intermediate your_predict：y_true = intermediate,intermediate
+433,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+434,senior senior senior senior senior senior senior,experienced
+435,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,assistant
+436,intermediate example10：,experienced
+437,junior junior junior junior junior junior junior,assistant
+438,intermediate your_predict = intermediate your_predict = intermediate your_predict,intermediate
+439,intermediate intermediate your_predict：y_true = intermediate your_predict,assistant
+440,intermediate example10：,lead
+441,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+442,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+443,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+444,intermediate example10：,experienced
+445,senior senior senior senior senior senior senior,senior
+446,intermediate your_predict = intermediate your_predict = intermediate your_predict,experienced
+447,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+448,senior senior senior senior senior senior senior,experienced
+449,junior junior junior junior junior junior junior,entry level
+450,intermediate example10：,experienced
+451,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+452,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+453,junior junior junior,trainee
+454,intermediate your_predict = intermediate,entry level
+455,junior junior junior junior junior junior junior,assistant
+456,account & relationship management account & relationship management,experienced
+457,y_true = junior your_predict：y_true = junior your_,assistant
+458,senior senior senior senior senior senior senior,executive
+459,intermediate your_predict = intermediate,senior
+460,intermediate query：,intermediate
+461,intermediate your_predict = intermediate,entry level
+462,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+463,y_true = lead y_true = lead y_true = lead,intermediate
+464,experienced experienced experienced experienced experienced experienced experienced,entry level
+465,senior query：,experienced
+466,intermediate example10：,intermediate
+467,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+468,intermediate your_predict = intermediate,assistant
+469,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+470,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,entry level
+471,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+472,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+473,childcare & outside school hours care childcare & outside school hours care,intermediate
+474,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+475,senior senior y_true = senior y_true = senior,senior
+476,senior y_true = senior,associate director
+477,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+478,senior senior senior senior senior senior senior,senior
+479,entry level your_predict = entry level,trainee
+480,intermediate example10：,intermediate
+481,intermediate example10：,supervisor
+482,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+483,senior senior senior senior senior senior senior,head
+484,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+485,intermediate your_predict = intermediate,entry level
+486,entry level your_predict = entry level,trainee
+487,lead y_true = lead,experienced
+488,intermediate example10：,intermediate
+489,junior junior junior junior junior junior junior,entry level
+490,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+491,intermediate intermediate example10：,experienced
+492,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+493,senior senior senior senior senior senior senior,associate
+494,senior senior senior senior senior senior senior,intermediate
+495,intermediate your_predict = intermediate your_predict = intermediate your_predict,lead
+496,payroll payroll payroll payroll payroll,intermediate
+497,senior senior senior senior senior senior senior,lead
+498,lead lead example10：,lead
+499,lead y_true = lead,intermediate
+500,intermediate your_predict = intermediate,intermediate
+501,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,junior
+502,intermediate example10：,intermediate
+503,casual casual casual casual casual,experienced
+504,experienced experienced experienced experienced experienced experienced experienced,head
+505,intermediate example10：,intermediate
+506,y_true = experienced example10：,experienced
+507,intermediate example10：,intermediate
+508,senior senior senior senior senior senior senior,intermediate
+509,lead y_true = lead,senior
+510,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+511,intermediate your_predict = intermediate,intermediate
+512,intermediate your_predict = intermediate your_predict = intermediate your_predict,intermediate
+513,junior junior junior junior junior junior junior,cadet
+514,intermediate example10：,intermediate
+515,senior senior senior senior senior senior senior,experienced
+516,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+517,senior senior senior senior senior senior senior,senior
+518,senior senior senior senior senior senior senior,senior/principal
+519,senior senior senior senior senior senior senior,senior
+520,intermediate example10：,senior
+521,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+522,experienced experienced experienced experienced experienced experienced experienced,experienced
+523,intermediate example10：,entry level
+524,payroll payroll payroll payroll payroll,experienced
+525,intermediate example10：,experienced
+526,senior senior senior senior senior senior senior,principal
+527,y_true = senior senior,head
+528,senior senior senior senior senior senior senior,executive
+529,lead y_true = lead,intermediate
+530,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,senior
+531,senior senior senior senior senior senior senior,intermediate
+532,intermediate example10：,experienced
+533,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+534,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+535,lead lead your_predict = lead your_predict = lead,intermediate management
+536,junior junior junior junior junior junior junior,junior
+537,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+538,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+539,intermediate query：,intermediate
+540,junior junior junior junior junior junior junior,senior
+541,intermediate example10：,intermediate
+542,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+543,y_true = junior junior,entry level
+544,senior senior senior senior senior senior senior,director
+545,experienced experienced experienced experienced experienced experienced experienced,experienced
+546,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,entry level
+547,lead lead example10：,senior
+548,experienced experienced experienced experienced experienced experienced experienced,experienced
+549,intermediate example10：,experienced
+550,intermediate example10：,graduate
+551,senior senior senior senior senior senior senior,senior lead
+552,farm labour farm labour,intermediate
+553,y_true = senior y_true = senior y_true = senior,intermediate
+554,intermediate example10：,entry level
+555,senior senior senior senior senior senior senior,senior
+556,lead y_true = lead,head
+557,experienced experienced experienced experienced experienced experienced experienced,experienced
+558,intermediate your_predict = intermediate,intermediate
+559,lead example10：,senior
+560,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+561,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+562,y_true = senior y_true = senior,intermediate
+563,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,entry level
+564,senior query：,experienced
+565,y_true = experienced example10：,experienced
+566,intermediate your_predict = intermediate,trainee
+567,government - local government - local,experienced
+568,intermediate example10：,lead
+569,experienced experienced experienced experienced experienced experienced experienced,experienced
+570,organizational development organizational development organizational development organizational development,experienced
+571,lead y_true = lead,experienced
+572,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,entry level
+573,intermediate intermediate your_predict：y_true = intermediate your_predict,experienced
+574,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+575,intermediate your_predict = intermediate your_predict = intermediate your_predict,intermediate
+576,intermediate your_predict = intermediate your_predict = intermediate your_predict,lead
+577,intermediate your_predict = intermediate your_predict = intermediate your_predict,intermediate
+578,junior junior your_predict = junior your_predict = junior,intermediate
+579,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+580,intermediate example10：,experienced
+581,intermediate your_predict = intermediate your_predict = intermediate your_predict,experienced
+582,senior senior senior senior senior senior senior,senior
+583,lead example10：,head
+584,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+585,lead lead,lead
+586,intermediate y_true = intermediate y_true = y_,entry level
+587,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+588,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,entry level
+589,senior senior senior senior senior senior senior,senior
+590,senior senior senior senior senior senior senior,senior
+591,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,senior
+592,lead your_predict = lead,experienced
+593,intermediate your_predict = intermediate your_predict = intermediate your_predict,senior
+594,senior senior senior senior senior senior senior,senior
+595,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+596,senior senior senior senior senior senior senior,director
+597,intermediate example10：,experienced
+598,y_true = lead y_true = lead y_true = lead,senior
+599,lead y_true = lead,senior
+600,leadership leadership leadership leadership leadership leadership leadership,senior
+601,y_true = intermediate example10：,specialist
+602,junior junior your_predict：y_true = junior your_predict,experienced
+603,junior junior your_predict = junior,experienced
+604,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+605,y_true = lead your_predict = lead,senior
+606,senior y_true = senior,chief
+607,intermediate example10：,experienced
+608,intermediate your_predict = intermediate your_predict = lead your_predict,intermediate
+609,intermediate example10：,experienced
+610,intermediate your_predict = intermediate your_predict = intermediate your_predict,experienced
+611,experienced experienced experienced experienced experienced experienced experienced,experienced
+612,lead query：,senior
+613,senior senior senior senior senior senior senior,intermediate
+614,senior senior senior senior senior senior senior,senior
+615,lead y_true = lead,lead
+616,junior junior junior junior junior junior junior,experienced
+617,y_true = lead y_true = lead y_true = lead,trainee
+618,intermediate your_predict = intermediate your_predict = intermediate your_predict,experienced
+619,intermediate your_predict = intermediate,entry level
+620,senior query：,experienced
+621,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+622,intermediate example10：,experienced
+623,intermediate your_predict = intermediate your_predict = intermediate your_predict,advanced
+624,lead example10：,executive
+625,experienced experienced experienced experienced experienced experienced experienced,experienced
+626,classification_name: Construction,senior
+627,intermediate example10：,intermediate
+628,senior senior senior senior senior senior senior,intermediate
+629,senior senior senior senior senior senior senior,senior
+630,travel agents/consultants travel agents/consultants travel agents/cons,intermediate
+631,classification_name: Human Resources & Recruitment,experienced
+632,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,entry level
+633,senior y_true = senior,senior
+634,y_true = lead example10：,intermediate
+635,lead team leader lead team leader team leader team leader,lead
+636,y_true = lead y_true = lead,experienced
+637,lead example10：,supervisor
+638,intermediate query：,entry level
+639,intermediate your_predict = intermediate,assistant
+640,intermediate example10：,experienced
+641,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+642,intermediate example10：,retired
+643,intermediate your_predict = intermediate,entry level
+644,senior senior senior senior senior senior senior,experienced
+645,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+646,intermediate intermediate example10：,intermediate
+647,lead y_true = lead,senior
+648,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+649,intermediate your_predict = intermediate your_predict = intermediate your_predict,associate
+650,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+651,intermediate your_predict = intermediate,experienced
+652,junior junior junior junior junior junior junior,1st year apprentice
+653,senior senior senior senior senior senior senior,experienced
+654,lead head head head head head head,head
+655,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+656,senior example10：,senior
+657,lead lead store manager store manager store manager store manager,trainee
+658,senior senior senior senior senior senior senior,chief
+659,intermediate y_true = intermediate y_true = y_,experienced
+660,y_true = experienced y_true = y_true = y,experienced
+661,intermediate intermediate your_predict：y_true = intermediate your,experienced
+662,lead y_true = lead,head
+663,y_true = lead example10：,experienced
+664,intermediate your_predict = intermediate your_predict = intermediate your_predict,experienced
+665,senior senior senior senior senior senior senior,senior
+666,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,entry level
+667,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,intermediate
+668,y_true = experienced example10：,experienced
+669,intermediate example10：,intermediate
+670,intermediate your_predict = intermediate,experienced
+671,lead y_true = lead,head
+672,senior senior senior senior senior senior senior,senior
+673,experienced experienced experienced experienced experienced experienced experienced,intermediate
+674,intermediate intermediate intermediate intermediate intermediate intermediate intermediate,experienced
+675,senior y_true = senior,head
+676,senior senior senior senior senior senior senior,senior
+677,experienced experienced experienced experienced experienced experienced experienced,experienced
+678,intermediate example10：,lead
+679,y_true = experienced experienced experienced experienced experienced experienced,experienced
+680,intermediate your_predict = intermediate,assistant
+681,y_true = lead y_true = lead y_true = lead,experienced
+682,y_true = intermediate example10：,experienced
+683,experienced experienced experienced experienced experienced experienced experienced,experienced
+684,y_true = junior your_predict = junior,experienced
+685,intermediate example10：,entry level
+686,senior senior senior senior senior senior senior,senior
+687,intermediate example10：,associate
+688,y_true = junior query：,graduate

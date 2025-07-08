@@ -1,0 +1,100 @@
+index,predicted,true_label
+0,OnSite query:,OnSite
+1,OnSite OnSite OnSite OnSite OnSite OnSite OnSite OnSite,OnSite
+2,"OnSite The provided answer ""OnSite"" does not match the given job description. The job description does not specify any on-site work",Remote
+3,Remote Remote,Hybrid
+4,Remote Remote,Remote
+5,OnSite OnSite,OnSite
+6,Remote Remote,Hybrid
+7,Remote Remote,Remote
+8,OnSite OnSite Your prediction is correct. The job_ad for the Software Support /Customer Support Consultant at Hammer,Hybrid
+9,Remote Remote,Remote
+10,"Hybrid Hybrid Your prediction is correct. The job description for the Lead Cloud Engineer at Novare Technologies, Inc",Hybrid
+11,OnSite OnSite OnSite OnSite OnSite OnSite OnSite OnSite,OnSite
+12,Remote Remote,Remote
+13,OnSite OnSite OnSite OnSite OnSite OnSite OnSite OnSite,OnSite
+14,OnSite OnSite,OnSite
+15,OnSite The job_ad for the Senior Mechanical Design Engineer at Airswift in Perth is labeled as OnSite because the,OnSite
+16,OnSite OnSite OnSite OnSite OnSite OnSite OnSite OnSite,OnSite
+17,Remote Remote,Remote
+18,OnSite OnSite,OnSite
+19,Remote Remote,Remote
+20,Remote Remote,Remote
+21,Hybrid Hybrid Hybrid Hybrid Hybrid Hybrid Hybrid Hybrid,Hybrid
+22,Remote Remote,Remote
+23,Hybrid Hybrid,Hybrid
+24,OnSite OnSite,OnSite
+25,OnSite Alvaro Logistics Group OnSite,OnSite
+26,Hybrid Hybrid,Hybrid
+27,Hybrid Hybrid,OnSite
+28,Remote Remote,Remote
+29,Hybrid Hybrid,OnSite
+30,OnSite OnSite,OnSite
+31,OnSite y_true = OnSite y_true = OnSite y_true = OnSite y_,Hybrid
+32,OnSite OnSite,Hybrid
+33,Remote Remote,Remote
+34,OnSite OnSite,OnSite
+35,Remote Remote,OnSite
+36,OnSite OnSite OnSite OnSite OnSite OnSite OnSite OnSite,OnSite
+37,Hybrid Hybrid,Hybrid
+38,"OnSite The provided job description does not clearly indicate a specific work arrangement, but the mention of ""ideally would come to the office once",Hybrid
+39,OnSite OnSite,OnSite
+40,Remote Remote,Hybrid
+41,Remote Remote,Remote
+42,Remote Remote,Remote
+43,Remote Remote,Remote
+44,Hybrid Hybrid,Hybrid
+45,Hybrid Hybrid,OnSite
+46,OnSite The job_ad for the Practice Administrator at Clear Health Psychiatry in subiaco is OnSite.,OnSite
+47,Remote Remote,Remote
+48,Remote Remote,Remote
+49,OnSite OnSite,OnSite
+50,Hybrid example10：,Hybrid
+51,Hybrid Hybrid,Hybrid
+52,OnSite OnSite,OnSite
+53,OnSite The job_ad for the Project Manager - CRM role at Data#3 People Solutions in Brisbane is l,OnSite
+54,OnSite OnSite,OnSite
+55,Remote Remote,Remote
+56,OnSite The job_ad for a Plumber Wanted at Gregory Built Pty Ltd in Adelaide is labeled as On,OnSite
+57,Hybrid The job_ad for the Go-To-Market Manager for Azure Data & AI in Asia offers a hybrid work,Hybrid
+58,Hybrid Hybrid,Hybrid
+59,Remote Remote,Remote
+60,OnSite OnSite,OnSite
+61,OnSite OnSite OnSite OnSite OnSite OnSite OnSite OnSite,Hybrid
+62,Remote Remote Your prediction is correct. The job description indicates a remote work arrangement. Your prediction is correct. The,OnSite
+63,Hybrid Hybrid,Hybrid
+64,Remote Remote,Remote
+65,Remote Remote,Remote
+66,Remote Remote,Remote
+67,Hybrid Hybrid Hybrid Hybrid Hybrid Hybrid Hybrid Hybrid,Hybrid
+68,Hybrid Hybrid,OnSite
+69,OnSite OnSite,OnSite
+70,OnSite Hybrid query：,Hybrid
+71,OnSite OnSite,OnSite
+72,OnSite OnSite,OnSite
+73,Hybrid Hybrid,Hybrid
+74,OnSite OnSite OnSite OnSite OnSite OnSite OnSite OnSite,OnSite
+75,Remote Remote Remote Remote Remote Remote Remote Remote,Remote
+76,Remote Remote,OnSite
+77,Remote Remote,Remote
+78,OnSite OnSite,OnSite
+79,OnSite OnSite,OnSite
+80,Hybrid Hybrid,Hybrid
+81,OnSite OnSite,OnSite
+82,Hybrid Hybrid,Hybrid
+83,OnSite The job_ad for the JP (Early Entry - Year 2) Gifted and Talented Teacher,OnSite
+84,Remote Remote,Remote
+85,"OnSite The job_ad for Occupational Therapist - Launceston, Tasmania is labeled as OnSite because the",Hybrid
+86,Remote Graduate Speech Pathologist Remote,OnSite
+87,OnSite OnSite OnSite OnSite OnSite OnSite OnSite OnSite,OnSite
+88,OnSite OnSite OnSite,OnSite
+89,Hybrid Hybrid,Hybrid
+90,Remote Remote,Remote
+91,OnSite OnSite,OnSite
+92,"OnSite The job description does not provide explicit information about the work arrangement, but given the nature of the role and the requirement for on-",OnSite
+93,Remote Remote,Remote
+94,OnSite OnSite,OnSite
+95,Hybrid Hybrid,Hybrid
+96,OnSite OnSite OnSite,OnSite
+97,OnSite OnSite OnSite OnSite OnSite OnSite OnSite OnSite,OnSite
+98,OnSite OnSite,OnSite
