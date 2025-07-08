@@ -3,10 +3,10 @@
 **Project Title**: [Improving Customer Feedback Classification]  
 
 ## Team Members
-- Name： [Bowen Lu], zID: [z5472591]  
+- Name： [Xu Zhao], zID: [z5509850] 
 - Name： [Jiayu Gao], zID: [z5540442]  
 - Name： [Leshan Zhang], zID: [z5486819]
-- Name： [Xu Zhao], zID: [z5509850] 
+- Name： [Bowen Lu], zID: [z5472591]  
 - Name： [Ziang Luo], zID: [z5509326]  
 
 We have put the dataset analysis, result analysis and all representative codes into COMP6713.ipynb. You can know our work through COMP6713.ipynb, reports and presentations.
