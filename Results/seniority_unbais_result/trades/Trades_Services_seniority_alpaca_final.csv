@@ -1,0 +1,31 @@
+index,predicted,true_label,is_correct
+0,experienced,experienced,True
+a,entry level,entry level,True
+2,associate,associate,True
+3,experienced,experienced,True
+4,experienced,experienced,True
+5,intermediate,intermediate,True
+6,experienced,experienced,True
+7,experienced,experienced,True
+8,experienced,head,False
+9,experienced,experienced,True
+10,apprentice,apprentice,True
+11,entry level,experienced,False
+12,experienced,experienced,True
+13,experienced,advanced,False
+14,experienced,intermediate,False
+15,experienced,experienced,True
+16,experienced,intermediate,False
+17,experienced,experienced,True
+18,experienced,experienced,True
+19,experienced,experienced,True
+20,experienced,experienced,True
+a,experienced,assistant,False
+22,experienced,intermediate,False
+a,intermediate,entry level,False
+24,experienced,experienced,True
+25,experienced,experienced,True
+a,experienced,experienced,True
+27,experienced,experienced,True
+28,experienced,intermediate,False
+29,experienced,intermediate,False
