@@ -1,0 +1,568 @@
+index,predicted,true_label
+0,0-0-None-Noneঠি,1500-1800-MYR-MONTHLY
+1,y_true: 0-0-None-None,60-60-HKD-HOURLY
+2,0-0-None-Noneறிவு Environmental Protection Officer,0-0-None-None
+3,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,0-0-None-None
+4,0-0-None-Noneறிவுançais,0-0-None-None
+5,0-0-None-Noneარა,21-21-NZD-HOURLY
+6,Job Title: QHSE Client Manager ,0-0-None-None
+7,0-0-None-Noneறிவு,0-0-None-None
+8,0-0-None-None,32-32-AUD-HOURLY
+9,1500-2000-MY,2000-3000-MYR-MONTHLY
+10,0-0-None-Noneians,3000-4000-MYR-MONTHLY
+11,0-0-None-Noneறிவு,0-0-None-None
+12,0-0-None-Noneறிவு कदाতেও значение. அறிவு,0-0-None-None
+13,0-0-None-Noneறிவு: 80-90-HKD-HOURLY,80-90-HKD-HOURLY
+14,QLD/469647/23,142642-156491-AUD-ANNUAL
+15,0-0-None-Noneறிவு বেলু,0-0-None-None
+16,0-0-None-Noneறிவு,29-29-AUD-HOURLY
+17,0-0-None-Noneறிவு,1500-2500-MYR-MONTHLY
+18,y_true: 0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,66028-68086-AUD-ANNUAL
+19,NZ,0-0-None-None
+20,0-0-None-None,3000-4000-SGD-MONTHLY
+21,0-0-None-Noneறிவு,0-0-None-None
+22,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,0-0-None-None
+23,y_true: 73-75-HKD-HOURLYარა,73-85-HKD-HOURLY
+24,y_true: 0-0-None-Noneatto कृष्णী,5000-8000-MYR-MONTHLY
+25,0-0-None-Noneறிவு ஒன்றை வழங்குதல். ஒன்று பயன்படுத்துதல்,30-30-NZD-HOURLY
+26,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,0-0-None-None
+27,0-500-SG-HOURLY,500-1250-SGD-WEEKLY
+28,0-0-None-None அறிவுள்ள ஊழியர்கள் பணிபுரியும் பணியாளர்களின் வேலை வாய்ப்பிற்காக வரவேற்கிறோம்.,1500-1500-MYR-MONTHLY
+29,y_true: 750-1125-SGD-PER-WEEK,750-1125-SGD-WEEKLY
+30,0-0-None-Noneיוצרה על ידי ענן,0-0-None-None
+31,Your prediction is correct.,0-0-None-None
+32,0-0-None-Noneარაარა,0-0-None-None
+33,Location: MY,1500-1500-MYR-MONTHLY
+34,0-0-None-Noneறிவு: 2000-2500-SGD-MONTHLY বেলু,2000-2500-SGD-MONTHLY
+35,y_true: 0-0-None-Noneattoარა,58008-58008-AUD-ANNUAL
+36,y_true: 23.38-29.10,23-29-NZD-HOURLY
+37,0-0-None-Noneறிவு 0-0-None-None,3000-6000-MYR-MONTHLY
+38,0-0-None-Noneறிவு perilaku,31-31-NZD-HOURLY
+39,100-0-HKD-100/HOURannonარა，我理解了。,100-100-HKD-HOURLY
+40,0-0-None-Noneறிவு அறிவு: 0-0-None-None,500-667-PHP-DAILY
+41,107-150-SG-MONTHLY,107-150-SGD-DAILY
+42,0-0-None-Noneறிவு: 0-0-None-None apologized.,1500-1500-MYR-MONTHLY
+43,0-0-None-None,20-25-AUD-HOURLY
+44,y_true: 0-0-None-NoneறிவுEnvironmental Impact Assessment,0-0-None-None
+45,0-0-None-Noneறிவு,0-0-None-None
+46,0-0-None-Nonepponeannon,2700-3000-SGD-MONTHLY
+47,0-0-None-Noneறிவு perilaku,0-0-None-None
+48,y_true: 0-0-None-Noneறிவு: 0-0-None-None,0-0-None-None
+49,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,0-0-None-None
+50,0-0-None-None,2300-2700-SGD-MONTHLY
+51,0-0-None-None,0-0-None-None
+52,0-0-None-Noneians,61868-61868-AUD-ANNUAL
+53,0-0-None-None,0-0-None-None
+54,0-0-None-None அறிவுंधन 68965163,0-0-None-None
+55,0-0-None-Noneறிவு,0-0-None-None
+56,0-0-None-Noneறிவு,16000-16000-PHP-MONTHLY
+57,0-0-None-None अंध,0-0-None-None
+58,y_true: 25-30-NZD-HOURLYattoApolloilevelApollo,25-30-NZD-HOURLY
+59,0-0-None-Noneறிவு,0-0-None-None
+60,0-4375-HKD-MONTHLY climatique manquantes,3750-5000-HKD-WEEKLY
+61,0-0-None-Noneறிவு,0-0-None-None
+62,"y_true: 0-0-None-None அறிவுறுத்தून, तुम्ही जे काही निवडले आहे, तेथील कंपनीनुसार",1500-1500-MYR-MONTHLY
+63,"+60 3-7890 6194, KokMeng.Sam@hays.com.my",0-0-None-None
+64,0-0-None-Noneறிவுარა,0-0-None-None
+65,y_true: 17500-17500-PHP-MONTHLY,0-0-None-None
+66,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,0-0-None-None
+67,0-0-None-Noneறிவுenvironmental,500-800-SGD-MONTHLY
+68,0-0-None-Nonenoneundefined,625-800-HKD-WEEKLY
+69,0-0-None-None,0-0-None-None
+70,0-0-None-Noneறிவு: 0-0-None-None,60-60-SGD-DAILY
+71,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,0-0-None-None
+72,0-0-None-Noneறிவு,30-30-AUD-HOURLY
+73,0-0-None-Noneறிவு,0-0-None-None
+74,0-0-None-None,0-0-None-None
+75,0-0-None-Noneறிவு,0-0-None-None
+76,200-200-None-Noneঅর্ণবঅর্ণবঅর্ণবঅর্ণবঅর্ণ,0-0-None-None
+77,0-0-None-Noneარაარა,0-0-None-None
+78,0-0-None-Noneறிவுistry,0-0-None-None
+79,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,1800-2000-MYR-MONTHLY
+80,0-0-None-Noneறிவுجهة المساعدة войне.,0-0-None-None
+81,0-0-None-None அறிவு,27-27-NZD-HOURLY
+82,14000,0-0-None-None
+83,0-0-None-None,0-0-None-None
+84,130378.59 - 132799.68,130378-132799-AUD-ANNUAL
+85,17000-21000-PHP-MONTHLYendaftaran: Pengalaman panggilan yang baik sangat penting. Kem,21000-21000-PHP-MONTHLY
+86,0-0-None-Noneறிவு அறிவுறுத்தல்,0-0-None-None
+87,1300 679 367,123870-127316-AUD-ANNUAL
+88,0-0-None-Noneარაარა,0-0-None-None
+89,0-0-None-None,106-106-HKD-HOURLY
+90,y_true: 0-0-None-None ইউএনЛЕভার 167k,0-0-None-None
+91,0-0-None-Noneறிவுறிவு Astronomer,90-160-HKD-HOURLY
+92,0-0-None-None,2800-4000-SGD-MONTHLY
+93,0-0-None-Noneறிவு,35-45-NZD-HOURLY
+94,0-0-None-Noneარა,60-70-AUD-HOURLY
+95,500-750,500-750-SGD-WEEKLY
+96,y_true: 26.24-26.24-NZD-HOURLY Climates: Tropical &,26-29-NZD-HOURLY
+97,0-0-None-Noneறிவு ,0-0-None-None
+98,0-0-None-Noneარაარა,0-0-None-None
+99,0-0-None-None,0-0-None-None
+100,0-0-None-None,0-0-None-None
+101,0-0-None-Noneיוצרה על ידי מודל שפה.יוצרה על ידי מודל שפה,76171-87566-AUD-ANNUAL
+102,0-0-None-Noneறிவு,0-0-None-None
+103,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,40-46-AUD-HOURLY
+104,0-0-None-Noneარაარა,30-30-AUD-HOURLY
+105,y_true: 0-0-None-None अंधer,0-0-None-None
+106,0-0-None-Noneறிவு: 0-0-None-Noneறிவு: 0-0-None-None,0-0-None-None
+107,0-0-None-None,0-0-None-None
+108,0-0-None-None அறிவுறுத்தید.iene‍♀️,12-12-SGD-HOURLY
+109,0-0-None-None,0-0-None-None
+110,0-0-None-Nonerone,125-170-HKD-HOURLY
+111,100-250-THB-MONTHLYattoარა வாயு,100-250-THB-HOURLY
+112,0-0-None-Noneறிவுistry,35-49-AUD-HOURLY
+113,y_true: 51.38-54.98,51-55-AUD-HOURLY
+114,1500 - 3600-SGD-MONTHLYblommary Climber,2800-3600-SGD-MONTHLY
+115,"0-0-None-Noneறிவு அறிவு இல்லாமல், எனவே இந்த தரவு எதுவும் எனக்குத் தெரியாது. inden",0-0-None-None
+116,0-0-None-Noneறிவுanyon stopped,26-26-NZD-HOURLY
+117,0-0-None-Noneundefined,0-0-None-None
+118,0-0-None-Noneறிவுançais,38-40-AUD-HOURLY
+119,0-0-None-Noneறிவு: 0-0-None-Noneஆனது உங்களுக்கான பதிலைப் பின்பற்றின,34-34-AUD-HOURLY
+120,0-0-None-Noneறிவு அறிவுлишே இல்லை. முடியவில்லை.,17000-17000-PHP-MONTHLY
+121,0-0-None-Noneறிவு,0-0-None-None
+122,0-0-None-Nonepponeარა,12000-30000-HKD-MONTHLY
+123,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,2500-3300-SGD-MONTHLY
+124,0-0-None-Noneறிவு perilaku क्रमांका 1,0-0-None-None
+125,0-0-None-Noneறிவு: 0-0-None-None namn: 0-0-None,2000-2000-MYR-MONTHLY
+126,0-0-None-None,30000-35000-THB-MONTHLY
+127,0-0-None-Noneარაარა,16000-16000-PHP-MONTHLY
+128,0-0-None-None அறிவுரை:,16000-16000-PHP-MONTHLY
+129,0-0-None-Noneறிவு جاه,44-50-HKD-HOURLY
+130,0-0-None-Noneතුवण्य,0-0-None-None
+131,0-0-None-Noneარაარა,0-0-None-None
+132,0-0-None-None அறிவுறுத்தید.,0-0-None-None
+133,0-0-None-None,0-0-None-None
+134,0-0-None-Noneறிவு,0-0-None-None
+135,0-0-None-Noneறிவு جاهزية لمساعدتك.,0-0-None-None
+136,0-0-None-Noneறிவு.றிவு அறிவு.,0-0-None-None
+137,y_true: 0-0-None-Noneattoარაარაარაარაარაარაარა,83-88-HKD-HOURLY
+138,0-0-None-Noneறிவுnone,1250-1500-SGD-WEEKLY
+139,13300-HKD-HOURLYநிலையில்，請提供給我更多資訊，以確定這個角色適合我,13300-13300-HKD-MONTHLY
+140,100-120-HKD-HOURLYარაარაარაარაარაარაარა,100-100-HKD-HOURLY
+141,0-0-None-Noneறிவு: 500-667-HKD-HOURLY,500-667-HKD-DAILY
+142,0-0-None-Noneन्ना,0-0-None-None
+143,0-0-None-Nonepponeარა,0-0-None-None
+144,0-0-None-None,0-0-None-None
+145,17000-17000-SG-HOURLY‍♀️‍♀️‍♀️‍♀️‍♀️‍♀️,4000-4500-SGD-MONTHLY
+146,0-0-None-Noneარა,4000-6000-MYR-MONTHLY
+147,0-0-None-Noneians,0-0-None-None
+148,16000-16000-THB-MONTHLYapparently it’s 16000-,50000-80000-THB-MONTHLY
+149,0-0-None-Nonepponeარა,78-90-AUD-HOURLY
+150,0-0-None-Noneறிவு ,700-800-SGD-WEEKLY
+151,0-0-None-Noneறிவுجهة: The Banjaran Hotsprings Retreat,0-0-None-None
+152,Kaiako - Te Rōnakitanga ki te Reo Kairangi L5 Permanent Full-timeroneroneronerone,0-0-None-None
+153,0-0-None-None,20000-30000-THB-MONTHLY
+154,0-0-None-Noneians,0-0-None-None
+155,y_true: 17500-17500-NZD-HOURLY,0-0-None-None
+156,0-0-None-Noneარა,2400-3700-SGD-MONTHLY
+157,0-0-None-Noneறிவு: 28000-28000-PHP-MONTHLY அறிவு,28000-28000-PHP-MONTHLY
+158,0-0-None-Noneறிவு,0-0-None-None
+159,0-0-None-Noneறிவு: 0-0-None-Noneარაარა,5000-5500-SGD-MONTHLY
+160,0-0-None-None fronteარაარა,65-70-HKD-HOURLY
+161,15614,0-0-None-None
+162,0-0-None-Noneறிவு: 14C7279றிவு: 0-0-None-None,625-750-SGD-WEEKLY
+163,0-0-None-None,225000-250000-AUD-ANNUAL
+164,0-0-None-Noneறிவு,0-0-None-None
+165,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,0-0-None-None
+166,your_predict: 17500-17500-PHP-MONTHLY Climbersж,0-0-None-None
+167,0-0-None-Noneறிவு: 0-0-None-None அறிவு: 0-0-None-,0-0-None-None
+168,0-0-None-None,29-30-AUD-HOURLY
+169,y_true: 0-0-None-None,31-32-AUD-HOURLY
+170,0-0-None-Nonejeroobelated,1500-1500-MYR-MONTHLY
+171,13.45-13.45-SG-HOURLYattotainedtainedtainedtained,13-13-SGD-HOURLY
+172,0-30000-TH-MONTHLYख्या,25000-30000-THB-MONTHLY
+173,Project Manager (System Integration) - NIGHT SHIFT and TEMP WFH!tainedtained,0-0-None-None
+174,0-0-None-Noneทุกคน,25000-35000-THB-MONTHLY
+175,y_true: 0-0-None-None Climatic conditions.debian,0-0-None-None
+176,Job Title: HubSpot Specialist,0-0-None-None
+177,0-0-None-Noneทั้งหมด 1500-1800-Ringgit,1500-1800-MYR-MONTHLY
+178,y_true: 0-0-None-Noneatto Environmental Health Technicianenvironmental health technician,33-33-AUD-HOURLY
+179,y_true: 0-0-None-None அறிவுறுத்தப்பட்டது.,117544-120393-AUD-ANNUAL
+180,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,52-52-AUD-HOURLY
+181,0-0-None-Noneარა,0-0-None-None
+182,y_true: 02 4842 9002 Climber,70050-98351-AUD-ANNUAL
+183,RM3500-RM10000annon,3500-10000-MYR-MONTHLY
+184,0-0-None-Noneறிவு：,12000-30000-HKD-MONTHLY
+185,0-0-None-Noneარაარა,89095-139187-AUD-ANNUAL
+186,0-0-None-Noneறிவு 0-0-None-None,90-100-AUD-HOURLY
+187,y_true: 0-0-None-Noneattoარაtained,0-0-None-None
+188,0-0-None-Noneறிவு அறிவு: 0-0-None-None,3000-5000-MYR-MONTHLY
+189,y_true: 0-0-None-Noneattoall,24-24-NZD-HOURLY
+190,1500-3000-MY-HOURLYattoარა,1500-3000-MYR-MONTHLY
+191,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,200-300-HKD-HOURLY
+192,0-0-None-Noneறிவு ஒன்றி.,73-87-SGD-DAILY
+193,0-0-None-None,9000-15000-THB-MONTHLY
+194,y_true: 0-0-None-Noneทุกคน,0-0-None-None
+195,"16000-16000-PHP-MONTHLYenvironmental_justiceநிலையில், 1",16000-16000-PHP-MONTHLY
+196,0-0-None-Nonetainedარა,60-70-AUD-HOURLY
+197,y_true: 0-0-None-None🦜 Climeworks,31-31-AUD-HOURLY
+198,0-0-None-Noneறிவு कदाستیمم از این بازی.,0-0-None-None
+199,0-0-None-Noneარა,0-0-None-None
+200,0-0-None-Noneறிவுறிவு,0-0-None-None
+201,0-0-None-Nonenoneann,1500-1800-MYR-MONTHLY
+202,0-0-None-Noneறிவு Environmental Management Consultant,0-0-None-None
+203,0-0-None-Noneறிவு: 0-0-None-Noneannonარა,3000-5000-MYR-MONTHLY
+204,0-0-None-Noneறிவு कदा لا تعود العظام إلى الشكل الذي كانت عليه أبدًا,17500-17500-PHP-MONTHLY
+205,0-0-None-None,0-0-None-None
+206,y_true: 70-70-HKD-HOURLYattoარაஆனதுஆன,70-70-HKD-HOURLY
+207,0-0-None-Noneარაარა,26-26-NZD-HOURLY
+208,y_true: 132606-139914-HOURLY,132606-139914-AUD-ANNUAL
+209,17500-17500-PHP-MONTHLY,0-0-None-None
+210,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,37-37-AUD-HOURLY
+211,0-0-None-Noneარაარა,0-0-None-None
+212,0-0-None-Noneறிவு,0-0-None-None
+213,y_true: 0-0-None-None,36-36-NZD-HOURLY
+214,4000-8000ientemente,4000-8000-SGD-MONTHLY
+215,0-0-None-None,118197-126566-AUD-ANNUAL
+216,0-0-None-Noneறிவு,1000-1000-THB-HOURLY
+217,0-0-None-Noneறிவுარა,0-0-None-None
+218,0-0-None-None,3500-3500-MYR-MONTHLY
+219,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,0-0-None-None
+220,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,118197-126566-AUD-ANNUAL
+221,0-0-None-Noneறிவு বেলুती a.ilevel,0-0-None-None
+222,0-0-None-Noneறிவு. அறிவு,0-0-None-None
+223,0-0-None-Noneარაარა,0-0-None-None
+224,0-0-None-Noneattoattoattoattoattoattoattoattoattoattoatto,60-70-HKD-HOURLY
+225,0-0-None-Noneறிவு पातळी: 100,0-0-None-None
+226,0-0-None-Noneறிவுარა,0-0-None-None
+227,16500-16500-PHP-MONTHLYenvironmental,0-0-None-None
+228,0-0-None-NoneApollo,1500-2100-MYR-MONTHLY
+229,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,29-32-AUD-HOURLY
+230,0-0-None-Noneறிவு,0-0-None-None
+231,0-0-None-Noneறிவு: 16000-16000-PHP-MONTHLY,16000-16000-PHP-MONTHLY
+232,0-0-None-None,0-0-None-None
+233,0-0-None-NoneApollo अन्नมด,25000-30000-THB-MONTHLY
+234,0-0-None-None,0-0-None-None
+235,0-0-None-Noneறிவு Kneeარა,0-0-None-None
+236,0-0-None-Noneறிவுrå,0-0-None-None
+237,63645275annon达到了 63645275,80-80-HKD-HOURLY
+238,0-0-None-None,16000-16000-PHP-MONTHLY
+239,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவு,40-60-HKD-HOURLY
+240,0-0-None-Noneறிவுறிவு,3800-5500-MYR-MONTHLY
+241,0-0-None-Noneறிவு: 17500-17500-PHP-MONTHLY,17500-17500-PHP-MONTHLY
+242,0-0-None-Noneन्नाარა.არა.,18000-18000-PHP-MONTHLY
+243,0-0-None-Noneறிவு: 17500-17500-PHP-MONTHLY,17500-17500-PHP-MONTHLY
+244,0-0-None-Noneறிவு,75000-75000-AUD-ANNUAL
+245,y_true: 0-0-None-Nonerollove,65-65-HKD-HOURLY
+246,0-0-None-NoneApolloარაარა,0-0-None-None
+247,0-0-None-Noneறிவு,0-0-None-None
+248,0-0-None-Noneறிவு: 15000-15000-PHP-MONTHLY அறிவு,3750-5000-HKD-WEEKLY
+249,0-0-None-Noneறிவு 0-0-None-None,0-0-None-None
+250,286-286-NZD-HOURLY,0-0-None-None
+251,17500-17500-PHP-MONTHLY,0-0-None-None
+252,RM2000-RM2800 per monthatto,2000-2800-MYR-MONTHLY
+253,"102000-102000-AUD-HOURLYநிலையில், உங்களுக்காக ஒரு நல்ல பதிலை",102051-125151-AUD-ANNUAL
+254,0-100-THB-MONTHLY,100-250-THB-HOURLY
+255,0-0-None-None🦜‍‍‍‍‍,0-0-None-None
+256,22000jerooApollo,1500-1500-MYR-MONTHLY
+257,100-0-HKD-HOURLYattoარაარა,100-120-HKD-HOURLY
+258,0-0-None-None,0-0-None-None
+259,1700-SG-AUD-MONTHLYلبية,500-600-SGD-WEEKLY
+260,y_true: 1500-1500-MY-HOURLYatto कृष्ण.,1500-1500-MYR-MONTHLY
+261,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,3000-4000-SGD-MONTHLY
+262,0-0-None-None,500-667-PHP-DAILY
+263,0-0-None-Noneทุกคน,1500-1800-MYR-MONTHLY
+264,y_true: 0-0-None-Noneறிவு,108595-112114-AUD-ANNUAL
+265,0-0-None-Noneறிவு：0-0-None-Noneறிவு：0-0-None-Noneறிவு：,70-70-HKD-HOURLY
+266,0-0-None-Noneறிவு,2000-4000-SGD-MONTHLY
+267,0-0-None-Noneறிவுარა,500-575-SGD-WEEKLY
+268,0-0-None-Noneणि,60-60-HKD-HOURLY
+269,RM5300-RM9100,5300-9100-MYR-MONTHLY
+270,0-0-None-None,0-0-None-None
+271,0-0-None-None做到 never,18000-20000-THB-MONTHLY
+272,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,31-31-AUD-HOURLY
+273,1300-1300-SG-HOURLYylene,0-0-None-None
+274,y_true: 0-0-None-Noneatto Environmental Management ConsultantsArtificial Intelligence,0-0-None-None
+275,0-0-None-Nonenoneundefined,2700-3000-SGD-MONTHLY
+276,y_true: 0-0-None-None numeroseარა,0-0-None-None
+277,y_true: 5000-5000-SG$HOURLY Climberநிலையில்annon,0-0-None-None
+278,0-0-None-Noneறிவு,1500-1500-MYR-MONTHLY
+279,0-0-None-None Climates: Tropical.,14500-16000-HKD-MONTHLY
+280,0-0-None-None,0-0-None-None
+281,2149...,0-0-None-None
+282,0-0-None-None,1500-2200-MYR-MONTHLY
+283,0-0-None-Noneঠি,3500-4900-MYR-MONTHLY
+284,0-0-None-Noneistry,41-41-AUD-HOURLY
+285,16000-16000-PHP-MONTHLYარაარა,16000-16000-PHP-MONTHLY
+286,0-0-None-Noneარაარა,0-0-None-None
+287,y_true: 0-0-None-Noneறிவு বেলুया.,0-0-None-None
+288,Senior Accountant (RTR/ GL)ख्यानेची उपयुक्तता आणि आवश्यक कौशल्ये,0-0-None-None
+289,110000-110000-PHP-MONTHLYney,110000-110000-PHP-MONTHLY
+290,y_true: 60-70-HKD-HOURLYநிலையில்，提供的信息與預期一致。,60-75-HKD-HOURLY
+291,0-0-None-Noneறிவு,6000-8000-SGD-MONTHLY
+292,"0-0-None-Noneარა कदाचित, હું સમજી ગયો.udges",60-70-HKD-HOURLY
+293,y_true: 0-0-None-Noneறிவு Environmental health and safety.,0-0-None-None
+294,"Facilities Senior Manager, Technology and Innovation",0-0-None-None
+295,y_true: 27-27-NZD-HOURLYintérieur intervenedعلم,27-31-NZD-HOURLY
+296,0-0-None-None🦜,63723-68073-AUD-ANNUAL
+297,your_predict: 0-0-None-None,0-0-None-None
+298,0-0-None-Noneறிவு: 0-0-None-Noneறிவு: 0-0-None-None,0-0-None-None
+299,0-0-None-None அறிவுரை: 0-0-None-None,2800-3500-SGD-MONTHLY
+300,0-0-None-None Neroარა,0-0-None-None
+301,"0-0-None-NoneறிவுNameTo be clear, I’m unable to provide the full answer as requested. The previous examples have",0-0-None-None
+302,40000-50000,40000-40000-PHP-MONTHLY
+303,0-0-None-Noneறிவு: 0-0-None-Noneچள்.چள்.,2000-2300-MYR-MONTHLY
+304,0-9-PHP-MONTHLY,90000-90000-PHP-MONTHLY
+305,0-0-None-None,29-29-AUD-HOURLY
+306,0-0-None-Noneარაარა,30000-45000-THB-MONTHLY
+307,0-0-None-NoneறிவுNameTo be considered is 0-0-None-None,0-0-None-None
+308,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,0-0-None-None
+309,y_true: 32-32-NZD-HOURLYannonjay.,10-40-NZD-HOURLY
+310,0-0-None-Noneறிவு Knee,0-0-None-None
+311,Location: SGjeroje,0-0-None-None
+312,0-0-None-Noneறிவுistry,67-110-SGD-DAILY
+313,0-0-None-None,27-31-NZD-HOURLY
+314,y_true: 0-0-None-Nonerollove.,50-60-HKD-HOURLY
+315,Job Title: Product Growth Manager,0-0-None-None
+316,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,24-30-NZD-HOURLY
+317,0-0-None-Noneარაையாளر,1500-1800-MYR-MONTHLY
+318,0-0-None-Nonenone.,2300-2800-SGD-MONTHLY
+319,0-0-None-None,25-25-AUD-HOURLY
+320,0-0-None-Noneறிவு,0-0-None-None
+321,0-0-None-Noneறிவு: 0-0-None-None,0-0-None-None
+322,0-0-None-Noneannonარა,0-0-None-None
+323,"18000-18000-PHP-MONTHLYநிலையில்,根据提供的文本和要求，提供答案：",18000-18000-PHP-MONTHLY
+324,0-0-None-Noneறிவுenvironmentalenvironmental,50-55-AUD-HOURLY
+325,0-0-None-Noneறிவுiance,0-0-None-None
+326,0-0-None-Noneறிவு. Neroარა.,2500-3500-SGD-MONTHLY
+327,0-0-None-Noneians,44-50-AUD-HOURLY
+328,0-0-None-Nonemanno,1500-2500-MYR-MONTHLY
+329,0-0-None-Noneறிவுلبية,0-0-None-None
+330,0-0-None-None,0-0-None-None
+331,0-0-None-Noneறிவு,23-28-NZD-HOURLY
+332,3500-4500-SGD-MONTHLYannonly,3500-4500-SGD-MONTHLY
+333,22000-22000-PHP-MONTHLYख्या,22000-22000-PHP-MONTHLY
+334,0-0-None-Noneन्नाy,0-0-None-None
+335,"0-0-None-None அறிவுறுத்தலின்படி, உங்கள் கேள்விக்குத் தனித்துவமான பதில் இல்லை.undefined",2500-2800-SGD-MONTHLY
+336,0-0-None-Noneறிவு: 0-0-None-None,85000-85000-NZD-ANNUAL
+337,0-15000-THD-MONTHLYיו,15000-20000-THB-MONTHLY
+338,0-0-None-Noneარაარა,18000-18000-PHP-MONTHLY
+339,0-0-None-Noneარაარაარაარაარაარაარაარა,0-0-None-None
+340,0-0-None-Nonerone,35-45-NZD-HOURLY
+341,3000-3200,3000-3000-MYR-MONTHLY
+342,0-0-None-Noneறிவு: 0-0-None-Noneறிவு: 0-0-None-None,0-0-None-None
+343,0-0-None-Noneறிவு: 0-0-None-None அறிவுறுத்தல்களுடன் கூடிய பதில்கள் எதுவும் இல்லை,0-0-None-None
+344,0-0-None-Noneறிவு,10-10-SGD-HOURLY
+345,0-0-None-Noneறிவு,40-43-AUD-HOURLY
+346,y_true: 0-0-None-None,57-66-HKD-HOURLY
+347,0-0-None-Noneறிவுარა,37-42-NZD-HOURLY
+348,0-0-None-Noneறிவுणि scarcity,0-0-None-None
+349,0-0-None-None,55-55-AUD-HOURLY
+350,130არაარა використаńya,130-130-THB-HOURLY
+351,123არაარა,123-123-IDR-HOURLY
+352,0-0-None-None अंध,0-0-None-None
+353,0-0-None-Noneறிவு: 0-0-None-Noneivably,24-24-NZD-HOURLY
+354,y_true: 0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,0-0-None-None
+355,0-0-None-Noneறிவு: 0-0-None-None,0-0-None-None
+356,0-0-None-Noneறிவு বেলুபுனு,0-0-None-None
+357,0-0-None-Noneறிவு,0-0-None-None
+358,0-0-None-Noneattouru,0-0-None-None
+359,13000-15000-THD-MONTHLY allegedly-monthly,13000-15000-THB-MONTHLY
+360,0-0-None-Noneיו,15000-20000-THB-MONTHLY
+361,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,50-55-AUD-HOURLY
+362,0-0-None-Noneannonარა,23-28-NZD-HOURLY
+363,Location: SG astrophysical,0-0-None-None
+364,0-0-None-Noneறிவு جاهد ، نلتزم بمتطلبات كل ما يتعلق بالعمل. அறிவு,117-133-SGD-DAILY
+365,0-0-None-Noneარაარა,0-0-None-None
+366,0-0-None-Noneறிவுervation,0-0-None-None
+367,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,2500-2700-SGD-MONTHLY
+368,35000-35000-PHP-MONTHLY,35000-35000-PHP-MONTHLY
+369,1600 - $600 - Monthly,60-73-SGD-DAILY
+370,0-0-None-Noneறிவு,625-750-SGD-WEEKLY
+371,0-0-None-Noneறிவு,35-45-NZD-HOURLY
+372,y_true: 0-0-None-Noneeroარაარაარაარა缺乏信息。jerne,50-50-HKD-HOURLY
+373,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,0-0-None-None
+374,0-0-None-Noneनेल,60-60-HKD-HOURLY
+375,0-0-None-Noneறிவு,0-0-None-None
+376,0-25000-PHP-MONTHLY,25000-25000-PHP-MONTHLY
+377,"17/07/2024நிலையில், 17/07/2024",70050-98351-AUD-ANNUAL
+378,0-0-None-Noneannonceannonceannonce,0-0-None-None
+379,26-26-SG-HOURLYtainedannon,62-123-SGD-DAILY
+380,0-0-None-Noneறிவு বেলু.,2500-4000-MYR-MONTHLY
+381,0-0-None-None,0-0-None-None
+382,y_true: 78000-78000-NZD-HOURLY,78000-90000-NZD-ANNUAL
+383,0-0-None-None,0-0-None-None
+384,0-0-None-Noneარაარა,625-875-SGD-WEEKLY
+385,32-32-NZD-HOURLY,117-150-SGD-DAILY
+386,0-0-None-Noneறிவு,0-0-None-None
+387,Kaiako - Te Pīnakitanga ki te Reo Kairangi (Taumata 7)atto Apollo,0-0-None-None
+388,0-0-None-Noneறிவுistry,0-0-None-None
+389,0-0-None-None,0-0-None-None
+390,0-0-None-Noneறிவுistry,0-0-None-None
+391,0-0-None-Noneיוpsilon,30000-30000-THB-MONTHLY
+392,0-0-None-None,1500-2345-MYR-MONTHLY
+393,0-0-None-Noneარაარაარაარაარაარაარაარაარაარაარა,0-0-None-None
+394,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,0-0-None-None
+395,0-0-None-None,0-0-None-None
+396,25000Seller: Software QA Analyst (Manual/Automated Testing) | Night shift,0-0-None-None
+397,0-0-None-Nonerone,30-35-AUD-HOURLY
+398,y_true: 0-0-None-Noneறிவுrone,0-0-None-None
+399,0-0-None-Noneறிவு：0-0-None-Nonetainedარა,100-120-HKD-HOURLY
+400,"17500-17500-PHP-MONTHLYநிலையில்,  I have provided the answers to all the",25000-25000-PHP-MONTHLY
+401,0-0-None-None,0-0-None-None
+402,y_true: 11.55pm.,34-48-AUD-HOURLY
+403,0-0-None-Noneறிவு,0-0-None-None
+404,0-0-None-Noneறிவு,0-0-None-None
+405,0-0-None-None....,1500-1500-MYR-MONTHLY
+406,"0-0-None-None அறிவுறுத்தून, तुमच्या प्रश्नाची नोंद घेतली आहे.jerne",60-80-HKD-HOURLY
+407,0-0-None-Noneარაარა,0-0-None-None
+408,0-0-None-None..,1500-1900-MYR-MONTHLY
+409,0-0-None-None,0-0-None-None
+410,y_true: 32-32-NZD-HOURLY,45-45-AUD-HOURLY
+411,2200-2200-RM-MONTHLYattoარა,2200-3000-MYR-MONTHLY
+412,0-0-None-Noneทั้งหมด 500-625-SGD-MONTHLY,500-625-SGD-WEEKLY
+413,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,0-0-None-None
+414,0-0-None-Noneறிவு,25-30-NZD-HOURLY
+415,0-0-None-Noneenvironmental,0-0-None-None
+416,0-0-None-Noneறிவுistry,0-0-None-None
+417,0-0-None-Noneroneroneroneroneroneroneroneroneroneronerone,0-0-None-None
+418,0-0-None-None,27-27-NZD-HOURLY
+419,y_true: 0-0-None-Noneatto Environmental Health & Safety Specialist ,0-0-None-None
+420,y_true: 22-22-0-None-None.,0-0-None-None
+421,0-0-None-Noneறிவுவனுறி,2200-3200-SGD-MONTHLY
+422,"0-0-None-Noneარა, నేను ఇక్కడ ఉన్నలా చేశాను.",0-0-None-None
+423,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,0-0-None-None
+424,y_true: 0-0-None-Noneיו,0-0-None-None
+425,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,0-0-None-None
+426,38-49Seller’s Salary,38-49-AUD-HOURLY
+427,y_true: 0-0-None-None,85-85-HKD-HOURLY
+428,0-0-None-Noneறிவு 0-0-None-Noneறிவுannonce:PARALEGAL FOR BUS,0-0-None-None
+429,0-0-None-None,6000-8000-SGD-MONTHLY
+430,0-0-None-Nonealloარაარაარაარაარა,0-0-None-None
+431,0-0-None-Noneறிவு 0-0-None-Noneannonარა,60-77-HKD-DAILY
+432,0-0-None-Noneறிவு: 525-650-HKD-MONTHLYარა,525-650-HKD-WEEKLY
+433,y_true: 18-25,2500-2500-MYR-MONTHLY
+434,0-0-None-Noneறிவு,750-1000-HKD-WEEKLY
+435,0-0-None-Noneறிவு,18000-18000-PHP-MONTHLY
+436,0-0-None-Noneறிவு: 0-0-None-Noneறிவு: 0-0-None-None,0-0-None-None
+437,16000-16000-HKD-HOURLYარა、這個問題的解答是 1,0-0-None-None
+438,0-0-None-None,0-0-None-None
+439,0-0-None-Noneறிவு,0-0-None-None
+440,0-0-None-Noneनेल کودک,1300-2000-MYR-MONTHLY
+441,0-0-None-Noneறிவு Knee பாதுகாப்பானது,2000-2600-SGD-MONTHLY
+442,0-0-None-Noneיו,2200-2900-SGD-MONTHLY
+443,0-0-None-Noneறிவு perilaku jadi cheekshearts,0-0-None-None
+444,0-0-None-None,130-130-HKD-HOURLY
+445,0-0-None-None அறிவுறுத்தून दिलेल्या प्रश्नांची उत्तरे येथे आहेत.,73-107-PHP-DAILY
+446,32-23-0032446,40-44-HKD-HOURLY
+447,0-0-None-Noneறிவு. அறிவு,32-42-AUD-HOURLY
+448,1700-3000-AUD-MONTHLY,30-30-AUD-HOURLY
+449,0-0-None-Noneறிவுარა,750-1125-SGD-WEEKLY
+450,0-0-None-Noneறிவுंसा,0-0-None-None
+451,y_true: 0-0-None-Noneattoარაතුજાપિત્તપિત્ત,0-0-None-None
+452,y_true: 0-0-None-Noneறிவுrone,0-0-None-None
+453,0-0-None-Noneარა、ありがとうございます！jerne再确认一下我回答的正确性。ýt. senti.,50-50-AUD-HOURLY
+454,0-0-None-Noneறிவுistry,0-0-None-None
+455,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,0-0-None-None
+456,0-0-None-Noneיוælp,175-175-HKD-WEEKLY
+457,0-0-None-Noneறிவு அறிவு: 0-0-None-None,0-0-None-None
+458,y_true: 40-100-RM-PER-HOURatto Apolloilevel कदा not,40-100-MYR-HOURLY
+459,y_true: 30000-35000-THD-MONTHLYatto முடியவில்லை.,30000-35000-THB-MONTHLY
+460,0-0-None-Noneறிவுறிவு,0-0-None-None
+461,0-0-None-Noneறிவு,0-0-None-None
+462,0-0-None-None,0-0-None-None
+463,"Lead change, shape the world at Wintec..",0-0-None-None
+464,0-0-None-Nonerone,5500-5500-MYR-MONTHLY
+465,"18000-18000-PHP-MONTHLYநிலையில், 由于我无法访问实时外部资源，我",18000-18000-PHP-MONTHLY
+466,0-0-None-Noneทุกคน,120-140-HKD-HOURLY
+467,15000-15000-PHP-MONTHLY,15000-15000-PHP-MONTHLY
+468,0-4000-HKD-HOURLYatto Interiors,3750-5000-HKD-WEEKLY
+469,0-0-None-None,40000-60000-THB-MONTHLY
+470,0-0-None-Noneறிவு,0-0-None-None
+471,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,78079-105030-AUD-ANNUAL
+472,0-0-None-Noneறிவுறிவு বেলু,0-0-None-None
+473,0-0-None-Noneறிவு पातळी: Entry Level அறிவு: 3750-₱5000-,3750-5000-HKD-WEEKLY
+474,0-0-None-None,41-45-AUD-HOURLY
+475,0-0-None-None அறிவுறுத்தல் perilaku குறித்த கருத்து ,100-100-HKD-HOURLY
+476,0-0-None-Noneறிவு,0-0-None-None
+477,y_true: 0-0-None-Nonerollove,50-55-HKD-HOURLY
+478,0-0-None-Noneარა,0-0-None-None
+479,124.00-124.00-HKD-HOURLY perilakuلبيةلبية,124-124-HKD-HOURLY
+480,358,358-358-THB-HOURLY
+481,0-0-None-None அறிவுள்ள முகவரியில் சலுகைகள் கிடைக்கும்.Courtesy of a reliable company.არა,3000-4000-MYR-MONTHLY
+482,y_true: 0-0-None-Noneattoარა.,40-45-AUD-HOURLY
+483,Location: MYঅর্ণব।,0-0-None-None
+484,0-0-None-Noneannonარა,2500-2500-MYR-MONTHLY
+485,0-0-None-Noneיו.,17500-17500-PHP-MONTHLY
+486,y_true: 12-12-19-2021ylene,0-0-None-None
+487,0-2000-RM2000-RM2500-MONTHLY perilaku: 0-0,2000-2500-MYR-MONTHLY
+488,0-0-None-None,0-0-None-None
+489,0-0-None-Noneיוצאי להגדרת תרחיש מודל ממוחשב המאפשר ת,133-183-HKD-DAILY
+490,Your_predict: 100000-THB-MONTHLY втрачає 100000,100000-100000-THB-MONTHLY
+491,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,350-500-SGD-WEEKLY
+492,0-0-None-Noneறிவுיו. விண்ண vitae ระบุการสมัครพร้อมคำสำคัญความสำเร็จ.,0-0-None-None
+493,y_true: 26-32,26-32-NZD-HOURLY
+494,0-0-None-Noneარაარაარაარაარაარაარაარაარა,0-0-None-None
+495,y_true: 17500-17500-PHP-MONTHLY,0-0-None-None
+496,0-0-None-Noneარა முடியவில்லை.,1500-1500-MYR-MONTHLY
+497,0-0-None-Noneறிவு,2000-3000-MYR-MONTHLY
+498,y_true: 2500-3200,2500-3200-MYR-MONTHLY
+499,0-0-None-Noneறிவு,63-67-AUD-HOURLY
+500,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,34-37-AUD-HOURLY
+501,฿412-THOURLYარა,412-412-THB-HOURLY
+502,12000-35000-SG,3500-4000-SGD-MONTHLY
+503,y_true: 72-75-NZD-MONTHLY,24-26-NZD-HOURLY
+504,0-0-None-Noneறிவு 0-0-None-None سلم 0-0-None-None,34-34-AUD-HOURLY
+505,0-0-None-Noneறிவு: 0-0-None-Noneattoარა,24-26-NZD-HOURLY
+506,y_true: 0-0-None-Noneทุกคน втраटी,12000-12000-THB-MONTHLY
+507,0-0-None-Nonetainedარა,0-0-None-None
+508,y_true: 70-80-HKD-HOURLYatto سلم,70-80-HKD-HOURLY
+509,0-0-None-Nonetained कदा,0-0-None-None
+510,0-0-None-Noneறிவு,85000-85000-AUD-ANNUAL
+511,0-0-None-Noneறிவு,0-0-None-None
+512,0-0-None-Noneறிவுistry,0-0-None-None
+513,0-0-None-Noneறிவு: 0-0-None-None belonged to a data analysis and machine learning model.,1800-2100-MYR-MONTHLY
+514,0-0-None-Noneறிவு,0-0-None-None
+515,0-0-None-Noneறிவு 0-0-None-Noneარა,75-75-HKD-HOURLY
+516,1800,0-0-None-None
+517,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,6000-7000-MYR-MONTHLY
+518,0-0-None-Noneარაარა,30-30-NZD-HOURLY
+519,0-0-None-None,3000-4500-MYR-MONTHLY
+520,0-0-None-Noneronenone,2500-3500-MYR-MONTHLY
+521,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,26-26-NZD-HOURLY
+522,y_true: 0-0-None-Noneறிவுistry,70049-98351-AUD-ANNUAL
+523,0-0-None-Noneறிவுanyonარა,16000-20000-THB-MONTHLY
+524,0-0-None-Noneறிவு कदाேன்‌ 45317.15,67357-94568-AUD-ANNUAL
+525,0-0-None-Noneறிவு Kneemacro,2200-2800-SGD-MONTHLY
+526,0-0-None-Noneறிவு: 0-0-None-Noneறிவு: 0-0-None-None,0-0-None-None
+527,0-0-None-Noneறிவு: 0-0-None-Noneறிவு: 0-0-None-None,1800-2500-MYR-MONTHLY
+528,0-3000-RM3000-MONTHLYannonyceEffortlessly,3000-3000-MYR-MONTHLY
+529,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,1500-1500-MYR-MONTHLY
+530,y_true: 5-5-HKD-HOURLYattoარა,0-0-None-None
+531,0-0-None-Noneარა,0-0-None-None
+532,0-0-None-Noneians,25000-35000-THB-MONTHLY
+533,0-0-None-None,0-0-None-None
+534,0-0-None-Noneறிவு: 0-0-None-Noneioreარა,0-0-None-None
+535,0-0-None-None,0-0-None-None
+536,0-0-None-Noneறிவு,0-0-None-None
+537,0-0-None-Noneறிவுறிவு,0-0-None-None
+538,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,0-0-None-None
+539,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,0-0-None-None
+540,137173.00...,137173-163431-AUD-ANNUAL
+541,y_true: 0-0-None-Noneறிவுறிவு அறிவு,60-70-AUD-HOURLY
+542,0-0-None-Noneattoარა,2000-3000-SGD-MONTHLY
+543,0-0-None-Noneறிவுbaşlangıçilevel,90-100-AUD-HOURLY
+544,y_true: 0-0-None-Noneero,50-50-HKD-HOURLY
+545,y_true: 57.56-57.56-AUD-HOURLY,58-58-AUD-HOURLY
+546,y_true: 0-0-None-Noneறிவு Apex कदा رى |,33-38-AUD-HOURLY
+547,0-0-None-Noneறிவு,0-0-None-None
+548,0-0-None-Noneறிவு कदा,17500-17500-PHP-MONTHLY
+549,0-0-None-Noneარა,28-40-NZD-HOURLY
+550,0-0-None-Noneறிவு,0-0-None-None
+551,0-0-None-Noneians,18000-18000-PHP-MONTHLY
+552,17500-17500-PHP-MONTHLY,0-0-None-None
+553,0-0-None-Noneறிவு: 0-0-None-Noneარა,0-0-None-None
+554,0-0-None-None,40-51-AUD-HOURLY
+555,y_true: 17500-17500-PHP-MONTHLYatto,20-30-NZD-HOURLY
+556,0-0-None-None,0-0-None-None
+557,0-0-None-Noneיו,50-65-HKD-HOURLY
+558,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,50-55-AUD-HOURLY
+559,0-0-None-Noneঠিঠি,0-0-None-None
+560,0-0-None-Noneறிவு : 0-0-None-Noneარა,0-0-None-None
+561,Senior Sales Analystatto,0-0-None-None
+562,0-0-None-Noneறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவுறிவு,26-26-NZD-HOURLY
+563,0-0-None-Noneარა,0-0-None-None
+564,0-0-None-Noneறிவு 0-0-None-None,0-0-None-None
+565,0-0-None-Noneறிவு,1500-2500-MYR-MONTHLY
+566,0-0-None-None Jokowi,0-0-None-None

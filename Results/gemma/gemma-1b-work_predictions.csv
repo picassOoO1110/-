@@ -1,0 +1,100 @@
+index,predicted,true_label
+0,restaurantАннотация innen der Kochhilfe,OnSite
+1,Remote पातळी,OnSite
+2,RemoteSeller,Remote
+3,Remoteannonanned,Hybrid
+4,Remoteannonceannonce,Remote
+5,y_true = OnSiteapparently the response is a hybrid position.,OnSite
+6,Remoteatto,Hybrid
+7,Remoteidine,Remote
+8,Remoteঅতিরিক্ত টিপস,Hybrid
+9,Remoteattoattoattoattoattoattoattoattoatto,Remote
+10,Remotenone,Hybrid
+11,RemoteSeller,OnSite
+12,RemoteattoManaged,Remote
+13,CNC/Laser Drafting Engineer mussels,OnSite
+14,Remoteन्ना,OnSite
+15,Remoteلبية.لبية,OnSite
+16,y_true = RemoteI am unable to process this request. The provided information lacks sufficient details to determine the correct answer. The query seems to have multiple possibilities.,OnSite
+17,Remote mèo,Remote
+18,Remote innen,OnSite
+19,Remotenone,Remote
+20,Remotenone,Remote
+21,Remoteلبية,Hybrid
+22,Remoteلبية,Remote
+23,Remotejpg,Hybrid
+24,RemoteSellerარაარა,OnSite
+25,Remoteroneroneroneroneroneroneroneroneroneroneroneroneroneroneroneroneroneroneroneronerone)}roneroneroneroneroneroneroneroneronerone)}roneroneroneroneroneroneroneronerone)}roneroneroneroneroneroneronerone)}roneroneroneroneroneronerone)}roneroneroneroneronerone)},OnSite
+26,Remote innen,Hybrid
+27,Remote कृष्णयन,OnSite
+28,Remote Sellerannonினான்,Remote
+29,Remote innenly,OnSite
+30,Remote कृष्ण innen.,OnSite
+31,y_true = RemoteApollo Bay,Hybrid
+32,Remote,Hybrid
+33,"Remote innenentionally, Remote",Remote
+34,y_true = Remote,OnSite
+35,Remote अटेर,OnSite
+36,y_true = Hybrid,OnSite
+37,Remoteلبية,Hybrid
+38,Remote knows the job,Hybrid
+39,Remoteannonjpg,OnSite
+40,"Senior Health and Safety Administrator / Coordinatorநிலையில்,这个职位信息似乎有错误，由于缺少数据，无法得出正确的回答。遥",Hybrid
+41,Remote,Remote
+42,Remote mèo,Remote
+43,Remoteroneroneroneroneroneroneroneroneroneroneroneroneroneroneroneroneroneroneroneroneroneroneronerone})roneroneroneroneroneroneroneroneroneroneroneronerone})roneroneroneroneroneroneroneroneronerone})roneroneroneroneroneroneroneroneroneroneronerone})roneronerone,Remote
+44,Infrastructure ManagerAerial,Hybrid
+45,Remote mèo,OnSite
+46,RemoteSellerannonினான்,OnSite
+47,y_true = Remote,Remote
+48,Remoteन्ना,Remote
+49,Remotenone,OnSite
+50,y_true = Remote,Hybrid
+51,RemoteSeller,Hybrid
+52,Remoteلبية,OnSite
+53,Remotenone,OnSite
+54,Remoterone,OnSite
+55,Remoteattoარა,Remote
+56,Remotetained,OnSite
+57,Remoteلبية,Hybrid
+58,Remote अटेк,Hybrid
+59,Remoteattotainedattoattoatto,Remote
+60,Remoteannonარა,OnSite
+61,Remotetained,Hybrid
+62,remoteApolloلبية,OnSite
+63,Remote innenentionally,Hybrid
+64,"Backend Java Engineer (Remote, but AU based)",Remote
+65,Remotenone,Remote
+66,RemoteSeller,Remote
+67,Remoteannonanned,Hybrid
+68,Remotenone,OnSite
+69,Risk and Compliance Manager manque. அறிவுறுத்தல்,OnSite
+70,Remote अटेendez,Hybrid
+71,Chef de Partie manquer ,OnSite
+72,RemoteSellerநிலையில்请使用您提供的答案来确定职位是否属于以下类别。,OnSite
+73,Loss Prevention Officer allo.,Hybrid
+74,Remoteঅতিরিক্ত নমনীয়তা,OnSite
+75,Remotenels,Remote
+76,Remotenone,OnSite
+77,Remote,Remote
+78,Remoterone,OnSite
+79,y_true = Hybrid,OnSite
+80,RemoteSeller,Hybrid
+81,Business Development Manager responded क्रमांका,OnSite
+82,Remote अंधा,Hybrid
+83,Remote,OnSite
+84,Remote अटेйте,Remote
+85,Remote,Hybrid
+86,Remotetainedtainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintainedmaintained,OnSite
+87,y_true = Remote innenარა.,OnSite
+88,Remotetained本地,OnSite
+89,Remotetainedannonice,Hybrid
+90,"y_true = Remote »tained Collie, Western Australiaback to the original prompt.",Remote
+91,Remotenone,OnSite
+92,Remoteattoარა,OnSite
+93,RemoteattoApolloannon,Remote
+94,RemoteAlexa,OnSite
+95,RemoteSeller,Hybrid
+96,aluminiumannon,OnSite
+97,y_true = Remoteannedநிலையில்Managedж,OnSite
+98,Remote,OnSite
