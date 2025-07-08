@@ -1,0 +1,31 @@
+index,predicted,true_label,is_correct
+0,senior,senior,True
+1,junior,junior,True
+2,senior,experienced,False
+3,junior,junior-intermediate,False
+4,senior,intermediate,False
+5,senior,experienced,False
+6,senior,experienced,False
+7,senior,principal,False
+8,senior,senior,True
+9,senior,intermediate,False
+10,experienced,experienced,True
+11,senior,senior,True
+12,senior,lead,False
+13,intermediate,intermediate,True
+14,junior,junior-intermediate,False
+15,senior,senior,True
+a,experienced,intermediate,False
+17,experienced,experienced,True
+a,experienced,intermediate,False
+19,experienced,intermediate,False
+20,senior,experienced,False
+21,intermediate,intermediate,True
+22,junior,junior,True
+23,senior,senior lead,False
+24,senior,senior lead,False
+25,senior,lead,False
+26,senior,senior lead,False
+27,senior,senior,True
+28,intermediate,intermediate,True
+29,lead,lead,True
