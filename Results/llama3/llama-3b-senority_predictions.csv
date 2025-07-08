@@ -1,0 +1,690 @@
+index,predicted,true_label
+0,intermediate,senior
+1,intermediate,experienced
+2,1,entry level
+3,intermediate,senior
+4,1. intermediate,intermediate
+5,intermediate,experienced
+6,intermediate,experienced
+7,entry level,entry level
+8,1. intermediate,entry level
+9,intermediate,experienced
+10,"1, 3, 5, 7, 9",senior
+11,intermediate,experienced
+12,intermediate,experienced
+13,intermediate,senior
+14,intermediate,trainee
+15,intermediate,experienced
+16,intermediate,experienced
+17,intermediate,intermediate
+18,intermediate,apprentice
+19,intermediate,entry level
+20,intermediate,entry level
+21,1,entry level
+22,intermediate,experienced
+23,"1, 5, 7, 9",experienced
+24,intermediate,experienced
+25,"1, 3, 4, 5, 6, 7, 8, 9, 10",experienced
+26,"intermediate, senior, lead, head, experienced",graduate
+27,intermediate,senior
+28,intermediate,senior
+29,intermediate,intermediate
+30,intermediate,head
+31,intermediate,senior
+32,intermediate,supervisor
+33,intermediate,lead
+34,intermediate,experienced
+35,intermediate,entry level
+36,intermediate,experienced
+37,intermediate,trainee
+38,intermediate,entry level
+39,"intermediate, senior, lead, head, experienced",intermediate
+40,intermediate,experienced
+41,intermediate,entry level
+42,intermediate,experienced
+43,intermediate,lead
+44,"1, 3, 5, 7, 9",senior
+45,intermediate,entry level
+46,1,experienced
+47,assistant,assistant
+48,intermediate,intermediate
+49,y_true = intermediate,intermediate
+50,intermediate,experienced assistant
+51,intermediate,assistant
+52,1. intermediate,intermediate
+53,intermediate,lead
+54,intermediate,entry level
+55,intermediate,experienced
+56,intermediate,senior
+57,intermediate,experienced
+58,intermediate,experienced
+59,assistant,assistant
+60,intermediate,intermediate
+61,intermediate,entry level
+62,y_true = senior,senior
+63,intermediate,intermediate
+64,"intermediate, senior, lead, head, experienced",experienced
+65,intermediate,experienced
+66,intermediate,experienced
+67,intermediate,junior
+68,intermediate,senior
+69,intermediate,intermediate
+70,intermediate,senior
+71,"intermediate, lead, senior, head, experienced",experienced
+72,intermediate,lead
+73,intermediate,senior
+74,intermediate,intermediate
+75,"intermediate, lead, experienced, lead, intermediate, experienced, senior",experienced
+76,intermediate,associate
+77,intermediate,junior
+78,intermediate,experienced
+79,intermediate,senior
+80,"intermediate, senior, lead, head, experienced, lead, intermediate, senior, lead, intermediate, senior",intermediate
+81,intermediate,junior
+82,intermediate,trainee
+83,intermediate,director
+84,intermediate,experienced
+85,intermediate,graduate/junior
+86,intermediate,intermediate
+87,"intermediate, senior, lead, head, experienced",intermediate
+88,intermediate,senior
+89,intermediate,experienced
+90,intermediate,experienced
+91,"intermediate, senior, lead, experienced, intermediate, lead, intermediate, experienced",entry level
+92,intermediate,entry level
+93,lead,lead
+94,entry-level,entry-level
+95,intermediate,experienced
+96,"1, 4, 7, 8, 9, 10",senior
+97,intermediate,senior
+98,assistant,assistant
+99,intermediate,experienced
+100,intermediate,experienced
+101,intermediate,entry level
+102,intermediate,senior
+103,intermediate,senior
+104,intermediate,head
+105,"intermediate, lead, senior",experienced
+106,intermediate,experienced
+107,assistant,assistant
+108,intermediate,junior
+109,entry level,entry level
+110,intermediate,intermediate
+111,intermediate,lead
+112,intermediate,experienced
+113,intermediate,senior
+114,intermediate,experienced
+115,intermediate,senior
+116,entry level,entry level
+117,intermediate,intermediate
+118,"1, 3, 6, 8, 9",senior
+119,intermediate,experienced
+120,intermediate,experienced
+121,intermediate,entry level
+122,entry level,entry level
+123,intermediate,entry level
+124,entry level,entry level
+125,intermediate,experienced
+126,"intermediate, senior, lead, head, experienced",lead
+127,assistant,assistant
+128,intermediate,experienced
+129,intermediate,intermediate
+130,"1, 3, 5, 7, 9",intermediate
+131,intermediate,graduate/junior
+132,"1, 3, 5, 7, 9",experienced
+133,intermediate,intermediate
+134,intermediate,intermediate
+135,intermediate,manager
+136,intermediate,intermediate
+137,intermediate,intermediate
+138,intermediate,experienced
+139,intermediate,experienced
+140,intermediate,senior
+141,intermediate,experienced
+142,intermediate,assistant
+143,intermediate,entry-level to intermediate
+144,"intermediate, senior, lead, head, experienced",experienced
+145,intermediate,junior
+146,intermediate,head
+147,assistant,assistant
+148,intermediate,experienced
+149,intermediate,senior
+150,assistant,assistant
+151,assistant,assistant
+152,intermediate,entry level
+153,intermediate,apprentice
+154,intermediate,intermediate
+155,assistant,assistant
+156,intermediate,experienced
+157,intermediate,senior
+158,"1, 3, 5, 7, 9, 10",experienced
+159,y_true = senior,senior
+160,intermediate,intermediate
+161,intermediate,senior
+162,intermediate,entry level
+163,"1, 4, 6, 8, 10",experienced
+164,intermediate,intermediate
+165,intermediate,intermediate
+166,intermediate,junior
+167,intermediate,entry level
+168,1,experienced
+169,intermediate,intermediate
+170,intermediate,intermediate
+171,entry level,entry level
+172,intermediate,lead
+173,intermediate,experienced
+174,intermediate,entry level
+175,"intermediate, senior, lead, experienced, lead, intermediate, experienced, senior",experienced
+176,intermediate,lead
+177,intermediate,intermediate
+178,intermediate,trainee
+179,1. intermediate,experienced
+180,intermediate,experienced
+181,intermediate,senior
+182,intermediate,assistant
+183,intermediate,intermediate
+184,entry level,entry level
+185,intermediate,experienced
+186,intermediate,senior
+187,intermediate,head
+188,intermediate,experienced
+189,"1, 3, 5, 7, 9, 10",senior
+190,intermediate,intermediate
+191,intermediate,graduate
+192,intermediate,student
+193,"1, 3, 6, 7, 8, 10",intermediate
+194,intermediate,intermediate
+195,intermediate,experienced
+196,1. senior,senior
+197,intermediate,intermediate
+198,intermediate,senior
+199,intermediate,experienced
+200,intermediate,specialist
+201,intermediate,intermediate
+202,intermediate,head
+203,intermediate,intermediate
+204,intermediate,experienced
+205,1. intermediate,experienced
+206,intermediate,senior lead
+207,intermediate,junior
+208,intermediate,experienced
+209,intermediate,lead
+210,intermediate,junior-intermediate
+211,intermediate,senior
+212,"intermediate, senior, lead, experienced",experienced
+213,intermediate,graduate
+214,intermediate,experienced
+215,intermediate,intermediate
+216,intermediate,experienced
+217,"1, 3, 4, 6, 7, 9",intermediate
+218,intermediate,senior
+219,intermediate,intermediate
+220,assistant,assistant
+221,intermediate,head
+222,intermediate,experienced
+223,intermediate,junior
+224,intermediate,senior
+225,entry level,entry level
+226,"1, 2, 3, 4, 5, 6, 7, 8, 9, 10",senior
+227,intermediate,intermediate
+228,intermediate,experienced
+229,intermediate,experienced
+230,intermediate,entry level
+231,intermediate,senior
+232,intermediate,entry level
+233,intermediate,senior
+234,y_true = [y_true],entry level
+235,"1, 3, 4, 5, 6, 7, 8, 9",experienced
+236,1. experienced,senior
+237,intermediate,experienced
+238,intermediate,experienced
+239,intermediate,lead
+240,intermediate,experienced
+241,intermediate,associate director
+242,intermediate,intermediate
+243,intermediate,intermediate
+244,intermediate,intermediate
+245,intermediate,intermediate
+246,intermediate,experienced
+247,intermediate,intermediate
+248,intermediate,intermediate
+249,intermediate,executive
+250,intermediate,head
+251,intermediate,intermediate
+252,1,senior
+253,"1, 3, 5, 7, 8, 9, 10",experienced
+254,"intermediate, lead, experienced, senior",senior
+255,intermediate,intermediate
+256,intermediate,apprentice
+257,y_true = intermediate,intermediate
+258,intermediate,senior
+259,"1, 3, 4, 5, 7, 8, 9, 10",experienced
+260,"intermediate, lead, senior, experienced",experienced
+261,intermediate,experienced
+262,intermediate,senior
+263,intermediate,senior
+264,"1, 6, 7, 8, 9",intermediate
+265,intermediate,experienced
+266,intermediate,intermediate
+267,intermediate,intermediate
+268,intermediate,senior
+269,1,principal
+270,1. intermediate,intermediate
+271,intermediate,intermediate
+272,intermediate,intermediate
+273,1,intermediate
+274,"1, 3, 5, 7, 9",experienced
+275,intermediate,intermediate
+276,intermediate,experienced
+277,y_true = senior,senior
+278,intermediate,junior
+279,intermediate,intermediate
+280,intermediate,experienced
+281,intermediate,intermediate
+282,intermediate,intermediate
+283,intermediate,intermediate
+284,"1, 3, 4, 6, 7, 8, 10",intermediate
+285,intermediate,intermediate
+286,intermediate,lead
+287,entry level,entry level
+288,"1, 5, 6, 7, 9",experienced
+289,intermediate,entry-level
+290,"intermediate, senior, lead, head, experienced",senior
+291,intermediate,entry level
+292,entry level,entry level
+293,intermediate,senior
+294,intermediate,senior
+295,intermediate,principal
+296,"intermediate, senior, lead, lead, senior, intermediate, experienced, lead",entry level
+297,intermediate,intermediate
+298,intermediate,intermediate
+299,intermediate,experienced
+300,intermediate,experienced
+301,intermediate,experienced
+302,"1, 3, 4, 6, 7, 9, 10",senior
+303,intermediate,experienced
+304,intermediate,lead
+305,intermediate,intermediate
+306,intermediate,junior
+307,1. intermediate,experienced
+308,intermediate,experienced
+309,"1, 3, 4, 5, 6, 8, 9, 10",experienced
+310,intermediate,intermediate
+311,"1, 6, 7, 8",intermediate
+312,intermediate,intermediate
+313,intermediate,intermediate
+314,intermediate,experienced
+315,1,intermediate
+316,intermediate,lead
+317,intermediate,experienced
+318,intermediate,senior
+319,1. intermediate,experienced
+320,intermediate,entry level
+321,"1, 6, 8, 10",intermediate
+322,intermediate,junior
+323,"1, 3, 4, 6, 7, 8, 9, 10",experienced
+324,"intermediate, senior, lead, experienced, intermediate, lead, senior",experienced
+325,assistant,assistant
+326,intermediate,experienced
+327,y_true = intermediate,chief
+328,intermediate,assistant
+329,intermediate,experienced
+330,intermediate,senior
+331,intermediate,senior
+332,1,graduate
+333,"intermediate, senior, lead, experienced, lead, senior, intermediate, senior",senior
+334,intermediate,experienced
+335,intermediate,lead
+336,intermediate,experienced
+337,intermediate,intermediate
+338,intermediate,entry level
+339,assistant,assistant
+340,intermediate,intermediate
+341,entry level,entry level
+342,intermediate,junior
+343,intermediate,director
+344,y_true = [y_true],head
+345,intermediate,entry level
+346,intermediate,lead
+347,intermediate,lead
+348,intermediate,entry level
+349,intermediate,head
+350,"1, 3, 4, 6, 7, 8, 9, 10",experienced
+351,"intermediate, senior, lead, head, experienced",experienced
+352,assistant,assistant
+353,"intermediate, lead, experienced, senior",junior
+354,intermediate,intermediate
+355,intermediate,associate
+356,intermediate,experienced
+357,"1, 3, 4, 6, 7, 9",senior
+358,intermediate,junior
+359,intermediate,principal
+360,intermediate,senior
+361,intermediate,junior-to-intermediate
+362,intermediate,intermediate
+363,intermediate,entry level
+364,intermediate,junior
+365,intermediate,head
+366,assistant,assistant
+367,intermediate,experienced
+368,intermediate,experienced
+369,intermediate,experienced
+370,"1, 3, 4, 5, 7, 8, 9, 10",experienced
+371,intermediate,independent
+372,intermediate,experienced
+373,intermediate,entry level
+374,intermediate,experienced
+375,"intermediate, senior, lead, head, experienced",experienced
+376,intermediate,experienced
+377,1,entry level
+378,intermediate,entry level
+379,intermediate,experienced
+380,"1, 5, 7, 9",intermediate
+381,1,experienced
+382,intermediate,experienced
+383,intermediate,experienced
+384,"intermediate, lead, experienced, lead, senior, lead",experienced
+385,y_true = intermediate,intermediate
+386,intermediate,entry level
+387,assistant,assistant
+388,1. y_true = intermediate,intermediate
+389,intermediate,entry level
+390,intermediate,senior
+391,intermediate,intermediate
+392,intermediate,senior
+393,intermediate,lead
+394,1,experienced
+395,intermediate,lead
+396,intermediate,intermediate
+397,intermediate,senior
+398,"1, 8, 9",intermediate
+399,intermediate,associate-director
+400,intermediate,experienced
+401,intermediate,senior
+402,intermediate,senior
+403,intermediate,third-year apprentice
+404,intermediate,intermediate
+405,intermediate,intermediate
+406,1. intermediate,associate
+407,"1, 2, 3, 4, 5, 6, 7, 8, 9, 10",experienced assistant
+408,"1, 3, 5, 7, 9, 10",senior
+409,intermediate,entry level
+410,"intermediate, senior, lead, head, experienced, lead, intermediate, experienced",senior
+411,intermediate,senior
+412,entry level,entry level
+413,intermediate,experienced
+414,intermediate,senior
+415,intermediate,head
+416,intermediate,early-career
+417,"intermediate, senior, lead, head, experienced",experienced
+418,intermediate,experienced
+419,intermediate,intermediate
+420,intermediate,experienced
+421,intermediate,cadet
+422,1,senior
+423,intermediate,senior
+424,1,entry level
+425,entry level,entry level
+426,intermediate,experienced
+427,assistant,assistant
+428,intermediate,experienced
+429,intermediate,senior
+430,intermediate,deputy
+431,intermediate,principal
+432,intermediate,intermediate
+433,intermediate,intermediate
+434,intermediate,experienced
+435,assistant,assistant
+436,"intermediate, senior, lead, experienced",experienced
+437,assistant,assistant
+438,intermediate,intermediate
+439,assistant,assistant
+440,intermediate,lead
+441,intermediate,experienced
+442,intermediate,intermediate
+443,intermediate,experienced
+444,intermediate,experienced
+445,"intermediate, lead, senior, lead, head, senior",senior
+446,intermediate,experienced
+447,intermediate,experienced
+448,intermediate,experienced
+449,intermediate,entry level
+450,"intermediate, senior, lead, head, experienced",experienced
+451,1,experienced
+452,intermediate,experienced
+453,intermediate,trainee
+454,entry level,entry level
+455,assistant,assistant
+456,intermediate,experienced
+457,assistant,assistant
+458,intermediate,executive
+459,intermediate,senior
+460,intermediate,intermediate
+461,entry level,entry level
+462,intermediate,intermediate
+463,"intermediate, lead, senior, lead, experienced, intermediate",intermediate
+464,intermediate,entry level
+465,intermediate,experienced
+466,intermediate,intermediate
+467,intermediate,experienced
+468,intermediate,assistant
+469,intermediate,intermediate
+470,entry level,entry level
+471,intermediate,experienced
+472,intermediate,experienced
+473,"1, 3, 5, 6, 8, 9, 10",intermediate
+474,intermediate,intermediate
+475,intermediate,senior
+476,intermediate,associate director
+477,intermediate,intermediate
+478,intermediate,senior
+479,intermediate,trainee
+480,intermediate,intermediate
+481,"1, 3, 5, 6, 8, 9",supervisor
+482,"1, 6, 7, 8, 9",intermediate
+483,intermediate,head
+484,intermediate,intermediate
+485,intermediate,entry level
+486,"y_true = intermediate, lead, senior, head, experienced",trainee
+487,intermediate,experienced
+488,intermediate,intermediate
+489,entry level,entry level
+490,"intermediate, senior, lead, head, experienced",intermediate
+491,intermediate,experienced
+492,intermediate,experienced
+493,y_true,associate
+494,y_true = intermediate,intermediate
+495,intermediate,lead
+496,y_true = intermediate,intermediate
+497,1. y_true = intermediate,lead
+498,intermediate,lead
+499,intermediate,intermediate
+500,intermediate,intermediate
+501,intermediate,junior
+502,intermediate,intermediate
+503,intermediate,experienced
+504,intermediate,head
+505,"1, 7, 8, 10",intermediate
+506,"1, 3, 5, 6, 8",experienced
+507,"1, 2, 3, 4, 5, 6, 7, 8, 9, 10",intermediate
+508,"1, 6, 8, 9, 10",intermediate
+509,intermediate,senior
+510,intermediate,intermediate
+511,intermediate,intermediate
+512,"intermediate, lead, senior, lead, experienced, intermediate, lead, senior, experienced",intermediate
+513,"1, 2, 3, 4, 5, 6, 7, 8, 9, 10",cadet
+514,intermediate,intermediate
+515,intermediate,experienced
+516,intermediate,experienced
+517,intermediate,senior
+518,intermediate,senior/principal
+519,intermediate,senior
+520,intermediate,senior
+521,intermediate,intermediate
+522,intermediate,experienced
+523,"1, 3, 4, 6, 7, 8, 9, 10",entry level
+524,"intermediate, senior, lead, head, experienced",experienced
+525,intermediate,experienced
+526,"1, 3, 5, 7, 9, 10",principal
+527,"intermediate, senior, lead, head, experienced",head
+528,intermediate,executive
+529,intermediate,intermediate
+530,intermediate,senior
+531,intermediate,intermediate
+532,intermediate,experienced
+533,intermediate,intermediate
+534,intermediate,experienced
+535,1,intermediate management
+536,intermediate,junior
+537,intermediate,experienced
+538,intermediate,experienced
+539,intermediate,intermediate
+540,intermediate,senior
+541,intermediate,intermediate
+542,"1, 3, 5, 7, 9, 10",experienced
+543,"intermediate, experienced, lead, head, senior",entry level
+544,"1, 3, 4, 6, 7, 8, 10",director
+545,intermediate,experienced
+546,intermediate,entry level
+547,"intermediate, senior, lead, head, experienced, intermediate, senior, lead, intermediate, experienced",senior
+548,intermediate,experienced
+549,intermediate,experienced
+550,intermediate,graduate
+551,intermediate,senior lead
+552,intermediate,intermediate
+553,intermediate,intermediate
+554,intermediate,entry level
+555,intermediate,senior
+556,intermediate,head
+557,intermediate,experienced
+558,intermediate,intermediate
+559,intermediate,senior
+560,y_true = intermediate,experienced
+561,"1, 3, 5, 7, 9, 10",experienced
+562,"intermediate, senior, lead, head, experienced",intermediate
+563,entry level,entry level
+564,intermediate,experienced
+565,intermediate,experienced
+566,intermediate,trainee
+567,intermediate,experienced
+568,intermediate,lead
+569,intermediate,experienced
+570,intermediate,experienced
+571,"y_true = [y_true = experienced, senior, lead, intermediate, intermediate, experienced, intermediate, senior]",experienced
+572,intermediate,entry level
+573,intermediate,experienced
+574,intermediate,experienced
+575,y_true = intermediate,intermediate
+576,1. intermediate,lead
+577,intermediate,intermediate
+578,intermediate,intermediate
+579,intermediate,intermediate
+580,intermediate,experienced
+581,1,experienced
+582,1. y_true = senior,senior
+583,intermediate,head
+584,intermediate,experienced
+585,1,lead
+586,intermediate,entry level
+587,intermediate,intermediate
+588,intermediate,entry level
+589,intermediate,senior
+590,intermediate,senior
+591,intermediate,senior
+592,intermediate,experienced
+593,y_true = senior,senior
+594,intermediate,senior
+595,intermediate,intermediate
+596,intermediate,director
+597,intermediate,experienced
+598,intermediate,senior
+599,intermediate,senior
+600,1,senior
+601,intermediate,specialist
+602,intermediate,experienced
+603,intermediate,experienced
+604,intermediate,experienced
+605,intermediate,senior
+606,1. experienced,chief
+607,"1, 3, 5, 6, 8, 9",experienced
+608,intermediate,intermediate
+609,intermediate,experienced
+610,intermediate,experienced
+611,intermediate,experienced
+612,intermediate,senior
+613,intermediate,intermediate
+614,intermediate,senior
+615,1. intermediate,lead
+616,intermediate,experienced
+617,intermediate,trainee
+618,intermediate,experienced
+619,1,entry level
+620,intermediate,experienced
+621,y_true = intermediate,intermediate
+622,"1, 3, 5, 7, 9, 11",experienced
+623,1. intermediate,advanced
+624,intermediate,executive
+625,intermediate,experienced
+626,intermediate,senior
+627,intermediate,intermediate
+628,intermediate,intermediate
+629,intermediate,senior
+630,intermediate,intermediate
+631,"intermediate, senior, experienced, lead, head, experienced",experienced
+632,intermediate,entry level
+633,"1, 2, 3, 4, 5, 6, 7, 8, 9, 10",senior
+634,intermediate,intermediate
+635,intermediate,lead
+636,intermediate,experienced
+637,intermediate,supervisor
+638,entry level,entry level
+639,assistant,assistant
+640,intermediate,experienced
+641,intermediate,experienced
+642,intermediate,retired
+643,intermediate,entry level
+644,"intermediate, senior, lead, head, experienced",experienced
+645,intermediate,intermediate
+646,intermediate,intermediate
+647,intermediate,senior
+648,intermediate,intermediate
+649,"intermediate, lead, senior",associate
+650,"intermediate, experienced, lead, senior",intermediate
+651,intermediate,experienced
+652,"intermediate, senior, lead, head, experienced",1st year apprentice
+653,intermediate,experienced
+654,intermediate,head
+655,intermediate,intermediate
+656,intermediate,senior
+657,1,trainee
+658,"1, 3, 5, 7, 9, 10",chief
+659,"intermediate, senior, lead, head, experienced, lead, intermediate, experienced, lead, intermediate",experienced
+660,"1, 3, 5, 7, 9, 10",experienced
+661,intermediate,experienced
+662,intermediate,head
+663,intermediate,experienced
+664,intermediate,experienced
+665,intermediate,senior
+666,entry level,entry level
+667,intermediate,intermediate
+668,intermediate,experienced
+669,intermediate,intermediate
+670,intermediate,experienced
+671,1,head
+672,1. y_true = senior,senior
+673,intermediate,intermediate
+674,intermediate,experienced
+675,intermediate,head
+676,intermediate,senior
+677,intermediate,experienced
+678,1,lead
+679,"intermediate, senior, lead, experienced, lead, lead, intermediate, experienced",experienced
+680,assistant,assistant
+681,1. experienced,experienced
+682,intermediate,experienced
+683,intermediate,experienced
+684,"1, 5, 6, 7, 8, 9",experienced
+685,intermediate,entry level
+686,intermediate,senior
+687,intermediate,associate
+688,intermediate,graduate

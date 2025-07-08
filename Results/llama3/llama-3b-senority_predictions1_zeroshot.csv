@@ -1,0 +1,690 @@
+index,predicted,true_label
+0,experienced,senior
+1,y_true,experienced
+2,Administrative Assistants,entry level
+3,experienced,senior
+4,experienced,intermediate
+5,no,experienced
+6,experienced,experienced
+7,experienced,entry level
+8,experienced,entry level
+9,experienced,experienced
+10,experienced,senior
+11,Labourers,experienced
+12,experienced,experienced
+13,"entrepreneurial, stakeholder management, leadership, project management, IT/data analytic, understanding of e-Health, public and private funding, project management",senior
+14,experienced,trainee
+15,experienced,experienced
+16,experienced,experienced
+17,casual,intermediate
+18,Apprentice,apprentice
+19,"Community Services & Development, Indigenous & Multicultural Services",entry level
+20,experienced,entry level
+21,experienced,entry level
+22,experienced,experienced
+23,experienced,experienced
+24,experienced,experienced
+25,experienced,experienced
+26,experienced,graduate
+27,experienced,senior
+28,Medical Specialists,senior
+29,experienced,intermediate
+30,experienced,head
+31,Foreperson/Supervisors,senior
+32,experienced,supervisor
+33,experienced,lead
+34,experienced,experienced
+35,y_true,entry level
+36,experienced,experienced
+37,experienced,trainee
+38,experienced,entry level
+39,y_true,intermediate
+40,experienced,experienced
+41,experienced,entry level
+42,experienced,experienced
+43,experienced,lead
+44,experienced,senior
+45,no,entry level
+46,experienced,experienced
+47,assistant,assistant
+48,experienced,intermediate
+49,experienced,intermediate
+50,experienced,experienced assistant
+51,experienced,assistant
+52,y_true,intermediate
+53,experienced,lead
+54,Physiotherapy,entry level
+55,experienced,experienced
+56,experienced,senior
+57,experienced,experienced
+58,experienced,experienced
+59,assistant,assistant
+60,experienced,intermediate
+61,self,entry level
+62,management,senior
+63,experienced,intermediate
+64,experienced,experienced
+65,Business/Systems Analysts,experienced
+66,experienced,experienced
+67,Analysis & Reporting,junior
+68,experienced,senior
+69,experienced,intermediate
+70,experienced,senior
+71,experienced,experienced
+72,Management,lead
+73,experienced,senior
+74,Experienced,intermediate
+75,y_true,experienced
+76,entry level,associate
+77,entry_level,junior
+78,experienced,experienced
+79,Experienced,senior
+80,experienced,intermediate
+81,Intermediate,junior
+82,entry,trainee
+83,CEO & General Management,director
+84,experienced,experienced
+85,entry_level,graduate/junior
+86,experienced,intermediate
+87,experienced,intermediate
+88,experienced,senior
+89,experienced,experienced
+90,experienced,experienced
+91,experienced,entry level
+92,experienced,entry level
+93,experienced,lead
+94,assistant,entry-level
+95,experienced,experienced
+96,experienced,senior
+97,experienced,senior
+98,assistant,assistant
+99,experienced,experienced
+100,experienced,experienced
+101,experienced,entry level
+102,senior,senior
+103,experienced,senior
+104,experienced,head
+105,experienced,experienced
+106,experienced,experienced
+107,experienced,assistant
+108,entry level,junior
+109,intermediate,entry level
+110,experienced,intermediate
+111,experienced,lead
+112,experienced,experienced
+113,experienced,senior
+114,experienced,experienced
+115,Medical Specialists,senior
+116,Casual,entry level
+117,Government & Defence,intermediate
+118,experienced,senior
+119,experienced,experienced
+120,experienced,experienced
+121,experienced,entry level
+122,experienced,entry level
+123,y_true,entry level
+124,Filler,entry level
+125,experienced,experienced
+126,Foreperson/Supervisors,lead
+127,y_true = intermediate,assistant
+128,experienced,experienced
+129,Analysis & Reporting,intermediate
+130,Nursing,intermediate
+131,assistant,graduate/junior
+132,experienced,experienced
+133,Experienced,intermediate
+134,labourer,intermediate
+135,permanent,manager
+136,y_true,intermediate
+137,Management,intermediate
+138,experienced,experienced
+139,experienced,experienced
+140,senior,senior
+141,experienced,experienced
+142,experienced,assistant
+143,"Physiotherapy, OT & Rehabilitation",entry-level to intermediate
+144,experienced,experienced
+145,experienced,junior
+146,senior,head
+147,experienced,assistant
+148,experienced,experienced
+149,experienced,senior
+150,assistant,assistant
+151,experienced,assistant
+152,entry_level,entry level
+153,y_true = no,apprentice
+154,Management,intermediate
+155,assistant,assistant
+156,experienced,experienced
+157,y_true,senior
+158,y_true,experienced
+159,experienced,senior
+160,intermediate,intermediate
+161,experienced,senior
+162,Community Support Worker,entry level
+163,experienced,experienced
+164,experienced,intermediate
+165,experienced,intermediate
+166,entry level,junior
+167,no experience,entry level
+168,experienced,experienced
+169,experienced,intermediate
+170,experienced,intermediate
+171,experienced,entry level
+172,Cloud Cybersecurity Architect,lead
+173,Business/Systems Analysts,experienced
+174,no,entry level
+175,experienced,experienced
+176,experienced,lead
+177,experienced,intermediate
+178,y_true,trainee
+179,experienced,experienced
+180,management,experienced
+181,experienced,senior
+182,assistant,assistant
+183,experienced,intermediate
+184,Self Employment,entry level
+185,Management,experienced
+186,y_true,senior
+187,experienced,head
+188,experienced,experienced
+189,experienced,senior
+190,Administration,intermediate
+191,entry_level,graduate
+192,biomedical,student
+193,experienced,intermediate
+194,experienced,intermediate
+195,experienced,experienced
+196,experienced,senior
+197,y_true,intermediate
+198,experienced,senior
+199,experienced,experienced
+200,Medical Specialists,specialist
+201,Management,intermediate
+202,experienced,head
+203,experienced,intermediate
+204,experienced,experienced
+205,experienced,experienced
+206,experienced,senior lead
+207,intermediate,junior
+208,experienced,experienced
+209,experienced,lead
+210,Junior,junior-intermediate
+211,experienced,senior
+212,experienced,experienced
+213,y_true,graduate
+214,experienced,experienced
+215,Machine Operator,intermediate
+216,experienced,experienced
+217,Programme & Project Management,intermediate
+218,experienced,senior
+219,experienced,intermediate
+220,assistant,assistant
+221,Management,head
+222,experienced,experienced
+223,Brokerage,junior
+224,Healthcare Manager,senior
+225,experienced,entry level
+226,y_true,senior
+227,Foreperson/Supervisors,intermediate
+228,experienced,experienced
+229,experienced,experienced
+230,experienced,entry level
+231,experienced,senior
+232,experienced,entry level
+233,senior,senior
+234,experienced,entry level
+235,experienced,experienced
+236,experienced,senior
+237,experienced,experienced
+238,experienced,experienced
+239,senior,lead
+240,experienced,experienced
+241,experienced,associate director
+242,Financial Managers & Controllers,intermediate
+243,experienced,intermediate
+244,Government & Defence,intermediate
+245,experienced,intermediate
+246,Labourer,experienced
+247,Marketing Communications,intermediate
+248,experienced,intermediate
+249,experienced,executive
+250,experienced,head
+251,Account Manager,intermediate
+252,experienced,senior
+253,experienced,experienced
+254,experienced,senior
+255,experienced,intermediate
+256,Apprentice,apprentice
+257,Analysis & Reporting,intermediate
+258,experienced,senior
+259,experienced,experienced
+260,experienced,experienced
+261,experienced,experienced
+262,experienced,senior
+263,experienced,senior
+264,entry level,intermediate
+265,experienced,experienced
+266,intermediate,intermediate
+267,Sales,intermediate
+268,experienced,senior
+269,senior,principal
+270,"Information & Communication Technology, Technical Writing",intermediate
+271,experienced,intermediate
+272,experienced,intermediate
+273,Administrative Assistants,intermediate
+274,experienced,experienced
+275,experienced,intermediate
+276,experienced,experienced
+277,Consultant,senior
+278,y_true = no,junior
+279,experienced,intermediate
+280,experienced,experienced
+281,experienced,intermediate
+282,experienced,intermediate
+283,y_true,intermediate
+284,experienced,intermediate
+285,experienced,intermediate
+286,experienced,lead
+287,experienced,entry level
+288,experienced,experienced
+289,y_true,entry-level
+290,Nurse Mgr Gde 4,senior
+291,experienced,entry level
+292,Administration & Office Support,entry level
+293,experienced,senior
+294,experienced,senior
+295,experienced,principal
+296,experienced,entry level
+297,experienced,intermediate
+298,experienced,intermediate
+299,Business/Systems Analysts,experienced
+300,experienced,experienced
+301,experienced,experienced
+302,experienced,senior
+303,experienced,experienced
+304,programme,lead
+305,assistant,intermediate
+306,experienced,junior
+307,experienced,experienced
+308,Journalism & Writing,experienced
+309,experienced,experienced
+310,y_true,intermediate
+311,experienced,intermediate
+312,experienced,intermediate
+313,experienced,intermediate
+314,experienced,experienced
+315,experienced,intermediate
+316,experienced,lead
+317,experienced,experienced
+318,experienced,senior
+319,experienced,experienced
+320,y_true = Labourers,entry level
+321,experienced,intermediate
+322,entry,junior
+323,experienced,experienced
+324,experienced,experienced
+325,entry level,assistant
+326,Project Coordinator,experienced
+327,experienced,chief
+328,y_true,assistant
+329,experienced,experienced
+330,experienced,senior
+331,experienced,senior
+332,experienced,graduate
+333,y_true = Experienced,senior
+334,experienced,experienced
+335,experienced,lead
+336,experienced,experienced
+337,assembly,intermediate
+338,experienced,entry level
+339,experienced,assistant
+340,Experienced,intermediate
+341,experienced,entry level
+342,experienced,junior
+343,Management Accounting & Budgeting,director
+344,management,head
+345,Retail Assistant,entry level
+346,experienced,lead
+347,Project Manager,lead
+348,entry level,entry level
+349,y_true,head
+350,experienced,experienced
+351,experienced,experienced
+352,y_true,assistant
+353,experienced,junior
+354,experienced,intermediate
+355,senior,associate
+356,Experienced,experienced
+357,experienced,senior
+358,y_true,junior
+359,experienced,principal
+360,experienced,senior
+361,experienced,junior-to-intermediate
+362,experienced,intermediate
+363,Other,entry level
+364,entry level,junior
+365,experienced,head
+366,experienced,assistant
+367,Fitter,experienced
+368,experienced,experienced
+369,experienced,experienced
+370,experienced,experienced
+371,experienced,independent
+372,experienced,experienced
+373,experienced,entry level
+374,experienced,experienced
+375,experienced,experienced
+376,experienced,experienced
+377,no,entry level
+378,experienced,entry level
+379,Self Employment,experienced
+380,experienced,intermediate
+381,experienced,experienced
+382,experienced,experienced
+383,Management,experienced
+384,experienced,experienced
+385,experienced,intermediate
+386,Retail Assistants,entry level
+387,experienced,assistant
+388,experienced,intermediate
+389,Accounts Clerks,entry level
+390,y_true,senior
+391,Management,intermediate
+392,experienced,senior
+393,experienced,lead
+394,experienced,experienced
+395,senior,lead
+396,experienced,intermediate
+397,Experienced,senior
+398,Administration & Office Support,intermediate
+399,Management & Change Consulting,associate-director
+400,experienced,experienced
+401,experienced,senior
+402,senior,senior
+403,experienced,third-year apprentice
+404,experienced,intermediate
+405,Band 3,intermediate
+406,experienced,associate
+407,assistant,experienced assistant
+408,experienced,senior
+409,assistant,entry level
+410,experienced,senior
+411,experienced,senior
+412,assistant,entry level
+413,experienced,experienced
+414,experienced,senior
+415,experienced,head
+416,Postdoctoral,early-career
+417,experienced,experienced
+418,experienced,experienced
+419,experienced,intermediate
+420,Nanny,experienced
+421,entry level,cadet
+422,experienced,senior
+423,experienced,senior
+424,experienced,entry level
+425,experienced,entry level
+426,experienced,experienced
+427,assistant,assistant
+428,experienced,experienced
+429,experienced,senior
+430,experienced,deputy
+431,experienced,principal
+432,experienced,intermediate
+433,y_true,intermediate
+434,experienced,experienced
+435,experienced,assistant
+436,experienced,experienced
+437,experienced,assistant
+438,Plumbers & Drainers,intermediate
+439,Administrative,assistant
+440,Team Leaders/Supervisors,lead
+441,experienced,experienced
+442,experienced,intermediate
+443,experienced,experienced
+444,experienced,experienced
+445,experienced,senior
+446,intermediate,experienced
+447,experienced,experienced
+448,experienced,experienced
+449,Education & Training,entry level
+450,experienced,experienced
+451,experienced,experienced
+452,experienced,experienced
+453,entry level,trainee
+454,entry level,entry level
+455,assistant,assistant
+456,y_true,experienced
+457,APS 4,assistant
+458,experienced,executive
+459,experienced,senior
+460,experienced,intermediate
+461,no,entry level
+462,New Business Development,intermediate
+463,Physiotherapist,intermediate
+464,Experienced,entry level
+465,experienced,experienced
+466,experienced,intermediate
+467,Sales,experienced
+468,Management - Store,assistant
+469,experienced,intermediate
+470,experienced,entry level
+471,assistant,experienced
+472,experienced,experienced
+473,experienced,intermediate
+474,experienced,intermediate
+475,experienced,senior
+476,experienced,associate director
+477,PHP,intermediate
+478,senior,senior
+479,ENTRY LEVEL,trainee
+480,experienced,intermediate
+481,assistant,supervisor
+482,experienced,intermediate
+483,senior,head
+484,intermediate,intermediate
+485,y_true,entry level
+486,entry level,trainee
+487,y_true,experienced
+488,experienced,intermediate
+489,assistant,entry level
+490,y_true = high energy,intermediate
+491,experienced,experienced
+492,experienced,experienced
+493,experienced,associate
+494,Management,intermediate
+495,Diploma,lead
+496,experienced,intermediate
+497,Lead,lead
+498,experienced,lead
+499,Management,intermediate
+500,experienced,intermediate
+501,experienced,junior
+502,y_true = LO Stock Picker,intermediate
+503,experienced,experienced
+504,experienced,head
+505,analyst,intermediate
+506,experienced,experienced
+507,experienced,intermediate
+508,y_true = senior,intermediate
+509,experienced,senior
+510,Intermediate,intermediate
+511,experienced,intermediate
+512,experienced,intermediate
+513,experienced,cadet
+514,experienced,intermediate
+515,senior,experienced
+516,experienced,experienced
+517,Management Accounting & Budgeting,senior
+518,experienced,senior/principal
+519,experienced,senior
+520,experienced,senior
+521,experienced,intermediate
+522,experienced,experienced
+523,intermediate,entry level
+524,experienced,experienced
+525,experienced,experienced
+526,y_true,principal
+527,experienced,head
+528,experienced,executive
+529,Security Officer,intermediate
+530,experienced,senior
+531,experienced,intermediate
+532,experienced,experienced
+533,y_true,intermediate
+534,experienced,experienced
+535,experienced,intermediate management
+536,experienced,junior
+537,experienced,experienced
+538,Management,experienced
+539,new business development,intermediate
+540,experienced,senior
+541,intermediate,intermediate
+542,experienced,experienced
+543,entry level,entry level
+544,General/Business Unit Manager,director
+545,experienced,experienced
+546,y_true = no,entry level
+547,experienced,senior
+548,experienced,experienced
+549,experienced,experienced
+550,graduate,graduate
+551,experienced,senior lead
+552,experienced,intermediate
+553,experienced,intermediate
+554,y_true = no,entry level
+555,experienced,senior
+556,General/Business Unit Manager,head
+557,experienced,experienced
+558,experienced,intermediate
+559,experienced,senior
+560,experienced,experienced
+561,experienced,experienced
+562,experienced,intermediate
+563,entry,entry level
+564,experienced,experienced
+565,experienced,experienced
+566,entry,trainee
+567,experienced,experienced
+568,experienced,lead
+569,experienced,experienced
+570,experienced,experienced
+571,experienced,experienced
+572,Administrative Assistants,entry level
+573,experienced,experienced
+574,experienced,experienced
+575,experienced,intermediate
+576,experienced,lead
+577,experienced,intermediate
+578,experienced,intermediate
+579,Technician,intermediate
+580,experienced,experienced
+581,experienced,experienced
+582,y_true,senior
+583,assistant,head
+584,experienced,experienced
+585,experienced,lead
+586,experienced,entry level
+587,experienced,intermediate
+588,y_true,entry level
+589,experienced,senior
+590,experienced,senior
+591,senior,senior
+592,experienced,experienced
+593,experienced,senior
+594,experienced,senior
+595,entry level,intermediate
+596,senior,director
+597,experienced,experienced
+598,experienced,senior
+599,Senior,senior
+600,Management,senior
+601,experienced,specialist
+602,experienced,experienced
+603,experienced,experienced
+604,experienced,experienced
+605,experienced,senior
+606,experienced,chief
+607,Telecommunications,experienced
+608,management,intermediate
+609,experienced,experienced
+610,experienced,experienced
+611,experienced,experienced
+612,General/Business Unit Manager,senior
+613,experienced,intermediate
+614,experienced,senior
+615,senior,lead
+616,experienced,experienced
+617,assistant,trainee
+618,experienced,experienced
+619,experienced,entry level
+620,experienced,experienced
+621,Intermediate,intermediate
+622,experienced,experienced
+623,experienced,advanced
+624,CEO & General Management,executive
+625,Experienced,experienced
+626,Project Management,senior
+627,experienced,intermediate
+628,experienced,intermediate
+629,experienced,senior
+630,y_true,intermediate
+631,experienced,experienced
+632,Security Services,entry level
+633,experienced,senior
+634,experienced,intermediate
+635,y_true = Experienced,lead
+636,experienced,experienced
+637,management,supervisor
+638,assistant,entry level
+639,experienced,assistant
+640,experienced,experienced
+641,experienced,experienced
+642,experienced,retired
+643,experienced,entry level
+644,experienced,experienced
+645,entry,intermediate
+646,experienced,intermediate
+647,y_true = CEO & General Management,senior
+648,Sales Representative/Consultant,intermediate
+649,experienced,associate
+650,y_true,intermediate
+651,experienced,experienced
+652,no experience necessary,1st year apprentice
+653,experienced,experienced
+654,experienced,head
+655,experienced,intermediate
+656,y_true = senior,senior
+657,assistant,trainee
+658,Management,chief
+659,experienced,experienced
+660,experienced,experienced
+661,Experienced,experienced
+662,experienced,head
+663,experienced,experienced
+664,experienced,experienced
+665,experienced,senior
+666,entry level,entry level
+667,"Manufacturing, Transport & Logistics",intermediate
+668,experienced,experienced
+669,intermediate,intermediate
+670,experienced,experienced
+671,experienced,head
+672,experienced,senior
+673,experienced,intermediate
+674,experienced,experienced
+675,Government & Defence,head
+676,experienced,senior
+677,experienced,experienced
+678,experienced,lead
+679,experienced,experienced
+680,assistant,assistant
+681,experienced,experienced
+682,experienced,experienced
+683,experienced,experienced
+684,experienced,experienced
+685,Transport & Logistics,entry level
+686,experienced,senior
+687,y_true,associate
+688,experienced,graduate
