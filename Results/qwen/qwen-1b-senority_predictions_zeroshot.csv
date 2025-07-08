@@ -1,0 +1,690 @@
+index,predicted,true_label
+0,senior,senior
+1,senior,experienced
+2,senior,entry level
+3,senior,senior
+4,senior,intermediate
+5,senior,experienced
+6,senior,experienced
+7,senior,entry level
+8,senior,entry level
+9,senior,experienced
+10,senior,senior
+11,senior,experienced
+12,senior,experienced
+13,[senior],senior
+14,senior,trainee
+15,senior,experienced
+16,senior,experienced
+17,senior,intermediate
+18,senior,apprentice
+19,senior,entry level
+20,senior,entry level
+21,senior,entry level
+22,0,experienced
+23,senior,experienced
+24,senior,experienced
+25,senior,experienced
+26,senior,graduate
+27,senior,senior
+28,senior,senior
+29,senior,intermediate
+30,senior,head
+31,senior,senior
+32,senior,supervisor
+33,senior,lead
+34,senior,experienced
+35,y_true = 1,entry level
+36,senior,experienced
+37,senior,trainee
+38,senior,entry level
+39,senior,intermediate
+40,senior,experienced
+41,senior,entry level
+42,senior,experienced
+43,senior,lead
+44,senior,senior
+45,senior,entry level
+46,senior,experienced
+47,senior,assistant
+48,senior,intermediate
+49,senior,intermediate
+50,senior,experienced assistant
+51,senior,assistant
+52,senior,intermediate
+53,senior,lead
+54,senior,entry level
+55,senior,experienced
+56,senior,senior
+57,senior,experienced
+58,senior,experienced
+59,senior,assistant
+60,senior,intermediate
+61,senior,entry level
+62,senior,senior
+63,senior,intermediate
+64,senior,experienced
+65,['Senior'],experienced
+66,3,experienced
+67,senior,junior
+68,[senior],senior
+69,['intermediate'],intermediate
+70,1,senior
+71,['senior'],experienced
+72,senior,lead
+73,senior,senior
+74,senior,intermediate
+75,senior,experienced
+76,senior,associate
+77,senior,junior
+78,senior,experienced
+79,senior,senior
+80,senior,intermediate
+81,"['entry level', 'junior']",junior
+82,senior,trainee
+83,"y_true = ""senior""",director
+84,senior,experienced
+85,senior,graduate/junior
+86,senior,intermediate
+87,senior,intermediate
+88,senior,senior
+89,senior,experienced
+90,senior,experienced
+91,senior,entry level
+92,senior,entry level
+93,senior,lead
+94,senior,entry-level
+95,"y_true = ""senior""",experienced
+96,senior,senior
+97,senior,senior
+98,senior,assistant
+99,senior,experienced
+100,senior,experienced
+101,1,entry level
+102,senior,senior
+103,senior,senior
+104,senior,head
+105,['senior'],experienced
+106,senior,experienced
+107,senior,assistant
+108,senior,junior
+109,senior,entry level
+110,senior,intermediate
+111,senior,lead
+112,senior,experienced
+113,senior,senior
+114,senior,experienced
+115,senior,senior
+116,entry level,entry level
+117,senior,intermediate
+118,['senior'],senior
+119,"y_true = ""senior""",experienced
+120,senior,experienced
+121,senior,entry level
+122,senior,entry level
+123,senior,entry level
+124,senior,entry level
+125,"y_true = ""entry level""",experienced
+126,senior,lead
+127,senior,assistant
+128,senior,experienced
+129,senior,intermediate
+130,senior,intermediate
+131,senior,graduate/junior
+132,senior,experienced
+133,senior,intermediate
+134,senior,intermediate
+135,senior,manager
+136,senior,intermediate
+137,0,intermediate
+138,senior,experienced
+139,senior,experienced
+140,senior,senior
+141,senior,experienced
+142,senior,assistant
+143,senior,entry-level to intermediate
+144,senior,experienced
+145,senior,junior
+146,senior,head
+147,senior,assistant
+148,senior,experienced
+149,senior,senior
+150,"y_true = ""entry level""",assistant
+151,senior,assistant
+152,senior,entry level
+153,senior,apprentice
+154,senior,intermediate
+155,senior,assistant
+156,senior,experienced
+157,senior,senior
+158,senior,experienced
+159,senior,senior
+160,senior,intermediate
+161,senior,senior
+162,senior,entry level
+163,senior,experienced
+164,senior,intermediate
+165,senior,intermediate
+166,senior,junior
+167,senior,entry level
+168,senior,experienced
+169,senior,intermediate
+170,senior,intermediate
+171,senior,entry level
+172,senior,lead
+173,senior,experienced
+174,0,entry level
+175,senior,experienced
+176,senior,lead
+177,senior,intermediate
+178,senior,trainee
+179,senior,experienced
+180,senior,experienced
+181,senior,senior
+182,senior,assistant
+183,senior,intermediate
+184,"y_true = ""entry level""",entry level
+185,senior,experienced
+186,senior,senior
+187,senior,head
+188,senior,experienced
+189,senior,senior
+190,senior,intermediate
+191,['entry level'],graduate
+192,senior,student
+193,senior,intermediate
+194,y_true = 'senior',intermediate
+195,senior,experienced
+196,1,senior
+197,senior,intermediate
+198,"['Government & Defence', 'Policy, Planning & Regulation']",senior
+199,senior,experienced
+200,senior,specialist
+201,senior,intermediate
+202,senior,head
+203,senior,intermediate
+204,senior,experienced
+205,senior,experienced
+206,senior,senior lead
+207,senior,junior
+208,senior,experienced
+209,senior,lead
+210,senior,junior-intermediate
+211,senior,senior
+212,senior,experienced
+213,senior,graduate
+214,senior,experienced
+215,senior,intermediate
+216,senior,experienced
+217,senior,intermediate
+218,senior,senior
+219,senior,intermediate
+220,senior,assistant
+221,senior,head
+222,4,experienced
+223,senior,junior
+224,senior,senior
+225,senior,entry level
+226,"[1, 1]",senior
+227,senior,intermediate
+228,senior,experienced
+229,senior,experienced
+230,senior,entry level
+231,['senior'],senior
+232,senior,entry level
+233,y_true = 'senior',senior
+234,senior,entry level
+235,senior,experienced
+236,1,senior
+237,senior,experienced
+238,senior,experienced
+239,senior,lead
+240,senior,experienced
+241,senior,associate director
+242,senior,intermediate
+243,senior,intermediate
+244,senior,intermediate
+245,senior,intermediate
+246,senior,experienced
+247,senior,intermediate
+248,senior,intermediate
+249,"y_true = ""senior""",executive
+250,senior,head
+251,senior,intermediate
+252,senior,senior
+253,senior,experienced
+254,senior,senior
+255,senior,intermediate
+256,senior,apprentice
+257,senior,intermediate
+258,senior,senior
+259,senior,experienced
+260,senior,experienced
+261,senior,experienced
+262,senior,senior
+263,senior,senior
+264,senior,intermediate
+265,1,experienced
+266,senior,intermediate
+267,senior,intermediate
+268,senior,senior
+269,senior,principal
+270,senior,intermediate
+271,['senior'],intermediate
+272,senior,intermediate
+273,senior,intermediate
+274,senior,experienced
+275,0,intermediate
+276,"y_true = ""senior""",experienced
+277,senior,senior
+278,senior,junior
+279,senior,intermediate
+280,senior,experienced
+281,senior,intermediate
+282,senior,intermediate
+283,senior,intermediate
+284,['junior'],intermediate
+285,senior,intermediate
+286,senior,lead
+287,senior,entry level
+288,senior,experienced
+289,senior,entry-level
+290,senior,senior
+291,senior,entry level
+292,senior,entry level
+293,senior,senior
+294,senior,senior
+295,senior,principal
+296,senior,entry level
+297,senior,intermediate
+298,senior,intermediate
+299,senior,experienced
+300,senior,experienced
+301,senior,experienced
+302,senior,senior
+303,senior,experienced
+304,"y_true = ""senior""",lead
+305,senior,intermediate
+306,senior,junior
+307,senior,experienced
+308,senior,experienced
+309,senior,experienced
+310,senior,intermediate
+311,"y_true = ""sales""",intermediate
+312,senior,intermediate
+313,senior,intermediate
+314,1,experienced
+315,senior,intermediate
+316,senior,lead
+317,senior,experienced
+318,senior,senior
+319,senior,experienced
+320,senior,entry level
+321,senior,intermediate
+322,senior,junior
+323,senior,experienced
+324,senior,experienced
+325,senior,assistant
+326,senior,experienced
+327,senior,chief
+328,1,assistant
+329,senior,experienced
+330,senior,senior
+331,senior,senior
+332,senior,graduate
+333,senior,senior
+334,senior,experienced
+335,senior,lead
+336,senior,experienced
+337,senior,intermediate
+338,senior,entry level
+339,0,assistant
+340,senior,intermediate
+341,senior,entry level
+342,"y_true = ""entry level""",junior
+343,senior,director
+344,senior,head
+345,"y_true = ""entry level""",entry level
+346,senior,lead
+347,senior,lead
+348,3,entry level
+349,senior,head
+350,senior,experienced
+351,senior,experienced
+352,senior,assistant
+353,senior,junior
+354,senior,intermediate
+355,senior,associate
+356,senior,experienced
+357,senior,senior
+358,senior,junior
+359,senior,principal
+360,senior,senior
+361,senior,junior-to-intermediate
+362,senior,intermediate
+363,senior,entry level
+364,0,junior
+365,senior,head
+366,senior,assistant
+367,senior,experienced
+368,senior,experienced
+369,senior,experienced
+370,senior,experienced
+371,senior,independent
+372,3,experienced
+373,senior,entry level
+374,senior,experienced
+375,['senior'],experienced
+376,senior,experienced
+377,senior,entry level
+378,senior,entry level
+379,senior,experienced
+380,senior,intermediate
+381,senior,experienced
+382,senior,experienced
+383,senior,experienced
+384,senior,experienced
+385,senior,intermediate
+386,senior,entry level
+387,senior,assistant
+388,0,intermediate
+389,0,entry level
+390,senior,senior
+391,senior,intermediate
+392,senior,senior
+393,senior,lead
+394,senior,experienced
+395,senior,lead
+396,['Human Resources & Recruitment'],intermediate
+397,senior,senior
+398,senior,intermediate
+399,senior,associate-director
+400,senior,experienced
+401,senior,senior
+402,senior,senior
+403,senior,third-year apprentice
+404,senior,intermediate
+405,senior,intermediate
+406,"[1, 1]",associate
+407,senior,experienced assistant
+408,senior,senior
+409,senior,entry level
+410,senior,senior
+411,senior,senior
+412,senior,entry level
+413,senior,experienced
+414,senior,senior
+415,senior,head
+416,senior,early-career
+417,senior,experienced
+418,senior,experienced
+419,senior,intermediate
+420,senior,experienced
+421,senior,cadet
+422,senior,senior
+423,senior,senior
+424,senior,entry level
+425,senior,entry level
+426,y_true = 'entry level',experienced
+427,senior,assistant
+428,senior,experienced
+429,senior,senior
+430,senior,deputy
+431,senior,principal
+432,senior,intermediate
+433,senior,intermediate
+434,senior,experienced
+435,1,assistant
+436,senior,experienced
+437,[1],assistant
+438,senior,intermediate
+439,senior,assistant
+440,senior,lead
+441,senior,experienced
+442,senior,intermediate
+443,senior,experienced
+444,senior,experienced
+445,senior,senior
+446,senior,experienced
+447,senior,experienced
+448,senior,experienced
+449,senior,entry level
+450,senior,experienced
+451,senior,experienced
+452,senior,experienced
+453,senior,trainee
+454,senior,entry level
+455,senior,assistant
+456,senior,experienced
+457,senior,assistant
+458,0,executive
+459,senior,senior
+460,senior,intermediate
+461,senior,entry level
+462,senior,intermediate
+463,senior,intermediate
+464,senior,entry level
+465,senior,experienced
+466,senior,intermediate
+467,senior,experienced
+468,senior,assistant
+469,senior,intermediate
+470,senior,entry level
+471,senior,experienced
+472,senior,experienced
+473,senior,intermediate
+474,0,intermediate
+475,senior,senior
+476,senior,associate director
+477,senior,intermediate
+478,senior,senior
+479,entry level,trainee
+480,senior,intermediate
+481,senior,supervisor
+482,senior,intermediate
+483,senior,head
+484,senior,intermediate
+485,[1],entry level
+486,"y_true = ""entry level""",trainee
+487,senior,experienced
+488,senior,intermediate
+489,senior,entry level
+490,senior,intermediate
+491,senior,experienced
+492,senior,experienced
+493,1,associate
+494,senior,intermediate
+495,senior,lead
+496,senior,intermediate
+497,senior,lead
+498,senior,lead
+499,y_true = 'senior',intermediate
+500,senior,intermediate
+501,senior,junior
+502,senior,intermediate
+503,senior,experienced
+504,"y_true = ""senior""",head
+505,senior,intermediate
+506,senior,experienced
+507,"y_true = ""entry level""",intermediate
+508,senior,intermediate
+509,senior,senior
+510,1,intermediate
+511,senior,intermediate
+512,senior,intermediate
+513,senior,cadet
+514,senior,intermediate
+515,senior,experienced
+516,senior,experienced
+517,senior,senior
+518,senior,senior/principal
+519,senior,senior
+520,"['Sales', 'Other']",senior
+521,senior,intermediate
+522,senior,experienced
+523,senior,entry level
+524,"['entry level', 'junior']",experienced
+525,senior,experienced
+526,senior,principal
+527,"['senior', 'senior']",head
+528,senior,executive
+529,senior,intermediate
+530,senior,senior
+531,senior,intermediate
+532,senior,experienced
+533,senior,intermediate
+534,senior,experienced
+535,senior,intermediate management
+536,senior,junior
+537,1,experienced
+538,senior,experienced
+539,senior,intermediate
+540,senior,senior
+541,senior,intermediate
+542,senior,experienced
+543,senior,entry level
+544,"y_true = ""senior""",director
+545,senior,experienced
+546,senior,entry level
+547,senior,senior
+548,senior,experienced
+549,senior,experienced
+550,senior,graduate
+551,senior,senior lead
+552,senior,intermediate
+553,senior,intermediate
+554,senior,entry level
+555,senior,senior
+556,0,head
+557,senior,experienced
+558,senior,intermediate
+559,senior,senior
+560,"y_true = ""entry level""",experienced
+561,3,experienced
+562,senior,intermediate
+563,0,entry level
+564,senior,experienced
+565,senior,experienced
+566,senior,trainee
+567,senior,experienced
+568,senior,lead
+569,senior,experienced
+570,senior,experienced
+571,3,experienced
+572,senior,entry level
+573,senior,experienced
+574,senior,experienced
+575,senior,intermediate
+576,senior,lead
+577,senior,intermediate
+578,"y_true = ""senior""",intermediate
+579,senior,intermediate
+580,senior,experienced
+581,senior,experienced
+582,senior,senior
+583,senior,head
+584,senior,experienced
+585,senior,lead
+586,senior,entry level
+587,senior,intermediate
+588,senior,entry level
+589,senior,senior
+590,senior,senior
+591,senior,senior
+592,senior,experienced
+593,senior,senior
+594,senior,senior
+595,senior,intermediate
+596,senior,director
+597,senior,experienced
+598,senior,senior
+599,senior,senior
+600,senior,senior
+601,senior,specialist
+602,senior,experienced
+603,senior,experienced
+604,senior,experienced
+605,senior,senior
+606,senior,chief
+607,3,experienced
+608,senior,intermediate
+609,senior,experienced
+610,senior,experienced
+611,senior,experienced
+612,"y_true = ""senior""",senior
+613,senior,intermediate
+614,senior,senior
+615,senior,lead
+616,senior,experienced
+617,senior,trainee
+618,entry level,experienced
+619,senior,entry level
+620,senior,experienced
+621,"['entry level', 'junior']",intermediate
+622,senior,experienced
+623,senior,advanced
+624,senior,executive
+625,senior,experienced
+626,senior,senior
+627,senior,intermediate
+628,senior,intermediate
+629,senior,senior
+630,senior,intermediate
+631,senior,experienced
+632,senior,entry level
+633,senior,senior
+634,senior,intermediate
+635,senior,lead
+636,"y_true = ""Healthcare & Medical - Speech Therapy""",experienced
+637,senior,supervisor
+638,senior,entry level
+639,senior,assistant
+640,senior,experienced
+641,senior,experienced
+642,senior,retired
+643,senior,entry level
+644,[1],experienced
+645,senior,intermediate
+646,senior,intermediate
+647,senior,senior
+648,senior,intermediate
+649,senior,associate
+650,senior,intermediate
+651,senior,experienced
+652,senior,1st year apprentice
+653,senior,experienced
+654,senior,head
+655,senior,intermediate
+656,senior,senior
+657,senior,trainee
+658,"['Education & Training', 'Management - Universities']",chief
+659,senior,experienced
+660,senior,experienced
+661,senior,experienced
+662,"['entry level', 'senior']",head
+663,senior,experienced
+664,senior,experienced
+665,senior,senior
+666,senior,entry level
+667,senior,intermediate
+668,senior,experienced
+669,senior,intermediate
+670,senior,experienced
+671,senior,head
+672,senior,senior
+673,senior,intermediate
+674,senior,experienced
+675,0,head
+676,senior,senior
+677,senior,experienced
+678,senior,lead
+679,senior,experienced
+680,senior,assistant
+681,senior,experienced
+682,senior,experienced
+683,senior,experienced
+684,senior,experienced
+685,senior,entry level
+686,senior,senior
+687,senior,associate
+688,senior,graduate
