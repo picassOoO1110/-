@@ -1,0 +1,690 @@
+index,predicted,true_label
+0,Financial Planning and Modelling Manager,senior
+1,y_true = Experienced,experienced
+2,assistant,entry level
+3,assistant,senior
+4,y_true = 8.30,intermediate
+5,assistant,experienced
+6,Design & Architecture,experienced
+7,assistant,entry level
+8,assistant,entry level
+9,assistant,experienced
+10,y_true = junior,senior
+11,assistant,experienced
+12,y_true = casual,experienced
+13,assistant,senior
+14,assistant,trainee
+15,y_true = Experienced,experienced
+16,assistant,experienced
+17,assistant,intermediate
+18,assistant,apprentice
+19,assistant,entry level
+20,y_true = Full,entry level
+21,assistant,entry level
+22,y_true = intermediate,experienced
+23,y_true = Experienced,experienced
+24,assistant,experienced
+25,assistant,experienced
+26,assistant,graduate
+27,assistant,senior
+28,assistant,senior
+29,y_true = junior,intermediate
+30,assistant,head
+31,assistant,senior
+32,y_true = Entry Level,supervisor
+33,y_true = senior,lead
+34,y_true = Off Road,experienced
+35,y_true = entry level,entry level
+36,assistant,experienced
+37,assistant,trainee
+38,assistant,entry level
+39,assistant,intermediate
+40,y_true = Experienced,experienced
+41,assistant,entry level
+42,assistant,experienced
+43,assistant,lead
+44,y_true = Senior,senior
+45,y_true = junior,entry level
+46,assistant,experienced
+47,assistant,assistant
+48,assistant,intermediate
+49,assistant,intermediate
+50,assistant,experienced assistant
+51,assistant,assistant
+52,assistant,intermediate
+53,y_true = junior,lead
+54,assistant,entry level
+55,assistant,experienced
+56,assistant,senior
+57,assistant,experienced
+58,assistant,experienced
+59,assistant,assistant
+60,assistant,intermediate
+61,assistant,entry level
+62,assistant,senior
+63,assistant,intermediate
+64,assistant,experienced
+65,y_true = Business Analyst,experienced
+66,y_true = Manager,experienced
+67,y_true = junior,junior
+68,assistant,senior
+69,y_true = intermediate,intermediate
+70,assistant,senior
+71,assistant,experienced
+72,assistant,lead
+73,assistant,senior
+74,assistant,intermediate
+75,assistant,experienced
+76,assistant,associate
+77,assistant,junior
+78,assistant,experienced
+79,y_true = senior,senior
+80,assistant,intermediate
+81,assistant,junior
+82,y_true = Exemplary,trainee
+83,assistant,director
+84,y_true = 1,experienced
+85,assistant,graduate/junior
+86,assistant,intermediate
+87,assistant,intermediate
+88,y_true = New,senior
+89,assistant,experienced
+90,y_true = 3,experienced
+91,assistant,entry level
+92,assistant,entry level
+93,assistant,lead
+94,assistant,entry-level
+95,junior,experienced
+96,y_true = junior,senior
+97,y_true = Senior,senior
+98,assistant,assistant
+99,assistant,experienced
+100,y_true = senior,experienced
+101,y_true = machine operator,entry level
+102,y_true = senior,senior
+103,y_true = entry level,senior
+104,assistant,head
+105,assistant,experienced
+106,y_true = Experienced,experienced
+107,assistant,assistant
+108,y_true = Entry Level,junior
+109,assistant,entry level
+110,assistant,intermediate
+111,y_true = senior,lead
+112,y_true = intermediate,experienced
+113,assistant,senior
+114,y_true = Experienced,experienced
+115,assistant,senior
+116,Casual Delivery Driver,entry level
+117,assistant,intermediate
+118,assistant,senior
+119,assistant,experienced
+120,y_true = mechanical fitters,experienced
+121,assistant,entry level
+122,assistant,entry level
+123,assistant,entry level
+124,y_true = temp,entry level
+125,junior,experienced
+126,y_true = leading,lead
+127,assistant,assistant
+128,y_true = senior,experienced
+129,Sales & Marketing Analyst,intermediate
+130,y_true = F,intermediate
+131,assistant,graduate/junior
+132,y_true = junior,experienced
+133,y_true = S0920,intermediate
+134,y_true = 1,intermediate
+135,assistant,manager
+136,assistant,intermediate
+137,assistant,intermediate
+138,assistant,experienced
+139,assistant,experienced
+140,assistant,senior
+141,assistant,experienced
+142,assistant,assistant
+143,assistant,entry-level to intermediate
+144,assistant,experienced
+145,y_true = junior,junior
+146,assistant,head
+147,assistant,assistant
+148,assistant,experienced
+149,assistant,senior
+150,assistant,assistant
+151,assistant,assistant
+152,y_true = entry level,entry level
+153,assistant,apprentice
+154,assistant,intermediate
+155,assistant,assistant
+156,assistant,experienced
+157,y_true = Entry Level,senior
+158,assistant,experienced
+159,assistant,senior
+160,assistant,intermediate
+161,assistant,senior
+162,assistant,entry level
+163,y_true = up to,experienced
+164,assistant,intermediate
+165,y_true = senior,intermediate
+166,assistant,junior
+167,assistant,entry level
+168,y_true = 5,experienced
+169,y_true = senior,intermediate
+170,y_true = 4,intermediate
+171,assistant,entry level
+172,y_true = senior,lead
+173,assistant,experienced
+174,assistant,entry level
+175,y_true = experienced,experienced
+176,assistant,lead
+177,assistant,intermediate
+178,assistant,trainee
+179,y_true = Entry Level,experienced
+180,assistant,experienced
+181,y_true = junior,senior
+182,assistant,assistant
+183,assistant,intermediate
+184,assistant,entry level
+185,assistant,experienced
+186,assistant,senior
+187,assistant,head
+188,Practice Nurse,experienced
+189,assistant,senior
+190,assistant,intermediate
+191,assistant,graduate
+192,assistant,student
+193,part-time,intermediate
+194,y_true = junior,intermediate
+195,assistant,experienced
+196,y_true = Experienced,senior
+197,assistant,intermediate
+198,assistant,senior
+199,assistant,experienced
+200,assistant,specialist
+201,assistant,intermediate
+202,assistant,head
+203,assistant,intermediate
+204,y_true = experienced,experienced
+205,assistant,experienced
+206,assistant,senior lead
+207,assistant,junior
+208,assistant,experienced
+209,assistant,lead
+210,y_true = intermediate,junior-intermediate
+211,assistant,senior
+212,assistant,experienced
+213,assistant,graduate
+214,assistant,experienced
+215,y_true = Machine Operator,intermediate
+216,assistant,experienced
+217,y_true = junior,intermediate
+218,y_true = 2,senior
+219,assistant,intermediate
+220,assistant,assistant
+221,assistant,head
+222,assistant,experienced
+223,assistant,junior
+224,assistant,senior
+225,y_true = entry level,entry level
+226,assistant,senior
+227,y_true = general,intermediate
+228,y_true = senior,experienced
+229,die_setter,experienced
+230,assistant,entry level
+231,junior,senior
+232,assistant,entry level
+233,Senior,senior
+234,assistant,entry level
+235,assistant,experienced
+236,assistant,senior
+237,y_true = 2,experienced
+238,assistant,experienced
+239,assistant,lead
+240,assistant,experienced
+241,assistant,associate director
+242,y_true = Accounting,intermediate
+243,assistant,intermediate
+244,assistant,intermediate
+245,assistant,intermediate
+246,y_true = Confined Space Labourer,experienced
+247,y_true = marketing communications,intermediate
+248,assistant,intermediate
+249,assistant,executive
+250,assistant,head
+251,y_true = junior,intermediate
+252,assistant,senior
+253,assistant,experienced
+254,assistant,senior
+255,assistant,intermediate
+256,assistant,apprentice
+257,y_true = junior,intermediate
+258,assistant,senior
+259,y_true = Experienced,experienced
+260,assistant,experienced
+261,assistant,experienced
+262,y_true = Senior,senior
+263,y_true = senior,senior
+264,assistant,intermediate
+265,assistant,experienced
+266,assistant,intermediate
+267,y_true = intermediate,intermediate
+268,assistant,senior
+269,assistant,principal
+270,y_true = Technical Writer,intermediate
+271,mid,intermediate
+272,y_true = expert,intermediate
+273,assistant,intermediate
+274,assistant,experienced
+275,assistant,intermediate
+276,y_true = junior,experienced
+277,assistant,senior
+278,y_true = junior,junior
+279,assistant,intermediate
+280,assistant,experienced
+281,assistant,intermediate
+282,assistant,intermediate
+283,assistant,intermediate
+284,assistant,intermediate
+285,assistant,intermediate
+286,y_true = senior,lead
+287,assistant,entry level
+288,assistant,experienced
+289,assistant,entry-level
+290,assistant,senior
+291,assistant,entry level
+292,assistant,entry level
+293,assistant,senior
+294,y_true = Senior,senior
+295,y_true = Principal,principal
+296,assistant,entry level
+297,assistant,intermediate
+298,assistant,intermediate
+299,y_true = junior,experienced
+300,assistant,experienced
+301,y_true = experienced,experienced
+302,y_true = junior,senior
+303,assistant,experienced
+304,assistant,lead
+305,assistant,intermediate
+306,assistant,junior
+307,assistant,experienced
+308,assistant,experienced
+309,y_true = Experienced,experienced
+310,y_true = internal,intermediate
+311,y_true = Full Time,intermediate
+312,Business Analyst,intermediate
+313,assistant,intermediate
+314,assistant,experienced
+315,y_true = part time,intermediate
+316,assistant,lead
+317,y_true = Mid Tier,experienced
+318,y_true = senior,senior
+319,assistant,experienced
+320,assistant,entry level
+321,assistant,intermediate
+322,y_true = junior,junior
+323,assistant,experienced
+324,assistant,experienced
+325,assistant,assistant
+326,assistant,experienced
+327,assistant,chief
+328,assistant,assistant
+329,y_true = entry level,experienced
+330,3D Artist & Project Manager,senior
+331,y_true = Other,senior
+332,assistant,graduate
+333,assistant,senior
+334,assistant,experienced
+335,y_true = Lead,lead
+336,assistant,experienced
+337,y_true = entry level,intermediate
+338,assistant,entry level
+339,assistant,assistant
+340,assistant,intermediate
+341,assistant,entry level
+342,junior,junior
+343,assistant,director
+344,y_true = senior,head
+345,assistant,entry level
+346,assistant,lead
+347,assistant,lead
+348,assistant,entry level
+349,y_true = senior,head
+350,y_true = Confined spaces,experienced
+351,assistant,experienced
+352,assistant,assistant
+353,assistant,junior
+354,assistant,intermediate
+355,Associate,associate
+356,assistant,experienced
+357,assistant,senior
+358,assistant,junior
+359,assistant,principal
+360,y_true = Entry Level,senior
+361,assistant,junior-to-intermediate
+362,assistant,intermediate
+363,assistant,entry level
+364,assistant,junior
+365,assistant,head
+366,assistant,assistant
+367,y_true = Trades & Services,experienced
+368,assistant,experienced
+369,y_true = inexperienced,experienced
+370,assistant,experienced
+371,assistant,independent
+372,assistant,experienced
+373,assistant,entry level
+374,assistant,experienced
+375,y_true = Entry Level,experienced
+376,assistant,experienced
+377,assistant,entry level
+378,y_true = casual,entry level
+379,y_true = entry level,experienced
+380,assistant,intermediate
+381,y_true = junior,experienced
+382,assistant,experienced
+383,assistant,experienced
+384,y_true = permanent,experienced
+385,assistant,intermediate
+386,y_true = Entry Level,entry level
+387,assistant,assistant
+388,assistant,intermediate
+389,assistant,entry level
+390,assistant,senior
+391,y_true = senior,intermediate
+392,y_true = senior,senior
+393,assistant,lead
+394,y_true = Sales,experienced
+395,y_true = senior,lead
+396,assistant,intermediate
+397,Senior,senior
+398,assistant,intermediate
+399,assistant,associate-director
+400,assistant,experienced
+401,assistant,senior
+402,Principal,senior
+403,assistant,third-year apprentice
+404,y_true = junior,intermediate
+405,assistant,intermediate
+406,assistant,associate
+407,assistant,experienced assistant
+408,assistant,senior
+409,assistant,entry level
+410,assistant,senior
+411,assistant,senior
+412,y_true = up to,entry level
+413,assistant,experienced
+414,y_true = experienced,senior
+415,assistant,head
+416,assistant,early-career
+417,assistant,experienced
+418,y_true = experienced,experienced
+419,assistant,intermediate
+420,assistant,experienced
+421,assistant,cadet
+422,y_true = Experienced,senior
+423,y_true = intermediate,senior
+424,assistant,entry level
+425,assistant,entry level
+426,y_true = Pronto,experienced
+427,assistant,assistant
+428,assistant,experienced
+429,assistant,senior
+430,assistant,deputy
+431,y_true = 1,principal
+432,assistant,intermediate
+433,y_true = Accounts Receivable,intermediate
+434,assistant,experienced
+435,assistant,assistant
+436,assistant,experienced
+437,assistant,assistant
+438,Plumber,intermediate
+439,assistant,assistant
+440,assistant,lead
+441,assistant,experienced
+442,ServiceNow Developer,intermediate
+443,assistant,experienced
+444,y_true = entry level,experienced
+445,assistant,senior
+446,Rendering Contractor,experienced
+447,y_true = junior,experienced
+448,assistant,experienced
+449,assistant,entry level
+450,y_true = Entry Level,experienced
+451,y_true = Engineers,experienced
+452,y_true = Experienced,experienced
+453,assistant,trainee
+454,assistant,entry level
+455,assistant,assistant
+456,assistant,experienced
+457,assistant,assistant
+458,assistant,executive
+459,assistant,senior
+460,assistant,intermediate
+461,assistant,entry level
+462,y_true = Business Development Manager,intermediate
+463,assistant,intermediate
+464,assistant,entry level
+465,assistant,experienced
+466,assistant,intermediate
+467,assistant,experienced
+468,assistant,assistant
+469,y_true = junior,intermediate
+470,y_true = junior,entry level
+471,assistant,experienced
+472,assistant,experienced
+473,assistant,intermediate
+474,y_true = junior,intermediate
+475,assistant,senior
+476,assistant,associate director
+477,y_true = junior,intermediate
+478,assistant,senior
+479,y_true = Entry Level,trainee
+480,assistant,intermediate
+481,assistant,supervisor
+482,assistant,intermediate
+483,y_true = Head,head
+484,INTERMEDIATE,intermediate
+485,y_true = self-employed,entry level
+486,assistant,trainee
+487,assistant,experienced
+488,assistant,intermediate
+489,y_true = entry level,entry level
+490,assistant,intermediate
+491,assistant,experienced
+492,assistant,experienced
+493,assistant,associate
+494,y_true = Leadership,intermediate
+495,y_true = 0,lead
+496,assistant,intermediate
+497,y_true = Lead,lead
+498,assistant,lead
+499,assistant,intermediate
+500,Contract Administrator | Down to Earth Team,intermediate
+501,y_true = No,junior
+502,y_true = junior,intermediate
+503,assistant,experienced
+504,assistant,head
+505,y_true = junior,intermediate
+506,assistant,experienced
+507,assistant,intermediate
+508,y_true = junior,intermediate
+509,assistant,senior
+510,assistant,intermediate
+511,y_true = permanent,intermediate
+512,assistant,intermediate
+513,y_true = entry,cadet
+514,assistant,intermediate
+515,y_true = senior,experienced
+516,y_true = Experienced,experienced
+517,assistant,senior
+518,assistant,senior/principal
+519,y_true = junior,senior
+520,assistant,senior
+521,Diesel Mechanic,intermediate
+522,y_true = permanent,experienced
+523,y_true = casual,entry level
+524,y_true = intermediate,experienced
+525,assistant,experienced
+526,assistant,principal
+527,Principal Civil Engineers & Project Managers,head
+528,assistant,executive
+529,assistant,intermediate
+530,y_true = entry level,senior
+531,assistant,intermediate
+532,y_true = Experienced,experienced
+533,assistant,intermediate
+534,assistant,experienced
+535,assistant,intermediate management
+536,assistant,junior
+537,assistant,experienced
+538,assistant,experienced
+539,y_true = New,intermediate
+540,assistant,senior
+541,assistant,intermediate
+542,y_true = Entry Level,experienced
+543,assistant,entry level
+544,assistant,director
+545,assistant,experienced
+546,assistant,entry level
+547,assistant,senior
+548,y_true = Experienced,experienced
+549,assistant,experienced
+550,y_true = junior,graduate
+551,assistant,senior lead
+552,assistant,intermediate
+553,assistant,intermediate
+554,y_true = entry level,entry level
+555,assistant,senior
+556,assistant,head
+557,y_true = casual,experienced
+558,assistant,intermediate
+559,assistant,senior
+560,assistant,experienced
+561,assistant,experienced
+562,assistant,intermediate
+563,y_true = Entry Level,entry level
+564,assistant,experienced
+565,assistant,experienced
+566,assistant,trainee
+567,assistant,experienced
+568,assistant,lead
+569,assistant,experienced
+570,assistant,experienced
+571,assistant,experienced
+572,assistant,entry level
+573,assistant,experienced
+574,assistant,experienced
+575,assistant,intermediate
+576,y_true = Entry Level,lead
+577,assistant,intermediate
+578,assistant,intermediate
+579,assistant,intermediate
+580,assistant,experienced
+581,assistant,experienced
+582,y_true = Senior,senior
+583,assistant,head
+584,y_true = entry level,experienced
+585,assistant,lead
+586,y_true = junior,entry level
+587,y_true = junior,intermediate
+588,y_true = yes,entry level
+589,y_true = Strategic,senior
+590,assistant,senior
+591,y_true = entry level,senior
+592,assistant,experienced
+593,assistant,senior
+594,"Government & Defence, APS 6",senior
+595,assistant,intermediate
+596,y_true = DESIGN DIRECTOR,director
+597,assistant,experienced
+598,Grade 3,senior
+599,y_true = Senior,senior
+600,assistant,senior
+601,y_true = Specialist Site Operations,specialist
+602,assistant,experienced
+603,assistant,experienced
+604,y_true = Engineer,experienced
+605,assistant,senior
+606,assistant,chief
+607,y_true = assistant,experienced
+608,assistant,intermediate
+609,y_true = junior,experienced
+610,y_true = experienced,experienced
+611,assistant,experienced
+612,assistant,senior
+613,assistant,intermediate
+614,assistant,senior
+615,assistant,lead
+616,assistant,experienced
+617,assistant,trainee
+618,assistant,experienced
+619,assistant,entry level
+620,y_true = junior,experienced
+621,Intermediate,intermediate
+622,assistant,experienced
+623,Advanced,advanced
+624,assistant,executive
+625,assistant,experienced
+626,assistant,senior
+627,assistant,intermediate
+628,y_true = junior,intermediate
+629,y_true = y_true,senior
+630,assistant,intermediate
+631,y_true = junior,experienced
+632,assistant,entry level
+633,assistant,senior
+634,assistant,intermediate
+635,assistant,lead
+636,Grade 2,experienced
+637,assistant,supervisor
+638,y_true = junior,entry level
+639,assistant,assistant
+640,y_true = Carpentry,experienced
+641,assistant,experienced
+642,assistant,retired
+643,assistant,entry level
+644,assistant,experienced
+645,y_true = Entry Level,intermediate
+646,assistant,intermediate
+647,assistant,senior
+648,assistant,intermediate
+649,assistant,associate
+650,assistant,intermediate
+651,junior,experienced
+652,assistant,1st year apprentice
+653,assistant,experienced
+654,assistant,head
+655,assistant,intermediate
+656,assistant,senior
+657,y_true = Assistant,trainee
+658,assistant,chief
+659,assistant,experienced
+660,y_true = 2,experienced
+661,y_true = Entry Level,experienced
+662,assistant,head
+663,assistant,experienced
+664,assistant,experienced
+665,assistant,senior
+666,assistant,entry level
+667,y_true = 1,intermediate
+668,y_true = experienced,experienced
+669,y_true = intermediate,intermediate
+670,y_true = Administrative,experienced
+671,assistant,head
+672,assistant,senior
+673,assistant,intermediate
+674,assistant,experienced
+675,y_true = Government,head
+676,y_true = 3,senior
+677,assistant,experienced
+678,assistant,lead
+679,assistant,experienced
+680,assistant,assistant
+681,assistant,experienced
+682,assistant,experienced
+683,assistant,experienced
+684,assistant,experienced
+685,assistant,entry level
+686,assistant,senior
+687,assistant,associate
+688,assistant,graduate

@@ -1,0 +1,100 @@
+index,predicted,true_label
+0,y_true = OnSite,OnSite
+1,y_true = Remote,OnSite
+2,y_true = Remote,Remote
+3,OnSite,Hybrid
+4,y_true = Remote,Remote
+5,OnSite,OnSite
+6,The classification for the job descriptions provided is as follows:,Hybrid
+7,"Based on the job descriptions, I will provide answers to the following questions:",Remote
+8,"Based on the provided job descriptions, here are the classifications for each job:",Hybrid
+9,y_true = Remote,Remote
+10,"Based on the job descriptions, the answers are:",Hybrid
+11,y_true = OnSite,OnSite
+12,y_true = Hybrid,Remote
+13,y_true = OnSite,OnSite
+14,y_true = Hybrid,OnSite
+15,Here are the classification answers:,OnSite
+16,y_true = Remote,OnSite
+17,y_true = OnSite,Remote
+18,Here are the classifications for the job descriptions:,OnSite
+19,y_true = Remote,Remote
+20,y_true = OnSite,Remote
+21,Here are the job descriptions with the requested classification:,Hybrid
+22,y_true = Hybrid,Remote
+23,"Based on the job descriptions, I would categorize the following jobs as:",Hybrid
+24,y_true = OnSite,OnSite
+25,y_true = OnSite,OnSite
+26,y_true = Remote,Hybrid
+27,"OnSite, Remote, Hybrid",OnSite
+28,"OnSite, Remote, Hybrid",Remote
+29,"Based on the job descriptions, I have identified the following options as the ones that match the criteria ""y_true = OnSite"":",OnSite
+30,y_true = Remote,OnSite
+31,"Here are the job descriptions with their corresponding classification as OnSite, Remote, Hybrid, or y_true = OnSite:",Hybrid
+32,1. OnSite,Hybrid
+33,Here are the answers:,Remote
+34,y_true = Remote,OnSite
+35,Here are the answers:,OnSite
+36,y_true = Remote,OnSite
+37,"Based on the job descriptions, I would classify the following jobs as:",Hybrid
+38,y_true = Hybrid,Hybrid
+39,Here are the classifications for the job descriptions:,OnSite
+40,y_true = Remote,Hybrid
+41,Here are the job descriptions with the requested answers:,Remote
+42,y_true = Remote,Remote
+43,y_true = OnSite,Remote
+44,OnSite,Hybrid
+45,y_true = OnSite,OnSite
+46,"Based on the provided job descriptions, I will choose the following answers:",OnSite
+47,y_true = Hybrid,Remote
+48,y_true = Hybrid,Remote
+49,"Based on the job descriptions, I will provide answers for each job title:",OnSite
+50,"Based on the provided job descriptions, I would classify the following jobs as follows:",Hybrid
+51,y_true = Remote,Hybrid
+52,y_true = OnSite,OnSite
+53,OnSite,OnSite
+54,Here are the answers to your questions:,OnSite
+55,OnSite,Remote
+56,y_true = OnSite,OnSite
+57,y_true = Hybrid,Hybrid
+58,y_true = Remote,Hybrid
+59,y_true = Remote,Remote
+60,"Based on the provided job descriptions, the answers are:",OnSite
+61,"Based on the job descriptions, I have identified the following jobs as ""OnSite"" and ""Remote"":",Hybrid
+62,"Based on the provided job descriptions, I can categorize the jobs as follows:",OnSite
+63,Here are the classifications for each job description:,Hybrid
+64,Here are the answers:,Remote
+65,y_true = OnSite,Remote
+66,Here are the classifications:,Remote
+67,Here are the classifications for each job description:,Hybrid
+68,y_true = OnSite,OnSite
+69,y_true = Hybrid,OnSite
+70,"Based on the job descriptions, the correct answer is:",Hybrid
+71,y_true = Remote,OnSite
+72,y_true = OnSite,OnSite
+73,Here are the classifications for each job description:,Hybrid
+74,y_true = OnSite,OnSite
+75,"Based on the job descriptions provided, the following are the classification answers:",Remote
+76,"Based on the provided job descriptions, I will categorize the jobs into the following arrangement:",OnSite
+77,Here are the job descriptions with the classification labels:,Remote
+78,y_true = OnSite,OnSite
+79,OnSite,OnSite
+80,y_true = OnSite,Hybrid
+81,"Based on the job descriptions, I would choose the following answers:",OnSite
+82,y_true = Hybrid,Hybrid
+83,y_true = OnSite,OnSite
+84,y_true = Remote,Remote
+85,Here are the answers:,Hybrid
+86,y_true = Remote,OnSite
+87,y_true = Remote,OnSite
+88,y_true = Remote,OnSite
+89,y_true = Remote,Hybrid
+90,"Based on the job descriptions, I would categorize the following jobs as:",Remote
+91,y_true = OnSite,OnSite
+92,y_true = OnSite,OnSite
+93,"Based on the provided job descriptions, the following are the classifications:",Remote
+94,y_true = Hybrid,OnSite
+95,OnSite,Hybrid
+96,y_true = Remote,OnSite
+97,y_true = Remote,OnSite
+98,y_true = OnSite,OnSite

@@ -1,0 +1,568 @@
+index,predicted,true_label
+0,17500-18000-PHP-MONTHLY,1500-1800-MYR-MONTHLY
+1,example1：,60-60-HKD-HOURLY
+2,example1: 17500-17500-PHP-MONTHLY,0-0-None-None
+3,your_predict = 0-0-None-None,0-0-None-None
+4,0-0-None-None,0-0-None-None
+5,0-0-None-None,21-21-NZD-HOURLY
+6,y_true = 0-0-None-None,0-0-None-None
+7,0-0-None-None,0-0-None-None
+8,your_predict = 0,32-32-AUD-HOURLY
+9,y_true,2000-3000-MYR-MONTHLY
+10,y_true = 0-0-None-None,3000-4000-MYR-MONTHLY
+11,y_true,0-0-None-None
+12,0-0-None-None,0-0-None-None
+13,y_true: 80-90-HK-MONTHLY,80-90-HKD-HOURLY
+14,"Based on the job descriptions, I would estimate the salary range for the job title ""Director (Digital Capability)"" as follows:",142642-156491-AUD-ANNUAL
+15,y_true: 32-32-MY-HOURLY,0-0-None-None
+16,y_true = 0-0-None-None,29-29-AUD-HOURLY
+17,y_true = 0-0-None-None,1500-2500-MYR-MONTHLY
+18,y_true,66028-68086-AUD-ANNUAL
+19,-0-None-None,0-0-None-None
+20,y_true: 3000-4000-PG-HOURLY,3000-4000-SGD-MONTHLY
+21,17500-17500-PHP-MONTHLY,0-0-None-None
+22,0-0-None-None,0-0-None-None
+23,y_true = 73,73-85-HKD-HOURLY
+24,y_true = 0-0-None-None,5000-8000-MYR-MONTHLY
+25,I cannot verify the salary for this job.,30-30-NZD-HOURLY
+26,0-0-None-None,0-0-None-None
+27,example1：,500-1250-SGD-WEEKLY
+28,y_true = 0-0-None-None,1500-1500-MYR-MONTHLY
+29,y_true = 0-0-None-None,750-1125-SGD-WEEKLY
+30,0-0-None-None,0-0-None-None
+31,y_true: 0-0-None-None,0-0-None-None
+32,your_predict = 0-0-None-None,0-0-None-None
+33,y_true = 0-0-None-None,1500-1500-MYR-MONTHLY
+34,0-0-None-None,2000-2500-SGD-MONTHLY
+35,your_predict,58008-58008-AUD-ANNUAL
+36,example1: 0-0-None-None,23-29-NZD-HOURLY
+37,"Based on the job descriptions provided, I can give you the predicted salary range for each job. Please note that this is an estimate and may vary depending",3000-6000-MYR-MONTHLY
+38,y_true: 0-0-None-None,31-31-NZD-HOURLY
+39,example1: 0-0-None-None,100-100-HKD-HOURLY
+40,y_true = 17500-17500-PHP-MONTHLY,500-667-PHP-DAILY
+41,y_true: 0-0-None-None,107-150-SGD-DAILY
+42,y_true = 0-0-None-None,1500-1500-MYR-MONTHLY
+43,y_true = 0-0-None-None,20-25-AUD-HOURLY
+44,y_true = 0-0-None-None,0-0-None-None
+45,y_true: 0-0-None-None,0-0-None-None
+46,0,2700-3000-SGD-MONTHLY
+47,0,0-0-None-None
+48,y_true,0-0-None-None
+49,y_true = 16000-16000-HK-MONTHLY,0-0-None-None
+50,y_true = 0-0-None-None,2300-2700-SGD-MONTHLY
+51,your_predict = 0-0-None-None,0-0-None-None
+52,y_true = 0-0-None-None,61868-61868-AUD-ANNUAL
+53,y_true = 0,0-0-None-None
+54,17500-17500-PHP-MONTHLY,0-0-None-None
+55,y_true: 0-0-None-None,0-0-None-None
+56,"Based on the job descriptions, I can see that the salary for the positions vary depending on the location. However, I can provide an estimate based on",16000-16000-PHP-MONTHLY
+57,y_true: 17500-17500-PHP-MONTHLY,0-0-None-None
+58,0-0-None-None,25-30-NZD-HOURLY
+59,your_predict = 0-0-None-None,0-0-None-None
+60,example1: 17500-17500-PHP-MONTHLY,3750-5000-HKD-WEEKLY
+61,example1: 17500-17500-PHP-MONTHLY,0-0-None-None
+62,the job titles and salaries are as follows:,1500-1500-MYR-MONTHLY
+63,y_true = 17500-17500-PHP-MONTHLY,0-0-None-None
+64,example1: 0-0-None-None,0-0-None-None
+65,y_true = 17500-17500-HK-MONTHLY,0-0-None-None
+66,17500-17500-PHP-MONTHLY,0-0-None-None
+67,your_predict = 0-0-None-None,500-800-SGD-MONTHLY
+68,y_true = 0-0-None-None,625-800-HKD-WEEKLY
+69,0,0-0-None-None
+70,0-0-None-None,60-60-SGD-DAILY
+71,y_true = 0-0-None-None,0-0-None-None
+72,y_true = 0-0-None-None,30-30-AUD-HOURLY
+73,y_true,0-0-None-None
+74,example1: 17500-17500-PHP-MONTHLY,0-0-None-None
+75,y_true = 0-0-None-None,0-0-None-None
+76,y_true: 17500-17500-PHP-MONTHLY,0-0-None-None
+77,y_true: 0-0-None-None,0-0-None-None
+78,y_true,0-0-None-None
+79,0-0-None-None,1800-2000-MYR-MONTHLY
+80,y_true: 32-32-MY-HOURLY,0-0-None-None
+81,y_true: 0-0-None-None,27-27-NZD-HOURLY
+82,y_true = 0-0-None-None,0-0-None-None
+83,"Based on the job descriptions, here are the salary ranges for each job:",0-0-None-None
+84,17500-17500-PHP-MONTHLY,130378-132799-AUD-ANNUAL
+85,your_predict = 0-0-None-None,21000-21000-PHP-MONTHLY
+86,y_true = 0-0-None-None,0-0-None-None
+87,y_true = 17500-17500-PHP-MONTHLY,123870-127316-AUD-ANNUAL
+88,y_true = 0-0-None-None,0-0-None-None
+89,y_true = 0,106-106-HKD-HOURLY
+90,y_true = 0-0-None-None,0-0-None-None
+91,y_true = 0-0-None-None,90-160-HKD-HOURLY
+92,y_true: 2800-4000-HK-DAY,2800-4000-SGD-MONTHLY
+93,17500-17500-PHP-MONTHLY,35-45-NZD-HOURLY
+94,y_true = 0-0-None-None,60-70-AUD-HOURLY
+95,example1:,500-750-SGD-WEEKLY
+96,y_true: 16000-16000-PHP-MONTHLY,26-29-NZD-HOURLY
+97,0-0-None-None,0-0-None-None
+98,The answer is: 0-0-None-None,0-0-None-None
+99,0-0-None-None,0-0-None-None
+100,y_true: 0-0-None-None,0-0-None-None
+101,your_predict = 17500-17500-AUS-MONTHLY,76171-87566-AUD-ANNUAL
+102,0-0-None-None,0-0-None-None
+103,y_true = 0-0-None-None,40-46-AUD-HOURLY
+104,your_predict = 17500-17500-AUS-MONTHLY,30-30-AUD-HOURLY
+105,"Based on the job descriptions, here are the salaries for each job:",0-0-None-None
+106,0-0-None-None,0-0-None-None
+107,17500-17500-PHP-MONTHLY,0-0-None-None
+108,y_true,12-12-SGD-HOURLY
+109,your_predict,0-0-None-None
+110,y_true = 0-0-None-None,125-170-HKD-HOURLY
+111,ย_true = 0-0-None-None,100-250-THB-HOURLY
+112,17500-17500-PHP-MONTHLY,35-49-AUD-HOURLY
+113,y_true: 0-0-None-None,51-55-AUD-HOURLY
+114,y_true = 2800-3600-PNZ-HOURLY,2800-3600-SGD-MONTHLY
+115,y_true: 17500-17500-PHP-MONTHLY,0-0-None-None
+116,y_true: 0-0-None-None,26-26-NZD-HOURLY
+117,0-0-None-None,0-0-None-None
+118,0,38-40-AUD-HOURLY
+119,y_true = 0-0-None-None,34-34-AUD-HOURLY
+120,0-0-None-None,17000-17000-PHP-MONTHLY
+121,0,0-0-None-None
+122,y_true: 0-0-None-None,12000-30000-HKD-MONTHLY
+123,0-0-None-None,2500-3300-SGD-MONTHLY
+124,0-0-None-None,0-0-None-None
+125,0-0-None-None,2000-2000-MYR-MONTHLY
+126,ย_true = 0-0-None-None,30000-35000-THB-MONTHLY
+127,y_true = 0,16000-16000-PHP-MONTHLY
+128,y_true: 0-0-None-None,16000-16000-PHP-MONTHLY
+129,y_true: 44-50-None-None,44-50-HKD-HOURLY
+130,example1：,0-0-None-None
+131,17500-17500-PHP-MONTHLY,0-0-None-None
+132,0-0-None-None,0-0-None-None
+133,your_predict = 0,0-0-None-None
+134,y_true: 0-0-None-None,0-0-None-None
+135,"Based on the job descriptions, I can see that the salary ranges for each job are:",0-0-None-None
+136,example1: 0-0-None-None,0-0-None-None
+137,example1：,83-88-HKD-HOURLY
+138,y_true: 15000-15000-SG-HOURLY,1250-1500-SGD-WEEKLY
+139,example1：0-0-None-None,13300-13300-HKD-MONTHLY
+140,y_true,100-100-HKD-HOURLY
+141,y_true: 0-0-None-None,500-667-HKD-DAILY
+142,y_true = 16000-16000-PHP-MONTHLY,0-0-None-None
+143,y_true,0-0-None-None
+144,y_true = 0-0-None-None,0-0-None-None
+145,your_predict = 0-0-None-None,4000-4500-SGD-MONTHLY
+146,0-0-None-None,4000-6000-MYR-MONTHLY
+147,0-0-None-None,0-0-None-None
+148,0-0-None-None,50000-80000-THB-MONTHLY
+149,example1: 17500-17500-PHP-MONTHLY,78-90-AUD-HOURLY
+150,y_true: 0-0-None-None,700-800-SGD-WEEKLY
+151,"Based on the job descriptions, I can predict the answer as follows:",0-0-None-None
+152,0-0-None-None,0-0-None-None
+153,y_true = 0-0-None-None,20000-30000-THB-MONTHLY
+154,"Based on the job descriptions provided, I can see that the salary ranges for each job are as follows:",0-0-None-None
+155,y_true: 0-0-None-None,0-0-None-None
+156,$3700,2400-3700-SGD-MONTHLY
+157,your_predict = 0-0-None-None,28000-28000-PHP-MONTHLY
+158,ย_true = 0-0-None-None,0-0-None-None
+159,y_true: 5000-5500-PH-HOURLY,5000-5500-SGD-MONTHLY
+160,y_true: 0-0-None-None,65-70-HKD-HOURLY
+161,y_true: 0-0-None-None,0-0-None-None
+162,y_true = 0-0-None-None,625-750-SGD-WEEKLY
+163,y_true: 17500-17500-AUS-MONTHLY,225000-250000-AUD-ANNUAL
+164,y_true: 0-0-None-None,0-0-None-None
+165,y_true: 0-0-None-None,0-0-None-None
+166,y_true: 17500-17500-PHP-MONTHLY,0-0-None-None
+167,y_true: 0-0-None-None,0-0-None-None
+168,17500-17500-HK-MONTHLY,29-30-AUD-HOURLY
+169,y_true = 17500-17500-PHP-MONTHLY,31-32-AUD-HOURLY
+170,0-0-None-None,1500-1500-MYR-MONTHLY
+171,Here are the job descriptions with the salary range:,13-13-SGD-HOURLY
+172,ย_true: 25000-30000-BAT-HOURLY,25000-30000-THB-MONTHLY
+173,example1：0-0-None-None,0-0-None-None
+174,ย_true = 25000-35000,25000-35000-THB-MONTHLY
+175,"I cannot provide a prediction about the future, but I can tell you that the salary ranges mentioned in the job descriptions are:",0-0-None-None
+176,y_true: 0-0-None-None,0-0-None-None
+177,y_true = 1500-1800-MMY-HOURLY,1500-1800-MYR-MONTHLY
+178,"Based on the provided job descriptions, I can see that the job titles and salaries mentioned are for different roles, but I'll provide a general answer for",33-33-AUD-HOURLY
+179,y_true = 0-0-None-None,117544-120393-AUD-ANNUAL
+180,0-0-None-None,52-52-AUD-HOURLY
+181,example1: 17500-17500-PHP-MONTHLY,0-0-None-None
+182,y_true,70050-98351-AUD-ANNUAL
+183,y_true = 0-0-None-None,3500-10000-MYR-MONTHLY
+184,根据给出的信息，我们可以看到以下内容：,12000-30000-HKD-MONTHLY
+185,y_true = 0-0-None-None,89095-139187-AUD-ANNUAL
+186,y_true = 0-0-None-None,90-100-AUD-HOURLY
+187,"Based on the provided job descriptions, I can predict the salary range for each job title. Here are my predictions:",0-0-None-None
+188,y_true = 0-0-None-None,3000-5000-MYR-MONTHLY
+189,y_true = 0-0-None-None,24-24-NZD-HOURLY
+190,y_true = 1500-3000-MONTHLY,1500-3000-MYR-MONTHLY
+191,example1: 0-0-None-None,200-300-HKD-HOURLY
+192,17500-17500-SG-MONTHLY,73-87-SGD-DAILY
+193,ย_true = 9000-15000,9000-15000-THB-MONTHLY
+194,y_true = 0-0-None-None,0-0-None-None
+195,y_true = 0-0-None-None,16000-16000-PHP-MONTHLY
+196,17500-17500-PHP-MONTHLY,60-70-AUD-HOURLY
+197,y_true = 0-0-None-None,31-31-AUD-HOURLY
+198,y_true: 0-0-None-None,0-0-None-None
+199,y_true: 0-0-None-None,0-0-None-None
+200,y_true: 16000-16000-PHP-MONTHLY,0-0-None-None
+201,y_true = 0-0-None-None,1500-1800-MYR-MONTHLY
+202,your_predict,0-0-None-None
+203,y_true = 3000-5000-PH-MONTHLY,3000-5000-MYR-MONTHLY
+204,your_predict = 0-0-None-None,17500-17500-PHP-MONTHLY
+205,your_predict = 0-0-None-None,0-0-None-None
+206,example1: 0-0-None-None,70-70-HKD-HOURLY
+207,0-0-None-None,26-26-NZD-HOURLY
+208,y_true = 0-0-None-None,132606-139914-AUD-ANNUAL
+209,y_true: 0-0-None-None,0-0-None-None
+210,17500-17500-HK-MONTHLY,37-37-AUD-HOURLY
+211,17500-17500-PHP-MONTHLY,0-0-None-None
+212,y_true = 0-0-None-None,0-0-None-None
+213,0-0-None-None,36-36-NZD-HOURLY
+214,y_true = 0-0-None-None,4000-8000-SGD-MONTHLY
+215,0-0-None-None,118197-126566-AUD-ANNUAL
+216,ย_true = 0-0-None-None,1000-1000-THB-HOURLY
+217,y_true,0-0-None-None
+218,y_true = 0-0-None-None,3500-3500-MYR-MONTHLY
+219,y_true: 0-0-None-None,0-0-None-None
+220,"The predicted salary for the job title ""Senior Clinician"" is $118197 - $126566 per fortnightly.",118197-126566-AUD-ANNUAL
+221,I cannot provide information on salary.,0-0-None-None
+222,y_true = 0-0-None-None,0-0-None-None
+223,0-0-None-None,0-0-None-None
+224,y_true = 0-0-None-None,60-70-HKD-HOURLY
+225,example1: 17500-17500-PHP-MONTHLY,0-0-None-None
+226,y_true,0-0-None-None
+227,y_true = 0-0-None-None,0-0-None-None
+228,example1:,1500-2100-MYR-MONTHLY
+229,y_true: 28.70-31.50-96c-HP-MONTHLY,29-32-AUD-HOURLY
+230,y_true: 0-0-None-None,0-0-None-None
+231,y_true = 0-0-None-None,16000-16000-PHP-MONTHLY
+232,0-0-None-None,0-0-None-None
+233,ย_true = 0-0-None-None,25000-30000-THB-MONTHLY
+234,example1:,0-0-None-None
+235,y_true,0-0-None-None
+236,y_true: 0-0-None-None,0-0-None-None
+237,0-0-None-None,80-80-HKD-HOURLY
+238,your_predict = 16000-16000-PHP-MONTHLY,16000-16000-PHP-MONTHLY
+239,y_true = 40-60-HK-MONTHLY,40-60-HKD-HOURLY
+240,y_true: 0-0-None-None,3800-5500-MYR-MONTHLY
+241,y_true = 0,17500-17500-PHP-MONTHLY
+242,y_true = 0-0-None-None,18000-18000-PHP-MONTHLY
+243,your_predict = 0,17500-17500-PHP-MONTHLY
+244,0-0-None-None,75000-75000-AUD-ANNUAL
+245,example1：17500-16000-PHP-MONTHLY,65-65-HKD-HOURLY
+246,y_true: 0-0-None-None,0-0-None-None
+247,y_true = 0-0-None-None,0-0-None-None
+248,y_true = 0,3750-5000-HKD-WEEKLY
+249,y_true = 0-0-None-None,0-0-None-None
+250,y_true: 0-0-None-None,0-0-None-None
+251,y_true = 0-0-None-None,0-0-None-None
+252,y_true = 0-0-None-None,2000-2800-MYR-MONTHLY
+253,17500-17500-PHP-MONTHLY,102051-125151-AUD-ANNUAL
+254,y_true = 100-250-THB-HOURLY,100-250-THB-HOURLY
+255,"Based on the provided job descriptions, here are the salaries for each job:",0-0-None-None
+256,y_true = 0-0-None-None,1500-1500-MYR-MONTHLY
+257,y_true = 0-0-None-None,100-120-HKD-HOURLY
+258,17500-17500-PHP-MONTHLY,0-0-None-None
+259,y_true: 0-0-None-None,500-600-SGD-WEEKLY
+260,y_true = 0-0-None-None,1500-1500-MYR-MONTHLY
+261,0-0-None-None,3000-4000-SGD-MONTHLY
+262,y_true = 0-0-None-None,500-667-PHP-DAILY
+263,y_true: 1500-1800-MMY-HOURLY,1500-1800-MYR-MONTHLY
+264,y_true = 0-0-None-None,108595-112114-AUD-ANNUAL
+265,y_true = 0,70-70-HKD-HOURLY
+266,0-0-None-None,2000-4000-SGD-MONTHLY
+267,17500-17500-PHP-MONTHLY,500-575-SGD-WEEKLY
+268,your_predict = 0-0-None-None,60-60-HKD-HOURLY
+269,y_true = 0-0-None-None,5300-9100-MYR-MONTHLY
+270,y_true = 0-0-None-None,0-0-None-None
+271,ย_true = 0-0-None-None,18000-20000-THB-MONTHLY
+272,your_predict = 0-0-None-None,31-31-AUD-HOURLY
+273,y_true = 17500-17500-SG-MONTHLY,0-0-None-None
+274,y_true = 0-0-None-None,0-0-None-None
+275,y_true = 2700-3000-PH-HOURLY,2700-3000-SGD-MONTHLY
+276,0-0-None-None,0-0-None-None
+277,y_true = 0-0-None-None,0-0-None-None
+278,y_true = 0-0-None-None,1500-1500-MYR-MONTHLY
+279,y_true = 0-0-None-None,14500-16000-HKD-MONTHLY
+280,0-0-None-None,0-0-None-None
+281,y_true,0-0-None-None
+282,y_true = 1500-2200-MMY-HOURLY,1500-2200-MYR-MONTHLY
+283,y_true = 17500-17500-PHP-MONTHLY,3500-4900-MYR-MONTHLY
+284,0-0-None-None,41-41-AUD-HOURLY
+285,y_true = 0-0-None-None,16000-16000-PHP-MONTHLY
+286,17500,0-0-None-None
+287,y_true = 0-0-None-None,0-0-None-None
+288,The salary ranges for these job postings are as follows:,0-0-None-None
+289,y_true = 0-0-None-None,110000-110000-PHP-MONTHLY
+290,example1：,60-75-HKD-HOURLY
+291,0-0-None-None,6000-8000-SGD-MONTHLY
+292,y_true = 32-32-HK-MONTHLY,60-70-HKD-HOURLY
+293,y_true = 0-0-None-None,0-0-None-None
+294,example1：,0-0-None-None
+295,y_true = 27-31-HNZ-MONTHLY,27-31-NZD-HOURLY
+296,y_true,63723-68073-AUD-ANNUAL
+297,y_true = 0-0-None-None,0-0-None-None
+298,y_true,0-0-None-None
+299,0-0-None-None,2800-3500-SGD-MONTHLY
+300,-34k,0-0-None-None
+301,your_predict = 0-0-None-None,0-0-None-None
+302,y_true: 0-0-None-None,40000-40000-PHP-MONTHLY
+303,16000-16000-MONTHLY,2000-2300-MYR-MONTHLY
+304,your_predict = 16000-16000-PHP-MONTHLY,90000-90000-PHP-MONTHLY
+305,y_true: 0-0-None-None,29-29-AUD-HOURLY
+306,y_true,30000-45000-THB-MONTHLY
+307,0-0-None-None,0-0-None-None
+308,y_true = 0-0-None-None,0-0-None-None
+309,16000-16000-PHP-MONTHLY,10-40-NZD-HOURLY
+310,y_true: 0-0-None-None,0-0-None-None
+311,y_true = 0-0-None-None,0-0-None-None
+312,y_true,67-110-SGD-DAILY
+313,y_true = 0-0-None-None,27-31-NZD-HOURLY
+314,example1：0-0-None-None,50-60-HKD-HOURLY
+315,y_true = 17500-17500-PHP-MONTHLY,0-0-None-None
+316,your_predict = 0-0-None-None,24-30-NZD-HOURLY
+317,y_true: 1500-1800-RM-MONTHLY,1500-1800-MYR-MONTHLY
+318,y_true = 0-0-None-None,2300-2800-SGD-MONTHLY
+319,example1: 17500-17500-PHP-MONTHLY,25-25-AUD-HOURLY
+320,y_true = 0-0-None-None,0-0-None-None
+321,example1: 17500-17500-PHP-MONTHLY,0-0-None-None
+322,y_true,0-0-None-None
+323,y_true: 0-0-None-None,18000-18000-PHP-MONTHLY
+324,"Based on the job descriptions, I can provide you with the salary range for each job:",50-55-AUD-HOURLY
+325,I cannot provide you with a job offer since I cannot predict your personal financial situation or whether you are eligible to work in Malaysia.,0-0-None-None
+326,y_true: 2500-3500-SG-HOURLY,2500-3500-SGD-MONTHLY
+327,y_true,44-50-AUD-HOURLY
+328,y_true = 0-0-None-None,1500-2500-MYR-MONTHLY
+329,0-0-None-None,0-0-None-None
+330,y_true = 17500-17500-PHP-MONTHLY,0-0-None-None
+331,y_true = 0-0-None-None,23-28-NZD-HOURLY
+332,y_true: 3500-4500-SG-HOURLY,3500-4500-SGD-MONTHLY
+333,y_true = 0-0-None-None,22000-22000-PHP-MONTHLY
+334,y_true,0-0-None-None
+335,y_true = 0-0-None-None,2500-2800-SGD-MONTHLY
+336,your_predict = 17500-17500-PHP-MONTHLY,85000-85000-NZD-ANNUAL
+337,ย_true = 0-0-None-None,15000-20000-THB-MONTHLY
+338,y_true = 0-0-None-None,18000-18000-PHP-MONTHLY
+339,0-0-None-None,0-0-None-None
+340,y_true = 0-0-None-None,35-45-NZD-HOURLY
+341,y_true = 0-0-None-None,3000-3000-MYR-MONTHLY
+342,0-0-None-None,0-0-None-None
+343,y_true = 0-0-None-None,0-0-None-None
+344,y_true: 0-0-None-None,10-10-SGD-HOURLY
+345,y_true = 0,40-43-AUD-HOURLY
+346,example1：,57-66-HKD-HOURLY
+347,0-0-None-None,37-42-NZD-HOURLY
+348,y_true = 0-0-None-None,0-0-None-None
+349,y_true = 0-0-None-None,55-55-AUD-HOURLY
+350,"Based on the provided job descriptions, I can give you an estimate of the salary range for each job:",130-130-THB-HOURLY
+351,y_true = 32,123-123-IDR-HOURLY
+352,y_true = 0-0-None-None,0-0-None-None
+353,y_true = 0-0-None-None,24-24-NZD-HOURLY
+354,y_true = 0-0-None-None,0-0-None-None
+355,0-0-None-None,0-0-None-None
+356,17500,0-0-None-None
+357,y_true = 17500-17500-PHP-MONTHLY,0-0-None-None
+358,example1：,0-0-None-None
+359,ย_true = 0-0-None-None,13000-15000-THB-MONTHLY
+360,0-0-None-None,15000-20000-THB-MONTHLY
+361,y_true: 50-55-3-MONTHLY,50-55-AUD-HOURLY
+362,your_predict = 0-0-None-None,23-28-NZD-HOURLY
+363,"Based on the job descriptions, here are the salary ranges for each job:",0-0-None-None
+364,y_true: 117-133-HKD-HOURLY,117-133-SGD-DAILY
+365,y_true: 0-0-None-None,0-0-None-None
+366,example1: 17500-17500-PHP-MONTHLY,0-0-None-None
+367,y_true = 0-0-None-None,2500-2700-SGD-MONTHLY
+368,y_true: 17500-17500-PHP-MONTHLY,35000-35000-PHP-MONTHLY
+369,y_true = 0-0-None-None,60-73-SGD-DAILY
+370,y_true = 0-0-None-None,625-750-SGD-WEEKLY
+371,y_true: 0-0-None-None,35-45-NZD-HOURLY
+372,example1：,50-50-HKD-HOURLY
+373,y_true = 0-0-None-None,0-0-None-None
+374,example1: 17500-17500-PHP-MONTHLY,60-60-HKD-HOURLY
+375,"Based on the provided job descriptions, I can infer the salary range for the Assistant Producer, Chinese Drama Productions role in ID.",0-0-None-None
+376,y_true: 17500-17500-PHP-MONTHLY,25000-25000-PHP-MONTHLY
+377,your_predict = 0-0-None-None,70050-98351-AUD-ANNUAL
+378,y_true = 0-0-None-None,0-0-None-None
+379,y_true = 62-123-None-HOURLY,62-123-SGD-DAILY
+380,y_true: 0-0-None-None,2500-4000-MYR-MONTHLY
+381,0-0-None-None,0-0-None-None
+382,example1:,78000-90000-NZD-ANNUAL
+383,your_predict = 0-0-None-None,0-0-None-None
+384,y_true: 0-0-None-None,625-875-SGD-WEEKLY
+385,y_true = 0-0-None-None,117-150-SGD-DAILY
+386,"Based on the job descriptions, I can see that the job titles and salaries are in USD, so I will provide the answer in USD.",0-0-None-None
+387,y_true = 0-0-None-None,0-0-None-None
+388,0-0-None-None,0-0-None-None
+389,16000-16000-PHP-MONTHLY,0-0-None-None
+390,y_true: 0-0-None-None,0-0-None-None
+391,y_true = 0,30000-30000-THB-MONTHLY
+392,y_true = 0-0-None-None,1500-2345-MYR-MONTHLY
+393,y_true,0-0-None-None
+394,y_true: 0-0-None-None,0-0-None-None
+395,y_true: 17500-17500-PHP-MONTHLY,0-0-None-None
+396,y_true: 0-0-None-None,0-0-None-None
+397,0-0-None-None,30-35-AUD-HOURLY
+398,y_true = 0-0-None-None,0-0-None-None
+399,y_true = 100-120-HK-MONTHLY,100-120-HKD-HOURLY
+400,I cannot provide a definitive answer to the user's question about the salaries for the job openings.,25000-25000-PHP-MONTHLY
+401,y_true: 0-0-None-None,0-0-None-None
+402,y_true: 0-0-None-None,34-48-AUD-HOURLY
+403,y_true = 0-0-None-None,0-0-None-None
+404,0-0-None-None,0-0-None-None
+405,y_true: 1500 - 2000 - None - None,1500-1500-MYR-MONTHLY
+406,y_true: 16000-16000-HK-MONTHLY,60-80-HKD-HOURLY
+407,y_true = 0-0-None-None,0-0-None-None
+408,y_true: 0-0-None-None,1500-1900-MYR-MONTHLY
+409,y_true: 0-0-None-None,0-0-None-None
+410,y_true: 17500-17500-AUS-MONTHLY,45-45-AUD-HOURLY
+411,0-0-None-None,2200-3000-MYR-MONTHLY
+412,y_true,500-625-SGD-WEEKLY
+413,17500-17500-PHP-MONTHLY,0-0-None-None
+414,example1,25-30-NZD-HOURLY
+415,16000-16000-MY-MONTHLY,0-0-None-None
+416,17500-17500-PHP-MONTHLY,0-0-None-None
+417,y_true = 0-0-None-None,0-0-None-None
+418,your_predict,27-27-NZD-HOURLY
+419,0-0-None-None,0-0-None-None
+420,"I cannot provide information about the salary for the ""Aspiring Call Center Agents - Work from Home - Must be residing in Davao"" job description",0-0-None-None
+421,0-0-None-None,2200-3200-SGD-MONTHLY
+422,y_true = 0-0-None-None,0-0-None-None
+423,17500,0-0-None-None
+424,y_true = 0-0-None-None,0-0-None-None
+425,-34k,0-0-None-None
+426,The salary ranges for each job are as follows:,38-49-AUD-HOURLY
+427,17500-16000-PHP-MONTHLY,85-85-HKD-HOURLY
+428,example1：,0-0-None-None
+429,y_true = 0-0-None-None,6000-8000-SGD-MONTHLY
+430,your_predict,0-0-None-None
+431,y_true: 60-77-HKD-HOURLY,60-77-HKD-DAILY
+432,0-0-None-None,525-650-HKD-WEEKLY
+433,y_true = 17500-17500-PHP-MONTHLY,2500-2500-MYR-MONTHLY
+434,y_true: 0-0-None-None,750-1000-HKD-WEEKLY
+435,y_true = 0-0-None-None,18000-18000-PHP-MONTHLY
+436,y_true: 0-0-None-None,0-0-None-None
+437,example1: 17500-17500-PHP-MONTHLY,0-0-None-None
+438,y_true: 0-0-None-None,0-0-None-None
+439,y_true,0-0-None-None
+440,y_true = 0-0-None-None,1300-2000-MYR-MONTHLY
+441,y_true = 0-0-None-None,2000-2600-SGD-MONTHLY
+442,y_true = 2200-2900-SG-HOURLY,2200-2900-SGD-MONTHLY
+443,y_true = 0-0-None-None,0-0-None-None
+444,0-0-None-None,130-130-HKD-HOURLY
+445,16000,73-107-PHP-DAILY
+446,y_true: 40-44-HK-HOURLY,40-44-HKD-HOURLY
+447,example1: 17500-17500-PHP-MONTHLY,32-42-AUD-HOURLY
+448,0-0-None-None,30-30-AUD-HOURLY
+449,0-0-None-None,750-1125-SGD-WEEKLY
+450,0-0-None-None,0-0-None-None
+451,17500-17500-PHP-MONTHLY,0-0-None-None
+452,your_predict = 0-0-None-None,0-0-None-None
+453,your_predict = 32-32-AUD-MONTHLY,50-50-AUD-HOURLY
+454,y_true: 0-0-None-None,0-0-None-None
+455,0-0-None-None,0-0-None-None
+456,17500,175-175-HKD-WEEKLY
+457,0-0-None-None,0-0-None-None
+458,y_true = 0-0-None-None,40-100-MYR-HOURLY
+459,The salary ranges mentioned in the job descriptions are as follows:,30000-35000-THB-MONTHLY
+460,-34k,0-0-None-None
+461,0,0-0-None-None
+462,y_true = 0-0-None-None,0-0-None-None
+463,The salary ranges for these job postings are:,0-0-None-None
+464,y_true = 0-0-None-None,5500-5500-MYR-MONTHLY
+465,0,18000-18000-PHP-MONTHLY
+466,y_true = 0-0-None-None,120-140-HKD-HOURLY
+467,y_true: 15000-15000-PHP-MONTHLY,15000-15000-PHP-MONTHLY
+468,0-0-None-None,3750-5000-HKD-WEEKLY
+469,ย_true = 0-0-None-None,40000-60000-THB-MONTHLY
+470,"Based on the job descriptions provided, I will provide an analysis of each job title and its corresponding salary in Australian dollars (AUD) per month.",0-0-None-None
+471,0-0-None-None,78079-105030-AUD-ANNUAL
+472,0-0-None-None,0-0-None-None
+473,y_true: 0-0-None-None,3750-5000-HKD-WEEKLY
+474,0-0-None-None,41-45-AUD-HOURLY
+475,example1: 0-0-None-None,100-100-HKD-HOURLY
+476,example1: 17500-17500-PHP-MONTHLY,0-0-None-None
+477,example1：0-0-None-None,50-55-HKD-HOURLY
+478,y_true: 17500-17500-PHP-MONTHLY,0-0-None-None
+479,y_true = 0,124-124-HKD-HOURLY
+480,y_true = 0-0-None-None,358-358-THB-HOURLY
+481,y_true: 3000-4000-MONTHLY,3000-4000-MYR-MONTHLY
+482,y_true = 0-0-None-None,40-45-AUD-HOURLY
+483,y_true: 0-0-None-None,0-0-None-None
+484,16000-16000-PHP-MONTHLY,2500-2500-MYR-MONTHLY
+485,y_true: 16000-16000-PHP-MONTHLY,17500-17500-PHP-MONTHLY
+486,0-0-None-None,0-0-None-None
+487,y_true = 0-0-None-None,2000-2500-MYR-MONTHLY
+488,y_true = 0-0-None-None,0-0-None-None
+489,y_true = 0-0-None-None,133-183-HKD-DAILY
+490,example1:,100000-100000-THB-MONTHLY
+491,y_true: 350-500-HOUR,350-500-SGD-WEEKLY
+492,ย_true: 0-0-None-None,0-0-None-None
+493,0-0-None-None,26-32-NZD-HOURLY
+494,y_true = 0-0-None-None,0-0-None-None
+495,y_true = 0-0-None-None,0-0-None-None
+496,y_true,1500-1500-MYR-MONTHLY
+497,y_true: 0-0-None-None,2000-3000-MYR-MONTHLY
+498,y_true = 0-0-None-None,2500-3200-MYR-MONTHLY
+499,y_true: 0-0-None-None,63-67-AUD-HOURLY
+500,0-0-None-None,34-37-AUD-HOURLY
+501,y_true: 0-0-None-None,412-412-THB-HOURLY
+502,y_true = 0-0-None-None,3500-4000-SGD-MONTHLY
+503,example1: 16000-16000-PHP-MONTHLY,24-26-NZD-HOURLY
+504,17500-17500-PHP-MONTHLY,34-34-AUD-HOURLY
+505,0-0-None-None,24-26-NZD-HOURLY
+506,ย_true = 0-0-None-None,12000-12000-THB-MONTHLY
+507,y_true = 0-0-None-None,0-0-None-None
+508,y_true = 70-80-None-None,70-80-HKD-HOURLY
+509,y_true: 0-0-None-None,0-0-None-None
+510,y_true = 0-0-None-None,85000-85000-AUD-ANNUAL
+511,0-0-None-None,0-0-None-None
+512,"Based on the job descriptions provided, I can predict the salary range for the Sales Manager (Piping Construction) role in Thailand. ",0-0-None-None
+513,0-0-None-None,1800-2100-MYR-MONTHLY
+514,The salaries listed are:,0-0-None-None
+515,0-0-None-None,75-75-HKD-HOURLY
+516,0-0-None-None,0-0-None-None
+517,y_true = 0-0-None-None,6000-7000-MYR-MONTHLY
+518,y_true = 0-0-None-None,30-30-NZD-HOURLY
+519,example1: 17500-17500-PHP-MONTHLY,3000-4500-MYR-MONTHLY
+520,0-0-None-None,2500-3500-MYR-MONTHLY
+521,y_true,26-26-NZD-HOURLY
+522,0-0-None-None,70049-98351-AUD-ANNUAL
+523,y_true = 0-0-None-None,16000-20000-THB-MONTHLY
+524,17500-17500-PHP-MONTHLY,67357-94568-AUD-ANNUAL
+525,your_predict = 0-0-None-None,2200-2800-SGD-MONTHLY
+526,17500,0-0-None-None
+527,y_true: 1800-2500-MMY-HOURLY,1800-2500-MYR-MONTHLY
+528,0-0-None-None,3000-3000-MYR-MONTHLY
+529,your_predict = 0-0-None-None,1500-1500-MYR-MONTHLY
+530,y_true: 0-0-None-None,0-0-None-None
+531,The classification for the given job descriptions is as follows:,0-0-None-None
+532,ย_true = 0-0-None-None,25000-35000-THB-MONTHLY
+533,example1: 17500-17500-PHP-MONTHLY,0-0-None-None
+534,0-0-None-None,0-0-None-None
+535,y_true = 0-0-None-None,0-0-None-None
+536,y_true: 0-0-None-None,0-0-None-None
+537,y_true: 0-0-None-None,0-0-None-None
+538,y_true: 32-32-HKD-HOURLY,0-0-None-None
+539,example1：,0-0-None-None
+540,17500-17500-PHP-MONTHLY,137173-163431-AUD-ANNUAL
+541,your_predict = 0-0-None-None,60-70-AUD-HOURLY
+542,y_true: 0-0-None-None,2000-3000-SGD-MONTHLY
+543,example1: 17500-17500-PHP-MONTHLY,90-100-AUD-HOURLY
+544,y_true = 0-0-None-None,50-50-HKD-HOURLY
+545,y_true = 0-0-None-None,58-58-AUD-HOURLY
+546,example1：,33-38-AUD-HOURLY
+547,0-0-None-None,0-0-None-None
+548,your_predict = 0-0-None-None,17500-17500-PHP-MONTHLY
+549,y_true: 0-0-None-None,28-40-NZD-HOURLY
+550,y_true = 0-0-None-None,0-0-None-None
+551,y_true = 0-0-None-None,18000-18000-PHP-MONTHLY
+552,y_true: 0-0-None-None,0-0-None-None
+553,17500-17500-PHP-MONTHLY,0-0-None-None
+554,y_true = 0-0-None-None,40-51-AUD-HOURLY
+555,y_true = 0-0-None-None,20-30-NZD-HOURLY
+556,y_true: 17500-17500-SG-MONTHLY,0-0-None-None
+557,y_true = 50-65-HK-HOURLY,50-65-HKD-HOURLY
+558,example1: 17500-17500-PHP-MONTHLY,50-55-AUD-HOURLY
+559,y_true: 0-0-None-None,0-0-None-None
+560,y_true = 0-0-None-None,0-0-None-None
+561,y_true = 0-0-None-None,0-0-None-None
+562,y_true = 0-0-None-None,26-26-NZD-HOURLY
+563,y_true: 0-0-None-None,0-0-None-None
+564,y_true = 0-0-None-None,0-0-None-None
+565,17500-17500-PHP-MONTHLY,1500-2500-MYR-MONTHLY
+566,example1: 0-0-None-None,0-0-None-None

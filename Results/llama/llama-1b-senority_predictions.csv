@@ -1,0 +1,601 @@
+index,predicted,true_label
+0,"Based on the job descriptions, I would classify the following jobs as follows:",senior
+1,y_true = senior,experienced
+2,y_true = senior,entry level
+3,"Based on the provided job descriptions, I predict the following classifications:",senior
+4,"Based on the job descriptions, I predict that the classification of ""y_true = senior"" applies to the following jobs:",intermediate
+5,"Based on the provided job descriptions, I would classify the following jobs as follows:",experienced
+6,y_true = experienced,experienced
+7,"Based on the job descriptions, I predict that the classification of the job title ""Job Title: Electrical BIM modeller - Contract role - Sydney""",entry level
+8,"Based on the job descriptions and the classification names, I would predict that the following are the most likely classifications:",entry level
+9,"Based on the job descriptions, I would classify the following jobs as follows:",experienced
+10,"Based on the job descriptions, I would classify the following jobs as:",senior
+11,"Based on the provided job descriptions, I would categorize the following jobs as follows:",experienced
+12,"Based on the provided job descriptions, I predict that the classification for ""y_true = senior"" is most likely for Job Title: Quality Coordinator Registered Nurse",experienced
+13,"Based on the job descriptions, I would classify the following jobs as follows:",senior
+14,y_true = senior,trainee
+15,"Based on the job descriptions, I would classify the following as senior:",experienced
+16,"Based on the provided job descriptions, I predict that the classification of the job title ""Bookkeeper | Architecture"" is:",experienced
+17,"Based on the job descriptions, I would categorize the following jobs as follows:",intermediate
+18,"Based on the job descriptions, I would classify the following jobs as follows:",apprentice
+19,"Based on the provided job descriptions, I predict the following classification for each job:",entry level
+20,"Based on the job descriptions provided, I would categorize the following jobs as follows:",entry level
+21,y_true = senior,entry level
+22,"Based on the provided job descriptions, I would classify the following jobs as follows:",experienced
+23,y_true = y_true,experienced
+24,y_true = intermediate,experienced
+25,"Based on the job descriptions provided, I predict that the classification of the job title ""Electrical BIM modeller - Contract role - Sydney"" is",experienced
+26,y_true = intermediate,graduate
+27,"Based on the job descriptions, I predict that the classification for the job title ""Occupations Coordinator"" is y_true = intermediate.",senior
+28,y_true = senior,senior
+29,"Based on the job descriptions, I would classify the following jobs as follows:",intermediate
+30,"Based on the job descriptions, I would classify the job titles as follows:",head
+31,y_true = senior,senior
+32,"Based on the job descriptions and the provided information, I would classify the job titles as follows:",supervisor
+33,"Based on the job descriptions, I would classify the following jobs as follows:",lead
+34,"Based on the job descriptions, I would classify the following jobs as follows:",experienced
+35,y_true = intermediate,entry level
+36,"Based on the provided job descriptions, I would classify the following as ""y_true = experienced"":",experienced
+37,"Based on the provided job descriptions, I predict that the classification of the job ""Retail Store Manager in Training"" is y_true = experienced.",trainee
+38,y_true = senior,entry level
+39,Here are the classifications for the job descriptions:,intermediate
+40,"Based on the job descriptions, I would classify the jobs as follows:",experienced
+41,"Based on the provided information, I predict the classification of the job titles as follows:",entry level
+42,"Based on the job descriptions, I predict that the classification of ""y_true = senior"" is most likely for the following reasons:",experienced
+43,y_true = senior,lead
+44,y_true = y_true,senior
+45,Here are the classifications for each job description:,entry level
+46,y_true = lead,experienced
+47,"Based on the job descriptions, I would classify the following jobs as follows:",assistant
+48,y_true = intermediate,intermediate
+49,"Based on the provided job descriptions, I will classify each job as follows:",intermediate
+50,"Based on the job descriptions provided, I would categorize the following as y_true = experienced:",experienced assistant
+51,y_true = senior,assistant
+52,y_true = intermediate,intermediate
+53,y_true = senior,lead
+54,y_true = senior,entry level
+55,"Based on the job descriptions, I predict that the correct classification for the job ""Electrical BIM modeler - Contract role - Sydney"" is """,experienced
+56,"Based on the job descriptions, I would categorize the following jobs as follows:",senior
+57,y_true = senior,experienced
+58,y_true = y_true,experienced
+59,y_true = senior,assistant
+60,"Based on the job descriptions, I would classify the following jobs as y_true = senior:",intermediate
+61,y_true = y_true,entry level
+62,"Based on the provided job descriptions and classifications, I would classify the following jobs as ""y_true = senior"":",senior
+63,y_true = y_true,intermediate
+64,y_true = senior,experienced
+65,"Based on the job descriptions provided, I would classify the following jobs as follows:",experienced
+66,y_true = lead,experienced
+67,"Based on the job descriptions, I predict that the correct classification for each job title is:",junior
+68,"Based on the provided job descriptions, I would classify the following jobs as follows:",senior
+69,"Based on the provided information, I predict that the classification of the job title ""Job Title: Electrical BIM modeller - Contract role - Sydney""",intermediate
+70,y_true = senior,senior
+71,"Based on the job descriptions, I would classify the following as ""y_true = senior"":",experienced
+72,y_true = senior,lead
+73,y_true = senior,senior
+74,y_true = y_true,intermediate
+75,"Based on the job descriptions, I would classify the following jobs as follows:",experienced
+76,"Based on the job descriptions, I would classify the following as:",associate
+77,"Based on the job descriptions, I would classify the following jobs as follows:",junior
+78,"Based on the provided job descriptions, I predict that the correct classification for the job title ""Electrical BIM modeller - Contract role - Sydney""",experienced
+79,"Based on the job descriptions, I would classify the following jobs as follows:",senior
+80,y_true = y_true,intermediate
+81,"Based on the job descriptions, I would classify the following jobs as:",junior
+82,"Based on the job descriptions provided, I would categorize the following jobs as follows:",trainee
+83,y_true = senior,director
+84,"Based on the provided job descriptions and classifications, I would categorize the following jobs as follows:",experienced
+85,y_true = senior,graduate/junior
+86,y_true = senior,intermediate
+87,"Based on the job descriptions provided, here are my predictions for the job titles and classifications:",intermediate
+88,"Based on the provided job descriptions, I would classify the following jobs as follows:",senior
+89,y_true = senior,experienced
+90,"Based on the provided job descriptions, I would classify the job titles as follows:",experienced
+91,"Based on the job descriptions, I predict that the classification of the job title ""Occupations Coordinator"" would be y_true = experienced.",entry level
+92,"Based on the job descriptions and classifications, I predict that the correct answer is:",entry level
+93,"Based on the provided job descriptions, I predict that the correct classification for the job title ""Team Manager - Projects"" is ""Head"".",lead
+94,"Based on the job descriptions, I would classify the following jobs as follows:",entry-level
+95,y_true = senior,experienced
+96,"Based on the job descriptions, I would classify the following as senior:",senior
+97,"Based on the job descriptions, I would classify the following jobs as follows:",senior
+98,"Based on the job descriptions, I predict that the classification for the job Title: Assistant Store Manager | Camberwell is y_true = senior.",assistant
+99,"Based on the job descriptions, I would classify the following jobs as follows:",experienced
+100,y_true = y_true,experienced
+101,"Based on the job descriptions, I predict that the correct classification for the job title ""Machine Operator / Storeman - Metal"" is ""assistant"".",entry level
+102,"Based on the provided job descriptions, I would classify the following jobs as follows:",senior
+103,"Based on the job descriptions, I would classify the following as y_true = senior:",senior
+104,y_true = intermediate,head
+105,y_true = senior,experienced
+106,"Based on the job descriptions, I would classify the following jobs as follows:",experienced
+107,y_true = senior,assistant
+108,"Based on the job descriptions provided, I would categorize the job titles as follows:",junior
+109,"Based on the job descriptions, I would classify the following as ""y_true = experienced"":",entry level
+110,y_true = intermediate,intermediate
+111,"Based on the job descriptions, I would classify the following jobs as:",lead
+112,"Based on the provided job descriptions, I would categorize the classifications as follows:",experienced
+113,"Based on the job descriptions, I predict that the correct classification for the job title ""Occupations Coordinator"" is ""assistant"".",senior
+114,"Based on the job descriptions, I predict that the classification for ""y_true = senior"" is most likely to be correct for the following reasons:",experienced
+115,"Based on the job descriptions, I would classify the following jobs as follows:",senior
+116,"Based on the job descriptions, I would classify the following jobs as:",entry level
+117,y_true = experienced,intermediate
+118,"Based on the job descriptions, I would classify the following jobs as follows:",senior
+119,"Based on the job descriptions, I would classify the following jobs as:",experienced
+120,"Based on the job descriptions, I predict that the classification for ""Engineering"" is:",experienced
+121,"Based on the provided job descriptions, I would categorize the following jobs as follows:",entry level
+122,"Based on the job descriptions, I would classify the following jobs as follows:",entry level
+123,y_true = intermediate,entry level
+124,y_true = senior,entry level
+125,y_true = senior,experienced
+126,"Based on the provided information, I predict that the classification of the job title ""Leading Hand Carpenter/ Foreman - $1 million Refurbishment -",lead
+127,"Based on the job descriptions provided, I predict that the correct classification for the job title ""Electrical BIM modeller - Contract role - Sydney""",assistant
+128,"Based on the provided job descriptions, I would classify the following jobs as follows:",experienced
+129,"Based on the job descriptions, I would classify the following as senior:",intermediate
+130,y_true = y_true,intermediate
+131,y_true = senior,graduate/junior
+132,y_true = senior,experienced
+133,y_true = senior,intermediate
+134,"Based on the job descriptions and requirements, I would classify the following jobs as:",intermediate
+135,"Based on the job descriptions, I would classify the following jobs as follows:",manager
+136,y_true = y_true,intermediate
+137,"Based on the job descriptions, I would classify the following jobs as follows:",intermediate
+138,"Based on the job descriptions, I would classify the following jobs as:",experienced
+139,y_true = senior,experienced
+140,"Based on the job descriptions, I would classify the following jobs as follows:",senior
+141,"Based on the job descriptions provided, I would classify the following jobs as follows:",experienced
+142,"Based on the job descriptions provided, here are my predictions for each job:",assistant
+143,"Based on the job descriptions provided, I would classify the following jobs as follows:",entry-level to intermediate
+144,"Based on the job descriptions, I would categorize the following jobs as:",experienced
+145,y_true = senior,junior
+146,y_true = senior,head
+147,"Based on the provided job descriptions, I would categorize the following jobs as follows:",assistant
+148,"Based on the provided job descriptions, I would categorize the following jobs as follows:",experienced
+149,"Based on the provided job descriptions, I predict the following classifications:",senior
+150,"Based on the job descriptions provided, here are the classifications:",assistant
+151,"Based on the provided job descriptions and classifications, I would categorize the following jobs as follows:",assistant
+152,"Based on the job descriptions and the classification labels, I predict the following:",entry level
+153,"Based on the job descriptions, I would classify the following jobs as follows:",apprentice
+154,"Based on the provided job descriptions and classification labels, I predict that the job titles and classifications are:",intermediate
+155,y_true = senior,assistant
+156,"Based on the job descriptions provided, I would classify the following as y_true = senior:",experienced
+157,"Based on the job descriptions, I would categorize the following jobs as follows:",senior
+158,"Based on the job descriptions, I would classify the following as senior:",experienced
+159,y_true = experienced,senior
+160,"Based on the job descriptions, I would classify the following jobs as follows:",intermediate
+161,"Based on the job descriptions, I would classify the following jobs as follows:",senior
+162,y_true = y_true,entry level
+163,y_true = senior,experienced
+164,"Based on the job descriptions, I predict that the classification for ""y_true = experienced"" is likely to be:",intermediate
+165,"Based on the job descriptions provided, I would classify the following jobs as follows:",intermediate
+166,"Based on the job descriptions, I would classify the following jobs as follows:",junior
+167,y_true = senior,entry level
+168,"Based on the provided job descriptions, I predict that the correct classification for the job titles are:",experienced
+169,y_true = senior,intermediate
+170,"Based on the job descriptions, I would categorize the following jobs as follows:",intermediate
+171,y_true = intermediate,entry level
+172,"Based on the job descriptions and requirements, I would classify the job titles as follows:",lead
+173,"Based on the job descriptions, I predict that the classification_name is ""Engineering"" and the subclassification_name is ""Construction""",experienced
+174,"Based on the job descriptions, I would categorize the following as ""y_true = senior"":",entry level
+175,"Based on the job descriptions provided, I would classify the following jobs as follows:",experienced
+176,y_true = intermediate,lead
+177,"Based on the job descriptions, I predict that the classification_name = senior and subclassification_name = Management",intermediate
+178,y_true = senior,trainee
+179,"Based on the provided job descriptions and classification labels, here's a prediction:",experienced
+180,"Based on the job descriptions and classifications provided, I predict that the correct classification for the job title ""Events Sales Manager"" is ""Lead"" or """,experienced
+181,"Based on the provided information, I predict that the correct classification for the job title ""Electrical BIM modeller - Contract role - Sydney"" is",senior
+182,"Based on the job descriptions, I predict that the classification of ""y_true = senior"" applies to the following jobs:",assistant
+183,"Based on the provided job descriptions, I would classify the following jobs as follows:",intermediate
+184,y_true = y_true,entry level
+185,"Based on the job descriptions provided, I would classify the following job titles as follows:",experienced
+186,"Based on the job descriptions provided, I would classify the following jobs as follows:",senior
+187,"Based on the job descriptions and requirements, I would categorize the classifications as follows:",head
+188,y_true = senior,experienced
+189,"Based on the provided information, I would classify the job title as ""Senior"".",senior
+190,"Based on the job descriptions provided, here are the classifications for each job:",intermediate
+191,"Based on the job descriptions, I would classify the following jobs as follows:",graduate
+192,"Based on the job descriptions, I can classify the following jobs as:",student
+193,y_true = senior,intermediate
+194,y_true = senior,intermediate
+195,"Based on the job descriptions provided, I would categorize the following jobs as:",experienced
+196,y_true = senior,senior
+197,"Based on the job descriptions, I would categorize the following as y_true = senior:",intermediate
+198,"Based on the provided job descriptions, I would classify the following jobs as follows:",senior
+199,y_true = y_true,experienced
+200,"Based on the provided information, I predict that the classification for Job Title: General Adult Psychiatrists is y_true = senior.",specialist
+201,"Based on the job descriptions, I predict that the correct classification for the job is:",intermediate
+202,"Based on the job descriptions, I predict the following classifications:",head
+203,"Based on the job descriptions, I would categorize the following jobs as follows:",intermediate
+204,y_true = y_true,experienced
+205,y_true = senior,experienced
+206,y_true = senior,senior lead
+207,"Based on the provided job descriptions, I would classify the jobs as follows:",junior
+208,"Based on the provided job descriptions, I predict the following classification:",experienced
+209,"Based on the provided job descriptions, I predict that the classification of ""y_true = experienced"" applies to the following jobs:",lead
+210,y_true = intermediate,junior-intermediate
+211,"Based on the job descriptions, I would classify the following as ""y_true = senior"":",senior
+212,"Based on the job descriptions, I would classify the following jobs as follows:",experienced
+213,"Based on the provided job descriptions, I would classify the following jobs as follows:",graduate
+214,"Based on the provided job descriptions, I predict that the correct classification for each job is:",experienced
+215,"Based on the job descriptions provided, I would categorize the following jobs as follows:",intermediate
+216,"Based on the job descriptions, I would classify the following jobs as follows:",experienced
+217,y_true = senior,intermediate
+218,"Based on the provided job descriptions and classifications, I predict that the correct answer is:",senior
+219,"Based on the job descriptions, I would classify the following as senior roles:",intermediate
+220,"Based on the job descriptions, I predict that the classification for ""y_true = senior"" is most likely to be correct.",assistant
+221,"Based on the provided job descriptions and classification labels, I predict that the job title is ""Senior Electrical BIM Modeller - Contract role - Sydney"".",head
+222,"Based on the provided job descriptions, I would classify the following jobs as follows:",experienced
+223,"Based on the job descriptions, I would classify the following jobs as follows:",junior
+224,"Based on the job descriptions, I would classify the jobs as follows:",senior
+225,y_true = y_true,entry level
+226,"Based on the job descriptions, I would classify the following jobs as:",senior
+227,"Based on the provided job descriptions, I would classify the job titles as follows:",intermediate
+228,"Based on the provided information, I would classify the job title as ""y_true = lead""",experienced
+229,"Based on the job descriptions, I would classify the following jobs as follows:",experienced
+230,"Based on the job descriptions, I would classify the following jobs as:",entry level
+231,"Based on the job descriptions, I would classify the following jobs as follows:",senior
+232,y_true = senior,entry level
+233,y_true = senior,senior
+234,"Based on the provided job descriptions, I would classify the following jobs as follows:",entry level
+235,"Based on the provided information, I would classify the job titles as follows:",experienced
+236,y_true = senior,senior
+237,"Based on the job descriptions and requirements, I would categorize the following as y_true = senior:",experienced
+238,y_true = senior,experienced
+239,"Based on the job descriptions, I would classify the job titles as follows:",lead
+240,y_true = senior,experienced
+241,"Based on the job descriptions provided, I predict that the job title ""Quality Coordinator Registered Nurse - Aged care"" is classified as y_true = senior",associate director
+242,"Based on the job descriptions, I predict that the classification of the job titles are as follows:",intermediate
+243,"Based on the job descriptions, I would classify the following jobs as:",intermediate
+244,"Based on the job descriptions, I would classify the following jobs as follows:",intermediate
+245,"Based on the job descriptions, I would classify the following jobs as follows:",intermediate
+246,y_true = senior,experienced
+247,"Based on the job descriptions, I predict that the classification of job title ""Account Planner - The Mark Agency"" is y_true = junior",intermediate
+248,y_true = senior,intermediate
+249,y_true = senior,executive
+250,"Based on the job descriptions provided, I predict that the classification of ""y_true = senior"" is most likely to be assigned to the following jobs:",head
+251,y_true = senior,intermediate
+252,"Based on the provided job descriptions, I predict the classification for the following job titles:",senior
+253,"Based on the job descriptions, I would categorize the job titles as follows:",experienced
+254,y_true = intermediate,senior
+255,"Based on the job descriptions and classifications provided, I would classify the following jobs as follows:",intermediate
+256,y_true = senior,apprentice
+257,"Based on the job descriptions and requirements, I would classify the following job titles as follows:",intermediate
+258,"Based on the provided job descriptions, I would classify the following jobs as follows:",senior
+259,y_true = senior,experienced
+260,"Based on the job descriptions, I would categorize the following as y_true = senior:",experienced
+261,y_true = senior,experienced
+262,"Based on the job descriptions, I predict the following classification:",senior
+263,"Based on the provided job descriptions, I would classify the following jobs as follows:",senior
+264,y_true = senior,intermediate
+265,"Based on the provided information, I predict that the classification for ""y_true = senior"" is correct. Here's why:",experienced
+266,"Based on the job descriptions, I would classify the following jobs as follows:",intermediate
+267,"Based on the provided job descriptions and classifications, here are my predictions:",intermediate
+268,"Based on the job descriptions, I predict that the job titles are:",senior
+269,y_true = senior,principal
+270,"Based on the job descriptions, I predict that the classification for the job title ""Occupations Coordinator"" is:",intermediate
+271,"Based on the job descriptions, I would classify the following jobs as follows:",intermediate
+272,"Based on the job descriptions, I would classify the following jobs as follows:",intermediate
+273,"Based on the job descriptions, I would categorize the following jobs as follows:",intermediate
+274,"Based on the job descriptions and requirements, I would classify the job titles as follows:",experienced
+275,"Based on the job descriptions, I would classify the following jobs as y_true = experienced:",intermediate
+276,y_true = senior,experienced
+277,"Based on the job descriptions, I would categorize the following jobs as follows:",senior
+278,y_true = senior,junior
+279,"Based on the job descriptions, I would classify the following jobs as follows:",intermediate
+280,y_true = intermediate,experienced
+281,"Based on the job descriptions, I would categorize the following jobs as follows:",intermediate
+282,"Based on the job descriptions, I would classify the following as senior roles:",intermediate
+283,y_true = experienced,intermediate
+284,"Based on the provided job descriptions and classifications, I would categorize the following jobs as y_true = senior:",intermediate
+285,"Based on the provided job descriptions and classifications, I would classify the following jobs as:",intermediate
+286,y_true = senior,lead
+287,"Based on the provided job descriptions and classifications, I would categorize the following job titles as:",entry level
+288,"Based on the provided job descriptions, I predict the classification of the following jobs as follows:",experienced
+289,"Based on the job descriptions, I would categorize the following jobs as follows:",entry-level
+290,"Based on the job descriptions, I would classify the following jobs as follows:",senior
+291,"Based on the job descriptions provided, I predict that the classification for the job Title: Electrical BIM modeller - Contract role - Sydney is:",entry level
+292,y_true = intermediate,entry level
+293,"Based on the provided information, I predict that the classification_name = experienced",senior
+294,"Based on the job descriptions, I would categorize the following jobs as follows:",senior
+295,"Based on the job descriptions, I would classify the following jobs as follows:",principal
+296,y_true = senior,entry level
+297,"Based on the job descriptions, I predict that the classification of the job ""Job Title: Labourer ll Ipswich"" is y_true = junior",intermediate
+298,"Based on the job descriptions, I would classify the following jobs as follows:",intermediate
+299,"Based on the job descriptions, I would classify the job titles as follows:",experienced
+300,"Based on the job descriptions, I would classify the following jobs as:",experienced
+301,"Based on the job descriptions, I would classify the following jobs as follows:",experienced
+302,"Based on the job descriptions, I would classify the following jobs as follows:",senior
+303,y_true = y_true,experienced
+304,"Based on the job descriptions, I predict that the correct classification for the job titles are:",lead
+305,"Based on the job descriptions, I would classify the following as ""y_true = senior"":",intermediate
+306,y_true = senior,junior
+307,"Based on the job descriptions, I would classify the following jobs as follows:",experienced
+308,"Based on the job descriptions, I predict the following classifications:",experienced
+309,y_true = y_true,experienced
+310,"Based on the job descriptions, I would classify the following jobs as follows:",intermediate
+311,"Based on the provided information, I predict that the classification_name is y_true = experienced.",intermediate
+312,"Based on the job descriptions, I would classify the following jobs as follows:",intermediate
+313,"Based on the job descriptions, I would classify the following jobs as follows:",intermediate
+314,"Based on the provided job descriptions, I would categorize the following jobs as:",experienced
+315,y_true = y_true,intermediate
+316,y_true = senior,lead
+317,"Based on the provided job descriptions, I predict the classification of the job titles as follows:",experienced
+318,y_true = senior,senior
+319,"Based on the job descriptions, I would classify the following jobs as follows:",experienced
+320,y_true = y_true,entry level
+321,"Based on the job descriptions provided, I would classify the job titles as follows:",intermediate
+322,"Based on the job descriptions, I would classify the following jobs as follows:",junior
+323,"Based on the job descriptions, I would classify the following jobs as follows:",experienced
+324,"Based on the job descriptions, I would categorize the job titles as follows:",experienced
+325,"Based on the job descriptions, I would classify the following jobs as follows:",assistant
+326,y_true = intermediate,experienced
+327,"Based on the job descriptions, I would classify the following jobs as follows:",chief
+328,y_true = senior,assistant
+329,"Based on the job descriptions, I would categorize the following jobs as follows:",experienced
+330,"Based on the job descriptions, I predict that the classification_name = y_true = Experienced",senior
+331,"Based on the provided job descriptions, I would classify the job titles as follows:",senior
+332,"Based on the job descriptions, I would classify the job titles as follows:",graduate
+333,"Based on the job descriptions, I would categorize the classifications as follows:",senior
+334,y_true = intermediate,experienced
+335,y_true = senior,lead
+336,"Based on the provided job descriptions, I would categorize the job titles as follows:",experienced
+337,"Based on the job descriptions, I would classify the following jobs as follows:",intermediate
+338,"Based on the provided information, I would categorize the job titles as follows:",entry level
+339,"Based on the job descriptions, I would categorize the following jobs as ""y_true = senior"":",assistant
+340,"Based on the provided job descriptions, I would classify the jobs as follows:",intermediate
+341,y_true = y_true,entry level
+342,y_true = y_true,junior
+343,y_true = senior,director
+344,y_true = intermediate,head
+345,y_true = y_true,entry level
+346,y_true = senior,lead
+347,"Based on the job descriptions, I would categorize the following jobs as follows:",lead
+348,y_true = senior,entry level
+349,y_true = senior,head
+350,"Based on the provided job descriptions, I would classify the following jobs as follows:",experienced
+351,y_true = senior,experienced
+352,"Based on the provided job descriptions, I can classify the following jobs as follows:",assistant
+353,y_true = senior,junior
+354,"Based on the job descriptions, I would classify the following jobs as follows:",intermediate
+355,y_true = intermediate,associate
+356,"Based on the provided job descriptions, I would classify the following jobs as follows:",experienced
+357,"Based on the job descriptions, I would classify the following jobs as follows:",senior
+358,"Based on the provided job descriptions and classifications, I would categorize the following jobs as y_true = senior:",junior
+359,"Based on the job descriptions, I would classify the following jobs as follows:",principal
+360,"Based on the job descriptions, I would classify the following jobs as follows:",senior
+361,"Based on the provided job descriptions, I would categorize the following jobs as follows:",junior-to-intermediate
+362,"Based on the job descriptions, I predict that the correct classification for the job title ""Occupations Coordinator"" is ""y_true = experienced"".",intermediate
+363,y_true = y_true,entry level
+364,y_true = intermediate,junior
+365,"Based on the job descriptions, I would classify the following jobs as follows:",head
+366,"Based on the job descriptions, I would classify the job titles as follows:",assistant
+367,y_true = intermediate,experienced
+368,"Based on the provided job descriptions, I would categorize the following jobs as follows:",experienced
+369,y_true = senior,experienced
+370,y_true = senior,experienced
+371,y_true = senior,independent
+372,y_true = y_true,experienced
+373,"Based on the job descriptions provided, I would classify the following jobs as follows:",entry level
+374,y_true = intermediate,experienced
+375,"Based on the provided job descriptions and classifications, I would categorize the following jobs as follows:",experienced
+376,y_true = experienced,experienced
+377,"Based on the job descriptions, I predict that the classification_name = y_true = experienced",entry level
+378,"Based on the job descriptions, I would classify the following jobs as:",entry level
+379,"Based on the job descriptions, I would classify the following jobs as follows:",experienced
+380,"Based on the provided job descriptions, I would classify the job titles as follows:",intermediate
+381,y_true = senior,experienced
+382,"Based on the job descriptions provided, I predict that the classification of the job title ""Occupations Coordinator"" is:",experienced
+383,"Based on the job descriptions, I would classify the following jobs as:",experienced
+384,y_true = y_true,experienced
+385,"Based on the job descriptions, I predict the following:",intermediate
+386,"Based on the job descriptions, I predict that the classification of ""y_true = senior"" for the following job titles:",entry level
+387,"Based on the job descriptions, I would classify the following jobs as:",assistant
+388,y_true = senior,intermediate
+389,y_true = intermediate,entry level
+390,"Based on the job descriptions, I would classify the job titles as follows:",senior
+391,"Based on the provided job descriptions, I would classify the following jobs as follows:",intermediate
+392,"Based on the provided job descriptions, I would categorize them as follows:",senior
+393,"Based on the job descriptions, I would classify the following jobs as:",lead
+394,"Based on the job descriptions, I predict that the classification for Job Title: Electrical BIM modeller - Contract role - Sydney is:",experienced
+395,y_true = senior,lead
+396,"Based on the job descriptions, I predict the classification as follows:",intermediate
+397,"Based on the provided job descriptions and their corresponding seniority levels, I would classify the following jobs as follows:",senior
+398,"Based on the job descriptions, I would classify the job titles as follows:",intermediate
+399,"Based on the provided examples, here are my predictions for the classification and seniority of the job titles:",associate-director
+400,"Based on the job descriptions and requirements, I would classify the job titles as follows:",experienced
+401,"Based on the provided job descriptions and classifications, I would classify the job titles as follows:",senior
+402,"Based on the provided job descriptions, I predict that the classification for the job title ""Structural Engineer - Senior / Principal Level"" is likely ""y",senior
+403,"Based on the provided job descriptions and classifications, I would categorize the following as being classified as y_true = senior:",third-year apprentice
+404,y_true = senior,intermediate
+405,"Based on the job descriptions, I predict that the classification of ""y_true = experienced"" is most likely for the following reasons:",intermediate
+406,"Based on the job descriptions, I would classify the following jobs as follows:",associate
+407,"Based on the job descriptions, I predict that the classification for the job Title: Electrical BIM modeller - Contract role - Sydney is y_true =",experienced assistant
+408,"Based on the job descriptions, I predict the classification of the job titles as follows:",senior
+409,y_true = senior,entry level
+410,"Based on the job descriptions, I would classify the following as senior roles:",senior
+411,y_true = senior,senior
+412,y_true = y_true,entry level
+413,"Based on the job descriptions and requirements, I would classify the following jobs as follows:",experienced
+414,"Based on the job descriptions, I predict that the classification of ""y_true = experienced"" applies to all the job descriptions.",senior
+415,"Based on the job descriptions, I would classify the following jobs as follows:",head
+416,"Based on the provided job descriptions, I will classify them into the following categories:",early-career
+417,"Based on the provided job descriptions, I would classify the following jobs as:",experienced
+418,"Based on the job descriptions, I would classify the following jobs as follows:",experienced
+419,y_true = senior,intermediate
+420,"Based on the job descriptions provided, I would classify the following jobs as follows:",experienced
+421,y_true = senior,cadet
+422,"Based on the job descriptions, I would classify the following job titles as follows:",senior
+423,"Based on the job descriptions, I would categorize the jobs as follows:",senior
+424,"Based on the provided job descriptions and classifications, here are the predicted classifications for each job:",entry level
+425,y_true = y_true,entry level
+426,y_true = senior,experienced
+427,"Based on the job descriptions, I predict the classification of each job as follows:",assistant
+428,"Based on the provided job descriptions, I would classify the following jobs as follows:",experienced
+429,"Based on the job descriptions, I would categorize the following jobs as follows:",senior
+430,"Based on the provided job descriptions, I would classify the job titles as follows:",deputy
+431,"Based on the job descriptions, I predict that the correct classification for each job is:",principal
+432,"Based on the job descriptions provided, I predict that the classification for the job title ""Job Title: Electrical BIM modeller - Contract role - Sydney",intermediate
+433,"Based on the provided information, I would classify the job titles as follows:",intermediate
+434,y_true = senior,experienced
+435,y_true = senior,assistant
+436,"Based on the job descriptions, I predict that the correct answer is:",experienced
+437,y_true = senior,assistant
+438,y_true = senior,intermediate
+439,"Based on the job descriptions, I would classify the following jobs as follows:",assistant
+440,y_true = senior,lead
+441,y_true = senior,experienced
+442,y_true = senior,intermediate
+443,"Based on the job descriptions, I would classify the following jobs as follows:",experienced
+444,y_true = senior,experienced
+445,"Based on the job descriptions provided, I can classify the following jobs as follows:",senior
+446,y_true = senior,experienced
+447,"Based on the job descriptions provided, I would classify the following jobs as follows:",experienced
+448,"Based on the job descriptions, I would classify the following jobs as follows:",experienced
+449,"Based on the provided job descriptions, I predict that the correct classification for the job title ""Occupations Coordinator"" is:",entry level
+450,"Based on the provided job descriptions, I predict that the following are the classifications:",experienced
+451,y_true = senior,experienced
+452,"Based on the provided job descriptions, I will predict the classifications as follows:",experienced
+453,"Based on the job descriptions, I predict the classification for each job as follows:",trainee
+454,y_true = senior,entry level
+455,"Based on the job descriptions, I would classify the following as senior roles:",assistant
+456,y_true = senior,experienced
+457,"Based on the job descriptions provided, I would classify the jobs as follows:",assistant
+458,y_true = senior,executive
+459,y_true = intermediate,senior
+460,"Based on the job descriptions and requirements, I would classify the following jobs as:",intermediate
+461,y_true = senior,entry level
+462,"Based on the job descriptions, I would classify the following jobs as:",intermediate
+463,"Based on the provided job descriptions, I can predict the following:",intermediate
+464,"Based on the job descriptions, I would classify the following jobs as:",entry level
+465,y_true = senior,experienced
+466,"Based on the job descriptions, I would classify the following as senior roles:",intermediate
+467,"Based on the job descriptions, I would classify the following jobs as follows:",experienced
+468,"Based on the job descriptions, I predict that the classification of ""y_true = senior"" applies to the following job:",assistant
+469,y_true = senior,intermediate
+470,y_true = y_true,entry level
+471,"Based on the provided job descriptions, I would classify the following jobs as follows:",experienced
+472,"Based on the provided job descriptions and classifications, I would categorize the following jobs as follows:",experienced
+473,"Based on the job descriptions, I would classify the following as senior roles:",intermediate
+474,"Based on the job descriptions and the required skills and qualifications, I predict that the following classifications are most likely:",intermediate
+475,y_true = senior,senior
+476,"Based on the job descriptions, I would classify the job titles as follows:",associate director
+477,y_true = senior,intermediate
+478,y_true = y_true,senior
+479,"Based on the job descriptions, I would categorize the following jobs as follows:",trainee
+480,"Based on the job descriptions provided, I would classify the jobs as follows:",intermediate
+481,"Based on the job descriptions, I predict the following:",supervisor
+482,y_true = senior,intermediate
+483,"Based on the job descriptions, I would classify the following jobs as:",head
+484,y_true = senior,intermediate
+485,"Based on the job descriptions and requirements, I would categorize the following jobs as:",entry level
+486,"Based on the provided job descriptions, I would categorize the following jobs as follows:",trainee
+487,"Based on the job descriptions and requirements, I would classify the following jobs as follows:",experienced
+488,"Based on the job descriptions, I would classify the following jobs as follows:",intermediate
+489,"Based on the job descriptions, I would classify the following jobs as:",entry level
+490,"Based on the job descriptions, I would classify the job titles as follows:",intermediate
+491,y_true = y_true,experienced
+492,"Based on the job descriptions provided, I would classify the following jobs as follows:",experienced
+493,"Based on the provided job descriptions and classifications, I predict the job title, seniority, and classification of the following jobs:",associate
+494,"Based on the job descriptions, I would classify the jobs as follows:",intermediate
+495,y_true = senior,lead
+496,y_true = senior,intermediate
+497,y_true = senior,lead
+498,y_true = senior,lead
+499,"Based on the provided job descriptions, I would classify the following jobs as follows:",intermediate
+500,y_true = senior,intermediate
+501,"Based on the job descriptions, I predict that the classification for the job title ""Sales Associate - No.1 Agent on the Northern Beaches"" is",junior
+502,"Based on the job descriptions provided, I would categorize the job titles as follows:",intermediate
+503,"Based on the provided job descriptions, I would categorize the following jobs as follows:",experienced
+504,"Based on the job descriptions, I would classify the following as y_true = senior:",head
+505,"Based on the job descriptions, I would classify the following jobs as follows:",intermediate
+506,y_true = y_true,experienced
+507,"Based on the provided job descriptions, I would classify the following jobs as follows:",intermediate
+508,y_true = experienced,intermediate
+509,"Based on the job descriptions, I predict that the correct classification for the job titles are:",senior
+510,y_true = senior,intermediate
+511,y_true = senior,intermediate
+512,y_true = y_true,intermediate
+513,"Based on the job descriptions, I would categorize the following jobs as follows:",cadet
+514,y_true = senior,intermediate
+515,y_true = y_true,experienced
+516,y_true = intermediate,experienced
+517,"Based on the job descriptions, I would classify the following jobs as:",senior
+518,"Based on the provided job descriptions, I would categorize the job titles as follows:",senior/principal
+519,"Based on the job descriptions, I would classify the following jobs as follows:",senior
+520,y_true = intermediate,senior
+521,"Based on the job descriptions, I would classify the following jobs as:",intermediate
+522,"Based on the job descriptions, I predict that the classification of ""y_true = senior"" for the following jobs:",experienced
+523,"Based on the job descriptions and requirements, I would categorize the following jobs as follows:",entry level
+524,"Based on the job descriptions, I predict the following classification:",experienced
+525,"Based on the job descriptions, I would categorize the following jobs as follows:",experienced
+526,"Based on the provided job descriptions and classifications, I would classify the following jobs as follows:",principal
+527,y_true = experienced,head
+528,"Based on the provided job descriptions, I would classify the following as y_true = senior:",executive
+529,"Based on the job descriptions provided, here are the classifications for each job:",intermediate
+530,"Based on the job descriptions, I predict that the correct classification for the job title ""Occupations Coordinator"" is:",senior
+531,"Based on the provided job descriptions and classifications, I predict that the job title ""Occupations Coordinator"" in the example 8 is classified as ""y",intermediate
+532,"Based on the job descriptions, I would classify the following jobs as:",experienced
+533,"Based on the job descriptions, I would classify the following as y_true = senior:",intermediate
+534,y_true = senior,experienced
+535,y_true = senior,intermediate management
+536,y_true = senior,junior
+537,"Based on the job descriptions, I would classify the following jobs as follows:",experienced
+538,y_true = senior,experienced
+539,"Based on the job descriptions provided, I would classify the job titles as follows:",intermediate
+540,y_true = experienced,senior
+541,"Based on the job descriptions, I predict that the classification of ""y_true = junior"" for the following reasons:",intermediate
+542,y_true = lead,experienced
+543,y_true = senior,entry level
+544,"Based on the job descriptions, I would classify the following jobs as follows:",director
+545,"Based on the provided job descriptions, I would categorize the jobs as follows:",experienced
+546,"Based on the job descriptions, I predict that the correct classification for the job title ""Electrical/Communications Design Draftsperson"" is:",entry level
+547,"Based on the job descriptions, I would categorize the following jobs as follows:",senior
+548,"Based on the job descriptions, I would categorize the following jobs as follows:",experienced
+549,"Based on the job descriptions, I would classify the following jobs as follows:",experienced
+550,"Based on the job descriptions and qualifications, I would categorize the job titles as follows:",graduate
+551,"Based on the job descriptions, I would classify the following jobs as:",senior lead
+552,"Based on the job descriptions, I would classify the following jobs as follows:",intermediate
+553,"Based on the job descriptions, I would classify the following as senior roles:",intermediate
+554,"Based on the job descriptions, I predict that the classification of the job titles are:",entry level
+555,"Based on the provided information, I predict the classification of the job title as follows:",senior
+556,"Based on the job descriptions, I would classify the following jobs as follows:",head
+557,"Based on the job descriptions, I would classify the following jobs as follows:",experienced
+558,y_true = intermediate,intermediate
+559,"Based on the job descriptions, I would classify the following jobs as follows:",senior
+560,"Based on the job descriptions provided, here are the classifications for each job:",experienced
+561,"Based on the job descriptions and requirements, I would classify the following job as ""y_true = senior"":",experienced
+562,y_true = senior,intermediate
+563,"Based on the job descriptions, I would classify the job titles as follows:",entry level
+564,"Based on the job descriptions, I predict the following classifications for each job:",experienced
+565,y_true = senior,experienced
+566,y_true = senior,trainee
+567,"Based on the provided job descriptions and their corresponding seniorities, I would classify the following as follows:",experienced
+568,y_true = senior,lead
+569,y_true = senior,experienced
+570,"Based on the provided job descriptions, I would classify the following jobs as follows:",experienced
+571,"Based on the job descriptions, I predict that the correct answer is:",experienced
+572,"Based on the provided job descriptions, I would categorize the following jobs as follows:",entry level
+573,"Based on the job descriptions, I would classify the jobs as follows:",experienced
+574,"Based on the job descriptions, I would classify the following jobs as follows:",experienced
+575,y_true = intermediate,intermediate
+576,"Based on the job descriptions, I predict that the correct classification for the job titles are:",lead
+577,"Based on the provided information, I would classify the job titles as follows:",intermediate
+578,y_true = senior,intermediate
+579,"Based on the job descriptions, I would classify the following jobs as follows:",intermediate
+580,y_true = senior,experienced
+581,"Based on the job descriptions, I would classify the following jobs as ""y_true = senior"":",experienced
+582,"Based on the provided job descriptions, I predict the classification of the job titles as follows:",senior
+583,"Based on the provided job descriptions and classification labels, I predict that the correct answer is:",head
+584,"Based on the provided information, I predict that the classification_name is ""Engineering"" and subclassification_name is ""Manufacturing, Transport & Logistics"".",experienced
+585,"Based on the job descriptions and the classification labels, I would predict that the job title is ""Head of Engineering"".",lead
+586,"Based on the job descriptions, I predict that the classification_name = Engineering",entry level
+587,y_true = intermediate,intermediate
+588,y_true = y_true,entry level
+589,"Based on the provided job descriptions, I would categorize them as follows:",senior
+590,y_true = senior,senior
+591,"Based on the job descriptions and the classification labels, I would predict that the job title is:",senior
+592,"Based on the job descriptions, I would classify the job titles as follows:",experienced
+593,"Based on the provided job descriptions, I would classify the job titles as follows:",senior
+594,y_true = senior,senior
+595,"Based on the provided examples, I would classify the job descriptions as follows:",intermediate
+596,y_true = senior,director
+597,y_true = y_true,experienced
+598,y_true = senior,senior
+599,"Based on the provided job descriptions, I would classify the job titles as follows:",senior
